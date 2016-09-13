@@ -1,0 +1,2547 @@
+# http://ideonomy.mit.edu/essays/traits.html
+
+-
+    name: Accessible
+    key: accessible
+    polarity: positive
+-
+    name: Active
+    key: active
+    polarity: positive
+-
+    name: Adaptable
+    key: adaptable
+    polarity: positive
+-
+    name: Admirable
+    key: admirable
+    polarity: positive
+-
+    name: Adventurous
+    key: adventurous
+    polarity: positive
+-
+    name: Agreeable
+    key: agreeable
+    polarity: positive
+-
+    name: Alert
+    key: alert
+    polarity: positive
+-
+    name: Allocentric
+    key: allocentric
+    polarity: positive
+-
+    name: Amiable
+    key: amiable
+    polarity: positive
+-
+    name: Anticipative
+    key: anticipative
+    polarity: positive
+-
+    name: Appreciative
+    key: appreciative
+    polarity: positive
+-
+    name: Articulate
+    key: articulate
+    polarity: positive
+-
+    name: Aspiring
+    key: aspiring
+    polarity: positive
+-
+    name: Athletic
+    key: athletic
+    polarity: positive
+-
+    name: Attractive
+    key: attractive
+    polarity: positive
+-
+    name: Balanced
+    key: balanced
+    polarity: positive
+-
+    name: Benevolent
+    key: benevolent
+    polarity: positive
+-
+    name: Brilliant
+    key: brilliant
+    polarity: positive
+-
+    name: Calm
+    key: calm
+    polarity: positive
+-
+    name: Capable
+    key: capable
+    polarity: positive
+-
+    name: Captivating
+    key: captivating
+    polarity: positive
+-
+    name: Caring
+    key: caring
+    polarity: positive
+-
+    name: Challenging
+    key: challenging
+    polarity: positive
+-
+    name: Charismatic
+    key: charismatic
+    polarity: positive
+-
+    name: Charming
+    key: charming
+    polarity: positive
+-
+    name: Cheerful
+    key: cheerful
+    polarity: positive
+-
+    name: Clean
+    key: clean
+    polarity: positive
+-
+    name: Clear-headed
+    key: clear_headed
+    polarity: positive
+-
+    name: Clever
+    key: clever
+    polarity: positive
+-
+    name: Colorful
+    key: colorful
+    polarity: positive
+-
+    name: Companionly
+    key: companionly
+    polarity: positive
+-
+    name: Compassionate
+    key: compassionate
+    polarity: positive
+-
+    name: Conciliatory
+    key: conciliatory
+    polarity: positive
+-
+    name: Confident
+    key: confident
+    polarity: positive
+-
+    name: Conscientious
+    key: conscientious
+    polarity: positive
+-
+    name: Considerate
+    key: considerate
+    polarity: positive
+-
+    name: Constant
+    key: constant
+    polarity: positive
+-
+    name: Contemplative
+    key: contemplative
+    polarity: positive
+-
+    name: Cooperative
+    key: cooperative
+    polarity: positive
+-
+    name: Courageous
+    key: courageous
+    polarity: positive
+-
+    name: Courteous
+    key: courteous
+    polarity: positive
+-
+    name: Creative
+    key: creative
+    polarity: positive
+-
+    name: Cultured
+    key: cultured
+    polarity: positive
+-
+    name: Curious
+    key: curious
+    polarity: positive
+-
+    name: Daring
+    key: daring
+    polarity: positive
+-
+    name: Debonair
+    key: debonair
+    polarity: positive
+-
+    name: Decent
+    key: decent
+    polarity: positive
+-
+    name: Decisive
+    key: decisive
+    polarity: positive
+-
+    name: Dedicated
+    key: dedicated
+    polarity: positive
+-
+    name: Deep
+    key: deep
+    polarity: positive
+-
+    name: Dignified
+    key: dignified
+    polarity: positive
+-
+    name: Directed
+    key: directed
+    polarity: positive
+-
+    name: Disciplined
+    key: disciplined
+    polarity: positive
+-
+    name: Discreet
+    key: discreet
+    polarity: positive
+-
+    name: Dramatic
+    key: dramatic
+    polarity: positive
+-
+    name: Dutiful
+    key: dutiful
+    polarity: positive
+-
+    name: Dynamic
+    key: dynamic
+    polarity: positive
+-
+    name: Earnest
+    key: earnest
+    polarity: positive
+-
+    name: Ebullient
+    key: ebullient
+    polarity: positive
+-
+    name: Educated
+    key: educated
+    polarity: positive
+-
+    name: Efficient
+    key: efficient
+    polarity: positive
+-
+    name: Elegant
+    key: elegant
+    polarity: positive
+-
+    name: Eloquent
+    key: eloquent
+    polarity: positive
+-
+    name: Empathetic
+    key: empathetic
+    polarity: positive
+-
+    name: Energetic
+    key: energetic
+    polarity: positive
+-
+    name: Enthusiastic
+    key: enthusiastic
+    polarity: positive
+-
+    name: Esthetic
+    key: esthetic
+    polarity: positive
+-
+    name: Exciting
+    key: exciting
+    polarity: positive
+-
+    name: Extraordinary
+    key: extraordinary
+    polarity: positive
+-
+    name: Fair
+    key: fair
+    polarity: positive
+-
+    name: Faithful
+    key: faithful
+    polarity: positive
+-
+    name: Farsighted
+    key: farsighted
+    polarity: positive
+-
+    name: Felicific
+    key: felicific
+    polarity: positive
+-
+    name: Firm
+    key: firm
+    polarity: positive
+-
+    name: Flexible
+    key: flexible
+    polarity: positive
+-
+    name: Focused
+    key: focused
+    polarity: positive
+-
+    name: Forecful
+    key: forecful
+    polarity: positive
+-
+    name: Forgiving
+    key: forgiving
+    polarity: positive
+-
+    name: Forthright
+    key: forthright
+    polarity: positive
+-
+    name: Freethinking
+    key: freethinking
+    polarity: positive
+-
+    name: Friendly
+    key: friendly
+    polarity: positive
+-
+    name: Fun-loving
+    key: fun_loving
+    polarity: positive
+-
+    name: Gallant
+    key: gallant
+    polarity: positive
+-
+    name: Generous
+    key: generous
+    polarity: positive
+-
+    name: Gentle
+    key: gentle
+    polarity: positive
+-
+    name: Genuine
+    key: genuine
+    polarity: positive
+-
+    name: Good-natured
+    key: good_natured
+    polarity: positive
+-
+    name: Gracious
+    key: gracious
+    polarity: positive
+-
+    name: Hardworking
+    key: hardworking
+    polarity: positive
+-
+    name: Healthy
+    key: healthy
+    polarity: positive
+-
+    name: Hearty
+    key: hearty
+    polarity: positive
+-
+    name: Helpful
+    key: helpful
+    polarity: positive
+-
+    name: Herioc
+    key: herioc
+    polarity: positive
+-
+    name: High-minded
+    key: high_minded
+    polarity: positive
+-
+    name: Honest
+    key: honest
+    polarity: positive
+-
+    name: Honorable
+    key: honorable
+    polarity: positive
+-
+    name: Humble
+    key: humble
+    polarity: positive
+-
+    name: Humorous
+    key: humorous
+    polarity: positive
+-
+    name: Idealistic
+    key: idealistic
+    polarity: positive
+-
+    name: Imaginative
+    key: imaginative
+    polarity: positive
+-
+    name: Impressive
+    key: impressive
+    polarity: positive
+-
+    name: Incisive
+    key: incisive
+    polarity: positive
+-
+    name: Incorruptible
+    key: incorruptible
+    polarity: positive
+-
+    name: Independent
+    key: independent
+    polarity: positive
+-
+    name: Individualistic
+    key: individualistic
+    polarity: positive
+-
+    name: Innovative
+    key: innovative
+    polarity: positive
+-
+    name: Inoffensive
+    key: inoffensive
+    polarity: positive
+-
+    name: Insightful
+    key: insightful
+    polarity: positive
+-
+    name: Insouciant
+    key: insouciant
+    polarity: positive
+-
+    name: Intelligent
+    key: intelligent
+    polarity: positive
+-
+    name: Intuitive
+    key: intuitive
+    polarity: positive
+-
+    name: Invulnerable
+    key: invulnerable
+    polarity: positive
+-
+    name: Kind
+    key: kind
+    polarity: positive
+-
+    name: Knowledge
+    key: knowledge
+    polarity: positive
+-
+    name: Leaderly
+    key: leaderly
+    polarity: positive
+-
+    name: Leisurely
+    key: leisurely
+    polarity: positive
+-
+    name: Liberal
+    key: liberal
+    polarity: positive
+-
+    name: Logical
+    key: logical
+    polarity: positive
+-
+    name: Lovable
+    key: lovable
+    polarity: positive
+-
+    name: Loyal
+    key: loyal
+    polarity: positive
+-
+    name: Lyrical
+    key: lyrical
+    polarity: positive
+-
+    name: Magnanimous
+    key: magnanimous
+    polarity: positive
+-
+    name: Many-sided
+    key: many_sided
+    polarity: positive
+-
+    name: Masculine
+    key: masculine
+    alias: Manly
+    polarity: positive
+-
+    name: Mature
+    key: mature
+    polarity: positive
+-
+    name: Methodical
+    key: methodical
+    polarity: positive
+-
+    name: Maticulous
+    key: maticulous
+    polarity: positive
+-
+    name: Moderate
+    key: moderate
+    polarity: positive
+-
+    name: Modest
+    key: modest
+    polarity: positive
+-
+    name: Multi-leveled
+    key: multi_leveled
+    polarity: positive
+-
+    name: Neat
+    key: neat
+    polarity: positive
+-
+    name: Nonauthoritarian
+    key: nonauthoritarian
+    polarity: positive
+-
+    name: Objective
+    key: objective
+    polarity: positive
+-
+    name: Observant
+    key: observant
+    polarity: positive
+-
+    name: Open
+    key: open
+    polarity: positive
+-
+    name: Optimistic
+    key: optimistic
+    polarity: positive
+-
+    name: Orderly
+    key: orderly
+    polarity: positive
+-
+    name: Organized
+    key: organized
+    polarity: positive
+-
+    name: Original
+    key: original
+    polarity: positive
+-
+    name: Painstaking
+    key: painstaking
+    polarity: positive
+-
+    name: Passionate
+    key: passionate
+    polarity: positive
+-
+    name: Patient
+    key: patient
+    polarity: positive
+-
+    name: Patriotic
+    key: patriotic
+    polarity: positive
+-
+    name: Peaceful
+    key: peaceful
+    polarity: positive
+-
+    name: Perceptive
+    key: perceptive
+    polarity: positive
+-
+    name: Perfectionist
+    key: perfectionist
+    polarity: positive
+-
+    name: Personable
+    key: personable
+    polarity: positive
+-
+    name: Persuasive
+    key: persuasive
+    polarity: positive
+-
+    name: Planful
+    key: planful
+    polarity: positive
+-
+    name: Playful
+    key: playful
+    polarity: positive
+-
+    name: Polished
+    key: polished
+    polarity: positive
+-
+    name: Popular
+    key: popular
+    polarity: positive
+-
+    name: Practical
+    key: practical
+    polarity: positive
+-
+    name: Precise
+    key: precise
+    polarity: positive
+-
+    name: Principled
+    key: principled
+    polarity: positive
+-
+    name: Profound
+    key: profound
+    polarity: positive
+-
+    name: Protean
+    key: protean
+    polarity: positive
+-
+    name: Protective
+    key: protective
+    polarity: positive
+-
+    name: Providential
+    key: providential
+    polarity: positive
+-
+    name: Prudent
+    key: prudent
+    polarity: positive
+-
+    name: Punctual
+    key: punctual
+    polarity: positive
+-
+    name: Pruposeful
+    key: pruposeful
+    polarity: positive
+-
+    name: Rational
+    key: rational
+    polarity: positive
+-
+    name: Realistic
+    key: realistic
+    polarity: positive
+-
+    name: Reflective
+    key: reflective
+    polarity: positive
+-
+    name: Relaxed
+    key: relaxed
+    polarity: positive
+-
+    name: Reliable
+    key: reliable
+    polarity: positive
+-
+    name: Resourceful
+    key: resourceful
+    polarity: positive
+-
+    name: Respectful
+    key: respectful
+    polarity: positive
+-
+    name: Responsible
+    key: responsible
+    polarity: positive
+-
+    name: Responsive
+    key: responsive
+    polarity: positive
+-
+    name: Reverential
+    key: reverential
+    polarity: positive
+-
+    name: Romantic
+    key: romantic
+    polarity: positive
+-
+    name: Rustic
+    key: rustic
+    polarity: positive
+-
+    name: Sage
+    key: sage
+    polarity: positive
+-
+    name: Sane
+    key: sane
+    polarity: positive
+-
+    name: Scholarly
+    key: scholarly
+    polarity: positive
+-
+    name: Scrupulous
+    key: scrupulous
+    polarity: positive
+-
+    name: Secure
+    key: secure
+    polarity: positive
+-
+    name: Selfless
+    key: selfless
+    polarity: positive
+-
+    name: Self-critical
+    key: self_critical
+    polarity: positive
+-
+    name: Self-defacing
+    key: self_defacing
+    polarity: positive
+-
+    name: Self-denying
+    key: self_denying
+    polarity: positive
+-
+    name: Self-reliant
+    key: self_reliant
+    polarity: positive
+-
+    name: Self-sufficent
+    key: self_sufficent
+    polarity: positive
+-
+    name: Sensitive
+    key: sensitive
+    polarity: positive
+-
+    name: Sentimental
+    key: sentimental
+    polarity: positive
+-
+    name: Seraphic
+    key: seraphic
+    polarity: positive
+-
+    name: Serious
+    key: serious
+    polarity: positive
+-
+    name: Sexy
+    key: sexy
+    polarity: positive
+-
+    name: Sharing
+    key: sharing
+    polarity: positive
+-
+    name: Shrewd
+    key: shrewd
+    polarity: positive
+-
+    name: Simple
+    key: simple
+    polarity: positive
+-
+    name: Skillful
+    key: skillful
+    polarity: positive
+-
+    name: Sober
+    key: sober
+    polarity: positive
+-
+    name: Sociable
+    key: sociable
+    polarity: positive
+-
+    name: Solid
+    key: solid
+    polarity: positive
+-
+    name: Sophisticated
+    key: sophisticated
+    polarity: positive
+-
+    name: Spontaneous
+    key: spontaneous
+    polarity: positive
+-
+    name: Sporting
+    key: sporting
+    polarity: positive
+-
+    name: Stable
+    key: stable
+    polarity: positive
+-
+    name: Steadfast
+    key: steadfast
+    polarity: positive
+-
+    name: Steady
+    key: steady
+    polarity: positive
+-
+    name: Stoic
+    key: stoic
+    polarity: positive
+-
+    name: Strong
+    key: strong
+    polarity: positive
+-
+    name: Studious
+    key: studious
+    polarity: positive
+-
+    name: Suave
+    key: suave
+    polarity: positive
+-
+    name: Subtle
+    key: subtle
+    polarity: positive
+-
+    name: Sweet
+    key: sweet
+    polarity: positive
+-
+    name: Sympathetic
+    key: sympathetic
+    polarity: positive
+-
+    name: Systematic
+    key: systematic
+    polarity: positive
+-
+    name: Tasteful
+    key: tasteful
+    polarity: positive
+-
+    name: Teacherly
+    key: teacherly
+    polarity: positive
+-
+    name: Thorough
+    key: thorough
+    polarity: positive
+-
+    name: Tidy
+    key: tidy
+    polarity: positive
+-
+    name: Tolerant
+    key: tolerant
+    polarity: positive
+-
+    name: Tractable
+    key: tractable
+    polarity: positive
+-
+    name: Trusting
+    key: trusting
+    polarity: positive
+-
+    name: Uncomplaining
+    key: uncomplaining
+    polarity: positive
+-
+    name: Understanding
+    key: understanding
+    polarity: positive
+-
+    name: Undogmatic
+    key: undogmatic
+    polarity: positive
+-
+    name: Unfoolable
+    key: unfoolable
+    polarity: positive
+-
+    name: Upright
+    key: upright
+    polarity: positive
+-
+    name: Venturesome
+    key: venturesome
+    polarity: positive
+-
+    name: Vivacious
+    key: vivacious
+    polarity: positive
+-
+    name: Warm
+    key: warm
+    polarity: positive
+-
+    name: Well-bred
+    key: well_bred
+    polarity: positive
+-
+    name: Well-read
+    key: well_read
+    polarity: positive
+-
+    name: Well-rounded
+    key: well_rounded
+    polarity: positive
+-
+    name: Winning
+    key: winning
+    polarity: positive
+-
+    name: Wise
+    key: wise
+    polarity: positive
+-
+    name: Witty
+    key: witty
+    polarity: positive
+-
+    name: Youthful
+    key: youthful
+    polarity: positive
+-
+    name: Absentminded
+    key: absentminded
+    polarity: neutral
+-
+    name: Aggressive
+    key: aggressive
+    polarity: neutral
+-
+    name: Ambitious
+    key: ambitious
+    polarity: neutral
+-
+    name: Amusing
+    key: amusing
+    polarity: neutral
+-
+    name: Artful
+    key: artful
+    polarity: neutral
+-
+    name: Ascetic
+    key: ascetic
+    polarity: neutral
+-
+    name: Authoritarian
+    key: authoritarian
+    polarity: neutral
+-
+    name: Big-thinking
+    key: big_thinking
+    polarity: neutral
+-
+    name: Boyish
+    key: boyish
+    polarity: neutral
+-
+    name: Breezy
+    key: breezy
+    polarity: neutral
+-
+    name: Businesslike
+    key: businesslike
+    polarity: neutral
+-
+    name: Busy
+    key: busy
+    polarity: neutral
+-
+    name: Casual
+    key: casual
+    polarity: neutral
+-
+    name: Crebral
+    key: crebral
+    polarity: neutral
+-
+    name: Chummy
+    key: chummy
+    polarity: neutral
+-
+    name: Circumspect
+    key: circumspect
+    polarity: neutral
+-
+    name: Competitive
+    key: competitive
+    polarity: neutral
+-
+    name: Complex
+    key: complex
+    polarity: neutral
+-
+    name: Confidential
+    key: confidential
+    polarity: neutral
+-
+    name: Conservative
+    key: conservative
+    polarity: neutral
+-
+    name: Contradictory
+    key: contradictory
+    polarity: neutral
+-
+    name: Crisp
+    key: crisp
+    polarity: neutral
+-
+    name: Cute
+    key: cute
+    polarity: neutral
+-
+    name: Deceptive
+    key: deceptive
+    polarity: neutral
+-
+    name: Determined
+    key: determined
+    polarity: neutral
+-
+    name: Dominating
+    key: dominating
+    polarity: neutral
+-
+    name: Dreamy
+    key: dreamy
+    polarity: neutral
+-
+    name: Driving
+    key: driving
+    polarity: neutral
+-
+    name: Droll
+    key: droll
+    polarity: neutral
+-
+    name: Dry
+    key: dry
+    polarity: neutral
+-
+    name: Earthy
+    key: earthy
+    polarity: neutral
+-
+    name: Effeminate
+    key: effeminate
+    polarity: neutral
+-
+    name: Emotional
+    key: emotional
+    polarity: neutral
+-
+    name: Enigmatic
+    key: enigmatic
+    polarity: neutral
+-
+    name: Experimental
+    key: experimental
+    polarity: neutral
+-
+    name: Familial
+    key: familial
+    polarity: neutral
+-
+    name: Folksy
+    key: folksy
+    polarity: neutral
+-
+    name: Formal
+    key: formal
+    polarity: neutral
+-
+    name: Freewheeling
+    key: freewheeling
+    polarity: neutral
+-
+    name: Frugal
+    key: frugal
+    polarity: neutral
+-
+    name: Glamorous
+    key: glamorous
+    polarity: neutral
+-
+    name: Guileless
+    key: guileless
+    polarity: neutral
+-
+    name: High-spirited
+    key: high_spirited
+    polarity: neutral
+-
+    name: Huried
+    key: huried
+    polarity: neutral
+-
+    name: Hypnotic
+    key: hypnotic
+    polarity: neutral
+-
+    name: Iconoclastic
+    key: iconoclastic
+    polarity: neutral
+-
+    name: Idiosyncratic
+    key: idiosyncratic
+    polarity: neutral
+-
+    name: Impassive
+    key: impassive
+    polarity: neutral
+-
+    name: Impersonal
+    key: impersonal
+    polarity: neutral
+-
+    name: Impressionable
+    key: impressionable
+    polarity: neutral
+-
+    name: Intense
+    key: intense
+    polarity: neutral
+-
+    name: Invisible
+    key: invisible
+    polarity: neutral
+-
+    name: Irreligious
+    key: irreligious
+    polarity: neutral
+-
+    name: Irreverent
+    key: irreverent
+    polarity: neutral
+-
+    name: Maternal
+    key: maternal
+    polarity: neutral
+-
+    name: Mellow
+    key: mellow
+    polarity: neutral
+-
+    name: Modern
+    key: modern
+    polarity: neutral
+-
+    name: Moralistic
+    key: moralistic
+    polarity: neutral
+-
+    name: Mystical
+    key: mystical
+    polarity: neutral
+-
+    name: Neutral
+    key: neutral
+    polarity: neutral
+-
+    name: Noncommittal
+    key: noncommittal
+    polarity: neutral
+-
+    name: Noncompetitive
+    key: noncompetitive
+    polarity: neutral
+-
+    name: Obedient
+    key: obedient
+    polarity: neutral
+-
+    name: Old-fashined
+    key: old_fashined
+    polarity: neutral
+-
+    name: Ordinary
+    key: ordinary
+    polarity: neutral
+-
+    name: Outspoken
+    key: outspoken
+    polarity: neutral
+-
+    name: Paternalistic
+    key: paternalistic
+    polarity: neutral
+-
+    name: Physical
+    key: physical
+    polarity: neutral
+-
+    name: Placid
+    key: placid
+    polarity: neutral
+-
+    name: Political
+    key: political
+    polarity: neutral
+-
+    name: Predictable
+    key: predictable
+    polarity: neutral
+-
+    name: Preoccupied
+    key: preoccupied
+    polarity: neutral
+-
+    name: Private
+    key: private
+    polarity: neutral
+-
+    name: Progressive
+    key: progressive
+    polarity: neutral
+-
+    name: Proud
+    key: proud
+    polarity: neutral
+-
+    name: Pure
+    key: pure
+    polarity: neutral
+-
+    name: Questioning
+    key: questioning
+    polarity: neutral
+-
+    name: Quiet
+    key: quiet
+    polarity: neutral
+-
+    name: Religious
+    key: religious
+    polarity: neutral
+-
+    name: Reserved
+    key: reserved
+    polarity: neutral
+-
+    name: Restrained
+    key: restrained
+    polarity: neutral
+-
+    name: Retiring
+    key: retiring
+    polarity: neutral
+-
+    name: Sarcastic
+    key: sarcastic
+    polarity: neutral
+-
+    name: Self-conscious
+    key: self_conscious
+    polarity: neutral
+-
+    name: Sensual
+    key: sensual
+    polarity: neutral
+-
+    name: Skeptical
+    key: skeptical
+    polarity: neutral
+-
+    name: Smooth
+    key: smooth
+    polarity: neutral
+-
+    name: Soft
+    key: soft
+    polarity: neutral
+-
+    name: Solemn
+    key: solemn
+    polarity: neutral
+-
+    name: Solitary
+    key: solitary
+    polarity: neutral
+-
+    name: Stern
+    key: stern
+    polarity: neutral
+-
+    name: Stoiid
+    key: stoiid
+    polarity: neutral
+-
+    name: Strict
+    key: strict
+    polarity: neutral
+-
+    name: Stubborn
+    key: stubborn
+    polarity: neutral
+-
+    name: Stylish
+    key: stylish
+    polarity: neutral
+-
+    name: Subjective
+    key: subjective
+    polarity: neutral
+-
+    name: Surprising
+    key: surprising
+    polarity: neutral
+-
+    name: Soft
+    key: soft
+    polarity: neutral
+-
+    name: Tough
+    key: tough
+    polarity: neutral
+-
+    name: Unaggressive
+    key: unaggressive
+    polarity: neutral
+-
+    name: Unambitious
+    key: unambitious
+    polarity: neutral
+-
+    name: Unceremonious
+    key: unceremonious
+    polarity: neutral
+-
+    name: Unchanging
+    key: unchanging
+    polarity: neutral
+-
+    name: Undemanding
+    key: undemanding
+    polarity: neutral
+-
+    name: Unfathomable
+    key: unfathomable
+    polarity: neutral
+-
+    name: Unhurried
+    key: unhurried
+    polarity: neutral
+-
+    name: Uninhibited
+    key: uninhibited
+    polarity: neutral
+-
+    name: Unpatriotic
+    key: unpatriotic
+    polarity: neutral
+-
+    name: Unpredicatable
+    key: unpredicatable
+    polarity: neutral
+-
+    name: Unreligious
+    key: unreligious
+    polarity: neutral
+-
+    name: Unsentimental
+    key: unsentimental
+    polarity: neutral
+-
+    name: Whimsical
+    key: whimsical
+    polarity: neutral
+-
+    name: Abrasive
+    key: abrasive
+    polarity: negative
+-
+    name: Abrupt
+    key: abrupt
+    polarity: negative
+-
+    name: Agonizing
+    key: agonizing
+    polarity: negative
+-
+    name: Aimless
+    key: aimless
+    polarity: negative
+-
+    name: Airy
+    key: airy
+    polarity: negative
+-
+    name: Aloof
+    key: aloof
+    polarity: negative
+-
+    name: Amoral
+    key: amoral
+    polarity: negative
+-
+    name: Angry
+    key: angry
+    polarity: negative
+-
+    name: Anxious
+    key: anxious
+    polarity: negative
+-
+    name: Apathetic
+    key: apathetic
+    polarity: negative
+-
+    name: Arbitrary
+    key: arbitrary
+    polarity: negative
+-
+    name: Argumentative
+    key: argumentative
+    polarity: negative
+-
+    name: Arrogantt
+    key: arrogantt
+    polarity: negative
+-
+    name: Artificial
+    key: artificial
+    polarity: negative
+-
+    name: Asocial
+    key: asocial
+    polarity: negative
+-
+    name: Assertive
+    key: assertive
+    polarity: negative
+-
+    name: Astigmatic
+    key: astigmatic
+    polarity: negative
+-
+    name: Barbaric
+    key: barbaric
+    polarity: negative
+-
+    name: Bewildered
+    key: bewildered
+    polarity: negative
+-
+    name: Bizarre
+    key: bizarre
+    polarity: negative
+-
+    name: Bland
+    key: bland
+    polarity: negative
+-
+    name: Blunt
+    key: blunt
+    polarity: negative
+-
+    name: Biosterous
+    key: biosterous
+    polarity: negative
+-
+    name: Brittle
+    key: brittle
+    polarity: negative
+-
+    name: Brutal
+    key: brutal
+    polarity: negative
+-
+    name: Calculating
+    key: calculating
+    polarity: negative
+-
+    name: Callous
+    key: callous
+    polarity: negative
+-
+    name: Cantakerous
+    key: cantakerous
+    polarity: negative
+-
+    name: Careless
+    key: careless
+    polarity: negative
+-
+    name: Cautious
+    key: cautious
+    polarity: negative
+-
+    name: Charmless
+    key: charmless
+    polarity: negative
+-
+    name: Childish
+    key: childish
+    polarity: negative
+-
+    name: Clumsy
+    key: clumsy
+    polarity: negative
+-
+    name: Coarse
+    key: coarse
+    polarity: negative
+-
+    name: Cold
+    key: cold
+    polarity: negative
+-
+    name: Colorless
+    key: colorless
+    polarity: negative
+-
+    name: Complacent
+    key: complacent
+    polarity: negative
+-
+    name: Complaintive
+    key: complaintive
+    polarity: negative
+-
+    name: Compulsive
+    key: compulsive
+    polarity: negative
+-
+    name: Conceited
+    key: conceited
+    polarity: negative
+-
+    name: Condemnatory
+    key: condemnatory
+    polarity: negative
+-
+    name: Conformist
+    key: conformist
+    polarity: negative
+-
+    name: Confused
+    key: confused
+    polarity: negative
+-
+    name: Contemptible
+    key: contemptible
+    polarity: negative
+-
+    name: Conventional
+    key: conventional
+    polarity: negative
+-
+    name: Cowardly
+    key: cowardly
+    polarity: negative
+-
+    name: Crafty
+    key: crafty
+    polarity: negative
+-
+    name: Crass
+    key: crass
+    polarity: negative
+-
+    name: Crazy
+    key: crazy
+    polarity: negative
+-
+    name: Criminal
+    key: criminal
+    polarity: negative
+-
+    name: Critical
+    key: critical
+    polarity: negative
+-
+    name: Crude
+    key: crude
+    polarity: negative
+-
+    name: Cruel
+    key: cruel
+    polarity: negative
+-
+    name: Cynical
+    key: cynical
+    polarity: negative
+-
+    name: Decadent
+    key: decadent
+    polarity: negative
+-
+    name: Deceitful
+    key: deceitful
+    polarity: negative
+-
+    name: Delicate
+    key: delicate
+    polarity: negative
+-
+    name: Demanding
+    key: demanding
+    polarity: negative
+-
+    name: Dependent
+    key: dependent
+    polarity: negative
+-
+    name: Desperate
+    key: desperate
+    polarity: negative
+-
+    name: Destructive
+    key: destructive
+    polarity: negative
+-
+    name: Devious
+    key: devious
+    polarity: negative
+-
+    name: Difficult
+    key: difficult
+    polarity: negative
+-
+    name: Dirty
+    key: dirty
+    polarity: negative
+-
+    name: Disconcerting
+    key: disconcerting
+    polarity: negative
+-
+    name: Discontented
+    key: discontented
+    polarity: negative
+-
+    name: Discouraging
+    key: discouraging
+    polarity: negative
+-
+    name: Discourteous
+    key: discourteous
+    polarity: negative
+-
+    name: Dishonest
+    key: dishonest
+    polarity: negative
+-
+    name: Disloyal
+    key: disloyal
+    polarity: negative
+-
+    name: Disobedient
+    key: disobedient
+    polarity: negative
+-
+    name: Disorderly
+    key: disorderly
+    polarity: negative
+-
+    name: Disorganized
+    key: disorganized
+    polarity: negative
+-
+    name: Disputatious
+    key: disputatious
+    polarity: negative
+-
+    name: Disrespectful
+    key: disrespectful
+    polarity: negative
+-
+    name: Disruptive
+    key: disruptive
+    polarity: negative
+-
+    name: Dissolute
+    key: dissolute
+    polarity: negative
+-
+    name: Dissonant
+    key: dissonant
+    polarity: negative
+-
+    name: Distractible
+    key: distractible
+    polarity: negative
+-
+    name: Disturbing
+    key: disturbing
+    polarity: negative
+-
+    name: Dogmatic
+    key: dogmatic
+    polarity: negative
+-
+    name: Domineering
+    key: domineering
+    polarity: negative
+-
+    name: Dull
+    key: dull
+    polarity: negative
+-
+    name: 'Easily Discouraged'
+    key: easily_discouraged
+    polarity: negative
+-
+    name: Egocentric
+    key: egocentric
+    polarity: negative
+-
+    name: Enervated
+    key: enervated
+    polarity: negative
+-
+    name: Envious
+    key: envious
+    polarity: negative
+-
+    name: Erratic
+    key: erratic
+    polarity: negative
+-
+    name: Escapist
+    key: escapist
+    polarity: negative
+-
+    name: Excitable
+    key: excitable
+    polarity: negative
+-
+    name: Expedient
+    key: expedient
+    polarity: negative
+-
+    name: Extravagant
+    key: extravagant
+    polarity: negative
+-
+    name: Extreme
+    key: extreme
+    polarity: negative
+-
+    name: Faithless
+    key: faithless
+    polarity: negative
+-
+    name: 'False'
+    key: 'false'
+    polarity: negative
+-
+    name: Fanatical
+    key: fanatical
+    polarity: negative
+-
+    name: Fanciful
+    key: fanciful
+    polarity: negative
+-
+    name: Fatalistic
+    key: fatalistic
+    polarity: negative
+-
+    name: Fawning
+    key: fawning
+    polarity: negative
+-
+    name: Fearful
+    key: fearful
+    polarity: negative
+-
+    name: Fickle
+    key: fickle
+    polarity: negative
+-
+    name: Fiery
+    key: fiery
+    polarity: negative
+-
+    name: Fixed
+    key: fixed
+    polarity: negative
+-
+    name: Flamboyant
+    key: flamboyant
+    polarity: negative
+-
+    name: Foolish
+    key: foolish
+    polarity: negative
+-
+    name: Forgetful
+    key: forgetful
+    polarity: negative
+-
+    name: Fraudulent
+    key: fraudulent
+    polarity: negative
+-
+    name: Frightening
+    key: frightening
+    polarity: negative
+-
+    name: Frivolous
+    key: frivolous
+    polarity: negative
+-
+    name: Gloomy
+    key: gloomy
+    polarity: negative
+-
+    name: Graceless
+    key: graceless
+    polarity: negative
+-
+    name: Grand
+    key: grand
+    polarity: negative
+-
+    name: Greedy
+    key: greedy
+    polarity: negative
+-
+    name: Grim
+    key: grim
+    polarity: negative
+-
+    name: Gullible
+    key: gullible
+    polarity: negative
+-
+    name: Hateful
+    key: hateful
+    polarity: negative
+-
+    name: Haughty
+    key: haughty
+    polarity: negative
+-
+    name: Hedonistic
+    key: hedonistic
+    polarity: negative
+-
+    name: Hesitant
+    key: hesitant
+    polarity: negative
+-
+    name: Hidebound
+    key: hidebound
+    polarity: negative
+-
+    name: High-handed
+    key: high_handed
+    polarity: negative
+-
+    name: Hostile
+    key: hostile
+    polarity: negative
+-
+    name: Ignorant
+    key: ignorant
+    polarity: negative
+-
+    name: Imitative
+    key: imitative
+    polarity: negative
+-
+    name: Impatient
+    key: impatient
+    polarity: negative
+-
+    name: Impractical
+    key: impractical
+    polarity: negative
+-
+    name: Imprudent
+    key: imprudent
+    polarity: negative
+-
+    name: Impulsive
+    key: impulsive
+    polarity: negative
+-
+    name: Inconsiderate
+    key: inconsiderate
+    polarity: negative
+-
+    name: Incurious
+    key: incurious
+    polarity: negative
+-
+    name: Indecisive
+    key: indecisive
+    polarity: negative
+-
+    name: Indulgent
+    key: indulgent
+    polarity: negative
+-
+    name: Inert
+    key: inert
+    polarity: negative
+-
+    name: Inhibited
+    key: inhibited
+    polarity: negative
+-
+    name: Insecure
+    key: insecure
+    polarity: negative
+-
+    name: Insensitive
+    key: insensitive
+    polarity: negative
+-
+    name: Insincere
+    key: insincere
+    polarity: negative
+-
+    name: Insulting
+    key: insulting
+    polarity: negative
+-
+    name: Intolerant
+    key: intolerant
+    polarity: negative
+-
+    name: Irascible
+    key: irascible
+    polarity: negative
+-
+    name: Irrational
+    key: irrational
+    polarity: negative
+-
+    name: Irresponsible
+    key: irresponsible
+    polarity: negative
+-
+    name: Irritable
+    key: irritable
+    polarity: negative
+-
+    name: Lazy
+    key: lazy
+    polarity: negative
+-
+    name: Libidinous
+    key: libidinous
+    polarity: negative
+-
+    name: Loquacious
+    key: loquacious
+    polarity: negative
+-
+    name: Malicious
+    key: malicious
+    polarity: negative
+-
+    name: Mannered
+    key: mannered
+    polarity: negative
+-
+    name: Mannerless
+    key: mannerless
+    polarity: negative
+-
+    name: Mawkish
+    key: mawkish
+    polarity: negative
+-
+    name: Mealymouthed
+    key: mealymouthed
+    polarity: negative
+-
+    name: Mechanical
+    key: mechanical
+    polarity: negative
+-
+    name: Meddlesome
+    key: meddlesome
+    polarity: negative
+-
+    name: Melancholic
+    key: melancholic
+    polarity: negative
+-
+    name: Meretricious
+    key: meretricious
+    polarity: negative
+-
+    name: Messy
+    key: messy
+    polarity: negative
+-
+    name: Miserable
+    key: miserable
+    polarity: negative
+-
+    name: Miserly
+    key: miserly
+    polarity: negative
+-
+    name: Miserly
+    key: miserly
+    polarity: negative
+-
+    name: Mistaken
+    key: mistaken
+    polarity: negative
+-
+    name: Money-minded
+    key: money_minded
+    polarity: negative
+-
+    name: Monstrous
+    key: monstrous
+    polarity: negative
+-
+    name: Moody
+    key: moody
+    polarity: negative
+-
+    name: Morbid
+    key: morbid
+    polarity: negative
+-
+    name: Muddle-headed
+    key: muddle_headed
+    polarity: negative
+-
+    name: Naive
+    key: naive
+    polarity: negative
+-
+    name: Narcissistic
+    key: narcissistic
+    polarity: negative
+-
+    name: Narrow
+    key: narrow
+    polarity: negative
+-
+    name: Narrow-minded
+    key: narrow_minded
+    polarity: negative
+-
+    name: Natty
+    key: natty
+    polarity: negative
+-
+    name: Negativistic
+    key: negativistic
+    polarity: negative
+-
+    name: Neglectful
+    key: neglectful
+    polarity: negative
+-
+    name: Neurotic
+    key: neurotic
+    polarity: negative
+-
+    name: Nihilistic
+    key: nihilistic
+    polarity: negative
+-
+    name: Obnoxious
+    key: obnoxious
+    polarity: negative
+-
+    name: Obsessive
+    key: obsessive
+    polarity: negative
+-
+    name: Obvious
+    key: obvious
+    polarity: negative
+-
+    name: Odd
+    key: odd
+    polarity: negative
+-
+    name: Offhand
+    key: offhand
+    polarity: negative
+-
+    name: One-dimensional
+    key: one_dimensional
+    polarity: negative
+-
+    name: One-sided
+    key: one_sided
+    polarity: negative
+-
+    name: Opinionated
+    key: opinionated
+    polarity: negative
+-
+    name: Opportunistic
+    key: opportunistic
+    polarity: negative
+-
+    name: Oppressed
+    key: oppressed
+    polarity: negative
+-
+    name: Outrageous
+    key: outrageous
+    polarity: negative
+-
+    name: Overimaginative
+    key: overimaginative
+    polarity: negative
+-
+    name: Paranoid
+    key: paranoid
+    polarity: negative
+-
+    name: Passive
+    key: passive
+    polarity: negative
+-
+    name: Pedantic
+    key: pedantic
+    polarity: negative
+-
+    name: Perverse
+    key: perverse
+    polarity: negative
+-
+    name: Petty
+    key: petty
+    polarity: negative
+-
+    name: Pharissical
+    key: pharissical
+    polarity: negative
+-
+    name: Phlegmatic
+    key: phlegmatic
+    polarity: negative
+-
+    name: Plodding
+    key: plodding
+    polarity: negative
+-
+    name: Pompous
+    key: pompous
+    polarity: negative
+-
+    name: Possessive
+    key: possessive
+    polarity: negative
+-
+    name: Power-hungry
+    key: power_hungry
+    polarity: negative
+-
+    name: Predatory
+    key: predatory
+    polarity: negative
+-
+    name: Prejudiced
+    key: prejudiced
+    polarity: negative
+-
+    name: Presumptuous
+    key: presumptuous
+    polarity: negative
+-
+    name: Pretentious
+    key: pretentious
+    polarity: negative
+-
+    name: Prim
+    key: prim
+    polarity: negative
+-
+    name: Procrastinating
+    key: procrastinating
+    polarity: negative
+-
+    name: Profligate
+    key: profligate
+    polarity: negative
+-
+    name: Provocative
+    key: provocative
+    polarity: negative
+-
+    name: Pugnacious
+    key: pugnacious
+    polarity: negative
+-
+    name: Puritanical
+    key: puritanical
+    polarity: negative
+-
+    name: Quirky
+    key: quirky
+    polarity: negative
+-
+    name: Reactionary
+    key: reactionary
+    polarity: negative
+-
+    name: Reactive
+    key: reactive
+    polarity: negative
+-
+    name: Regimental
+    key: regimental
+    polarity: negative
+-
+    name: Regretful
+    key: regretful
+    polarity: negative
+-
+    name: Repentant
+    key: repentant
+    polarity: negative
+-
+    name: Repressed
+    key: repressed
+    polarity: negative
+-
+    name: Resentful
+    key: resentful
+    polarity: negative
+-
+    name: Ridiculous
+    key: ridiculous
+    polarity: negative
+-
+    name: Rigid
+    key: rigid
+    polarity: negative
+-
+    name: Ritualistic
+    key: ritualistic
+    polarity: negative
+-
+    name: Rowdy
+    key: rowdy
+    polarity: negative
+-
+    name: Ruined
+    key: ruined
+    polarity: negative
+-
+    name: Sadistic
+    key: sadistic
+    polarity: negative
+-
+    name: Sanctimonious
+    key: sanctimonious
+    polarity: negative
+-
+    name: Scheming
+    key: scheming
+    polarity: negative
+-
+    name: Scornful
+    key: scornful
+    polarity: negative
+-
+    name: Secretive
+    key: secretive
+    polarity: negative
+-
+    name: Sedentary
+    key: sedentary
+    polarity: negative
+-
+    name: Selfish
+    key: selfish
+    polarity: negative
+-
+    name: Self-indulgent
+    key: self_indulgent
+    polarity: negative
+-
+    name: Shallow
+    key: shallow
+    polarity: negative
+-
+    name: Shortsighted
+    key: shortsighted
+    polarity: negative
+-
+    name: Shy
+    key: shy
+    polarity: negative
+-
+    name: Silly
+    key: silly
+    polarity: negative
+-
+    name: Single-minded
+    key: single_minded
+    polarity: negative
+-
+    name: Sloppy
+    key: sloppy
+    polarity: negative
+-
+    name: Slow
+    key: slow
+    polarity: negative
+-
+    name: Sly
+    key: sly
+    polarity: negative
+-
+    name: Small-thinking
+    key: small_thinking
+    polarity: negative
+-
+    name: Softheaded
+    key: softheaded
+    polarity: negative
+-
+    name: Sordid
+    key: sordid
+    polarity: negative
+-
+    name: Steely
+    key: steely
+    polarity: negative
+-
+    name: Stiff
+    key: stiff
+    polarity: negative
+-
+    name: Strong-willed
+    key: strong_willed
+    polarity: negative
+-
+    name: Stupid
+    key: stupid
+    polarity: negative
+-
+    name: Submissive
+    key: submissive
+    polarity: negative
+-
+    name: Superficial
+    key: superficial
+    polarity: negative
+-
+    name: Superstitious
+    key: superstitious
+    polarity: negative
+-
+    name: Suspicious
+    key: suspicious
+    polarity: negative
+-
+    name: Tactless
+    key: tactless
+    polarity: negative
+-
+    name: Tense
+    key: tense
+    polarity: negative
+-
+    name: Thievish
+    key: thievish
+    polarity: negative
+-
+    name: Thoughtless
+    key: thoughtless
+    polarity: negative
+-
+    name: Timid
+    key: timid
+    polarity: negative
+-
+    name: Transparent
+    key: transparent
+    polarity: negative
+-
+    name: Treacherous
+    key: treacherous
+    polarity: negative
+-
+    name: Trendy
+    key: trendy
+    polarity: negative
+-
+    name: Troublesome
+    key: troublesome
+    polarity: negative
+-
+    name: Unappreciative
+    key: unappreciative
+    polarity: negative
+-
+    name: Uncaring
+    key: uncaring
+    polarity: negative
+-
+    name: Uncharitable
+    key: uncharitable
+    polarity: negative
+-
+    name: Unconvincing
+    key: unconvincing
+    polarity: negative
+-
+    name: Uncooperative
+    key: uncooperative
+    polarity: negative
+-
+    name: Uncreative
+    key: uncreative
+    polarity: negative
+-
+    name: Uncritical
+    key: uncritical
+    polarity: negative
+-
+    name: Unctuous
+    key: unctuous
+    polarity: negative
+-
+    name: Undisciplined
+    key: undisciplined
+    polarity: negative
+-
+    name: Unfriendly
+    key: unfriendly
+    polarity: negative
+-
+    name: Ungrateful
+    key: ungrateful
+    polarity: negative
+-
+    name: Unhealthy
+    key: unhealthy
+    polarity: negative
+-
+    name: Unimaginative
+    key: unimaginative
+    polarity: negative
+-
+    name: Unimpressive
+    key: unimpressive
+    polarity: negative
+-
+    name: Unlovable
+    key: unlovable
+    polarity: negative
+-
+    name: Unpolished
+    key: unpolished
+    polarity: negative
+-
+    name: Unprincipled
+    key: unprincipled
+    polarity: negative
+-
+    name: Unrealistic
+    key: unrealistic
+    polarity: negative
+-
+    name: Unreflective
+    key: unreflective
+    polarity: negative
+-
+    name: Unreliable
+    key: unreliable
+    polarity: negative
+-
+    name: Unrestrained
+    key: unrestrained
+    polarity: negative
+-
+    name: Unself-critical
+    key: unself_critical
+    polarity: negative
+-
+    name: Unstable
+    key: unstable
+    polarity: negative
+-
+    name: Vacuous
+    key: vacuous
+    polarity: negative
+-
+    name: Vague
+    key: vague
+    polarity: negative
+-
+    name: Venal
+    key: venal
+    polarity: negative
+-
+    name: Venomous
+    key: venomous
+    polarity: negative
+-
+    name: Vindictive
+    key: vindictive
+    polarity: negative
+-
+    name: Vulnerable
+    key: vulnerable
+    polarity: negative
+-
+    name: Weak
+    key: weak
+    polarity: negative
+-
+    name: Weak-willed
+    key: weak_willed
+    polarity: negative
+-
+    name: Well-meaning
+    key: well_meaning
+    polarity: negative
+-
+    name: Willful
+    key: willful
+    polarity: negative
+-
+    name: Wishful
+    key: wishful
+    polarity: negative
+-
+    name: Zany
+    key: zany
+    polarity: negative

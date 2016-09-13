@@ -1,0 +1,725 @@
+# https://en.wikipedia.org/wiki/Contrasting_and_categorization_of_emotions#Parrott.27s_emotions_by_groups
+-
+    name: Love
+    key: love
+    category: 'Primary emotion'
+-
+    name: Joy
+    key: joy
+    category: 'Primary emotion'
+-
+    name: Surprise
+    key: surprise
+    category: 'Primary emotion'
+-
+    name: Anger
+    key: anger
+    category: 'Primary emotion'
+-
+    name: Sadness
+    key: sadness
+    category: 'Primary emotion'
+-
+    name: Fear
+    key: fear
+    category: 'Primary emotion'
+-
+    name: Affection
+    key: affection
+    parent: love
+    category: 'Secondary emotion'
+-
+    name: 'Lust / Sexual desire'
+    key: lust_sexual_desire
+    parent: love
+    category: 'Secondary emotion'
+-
+    name: Longing
+    key: longing
+    parent: love
+    category: 'Secondary emotion'
+-
+    name: Cheerfulness
+    key: cheerfulness
+    parent: joy
+    category: 'Secondary emotion'
+-
+    name: Zest
+    key: zest
+    parent: joy
+    category: 'Secondary emotion'
+-
+    name: Contentment
+    key: contentment
+    parent: joy
+    category: 'Secondary emotion'
+-
+    name: Pride
+    key: pride
+    parent: joy
+    category: 'Secondary emotion'
+-
+    name: Optimism
+    key: optimism
+    parent: joy
+    category: 'Secondary emotion'
+-
+    name: Enthrallment
+    key: enthrallment
+    parent: joy
+    category: 'Secondary emotion'
+-
+    name: Relief
+    key: relief
+    parent: joy
+    category: 'Secondary emotion'
+-
+    name: Surprise
+    key: surprise
+    parent: surprise
+    category: 'Secondary emotion'
+-
+    name: Irritability
+    key: irritability
+    parent: anger
+    category: 'Secondary emotion'
+-
+    name: Exasperation
+    key: exasperation
+    parent: anger
+    category: 'Secondary emotion'
+-
+    name: Rage
+    key: rage
+    parent: anger
+    category: 'Secondary emotion'
+-
+    name: Disgust
+    key: disgust
+    parent: anger
+    category: 'Secondary emotion'
+-
+    name: Envy
+    key: envy
+    parent: anger
+    category: 'Secondary emotion'
+-
+    name: Torment
+    key: torment
+    parent: anger
+    category: 'Secondary emotion'
+-
+    name: Suffering
+    key: suffering
+    parent: sadness
+    category: 'Secondary emotion'
+-
+    name: Sadness
+    key: sadness
+    parent: sadness
+    category: 'Secondary emotion'
+-
+    name: Disappointment
+    key: disappointment
+    parent: sadness
+    category: 'Secondary emotion'
+-
+    name: Shame
+    key: shame
+    parent: sadness
+    category: 'Secondary emotion'
+-
+    name: Neglect
+    key: neglect
+    parent: sadness
+    category: 'Secondary emotion'
+-
+    name: Sympathy
+    key: sympathy
+    parent: sadness
+    category: 'Secondary emotion'
+-
+    name: Horror
+    key: horror
+    parent: fear
+    category: 'Secondary emotion'
+-
+    name: Nervousness
+    key: nervousness
+    parent: fear
+    category: 'Secondary emotion'
+-
+    name: Adoration
+    key: adoration
+    parent: affection
+    category: 'Tertiary emotion'
+-
+    name: Fondness
+    key: fondness
+    parent: affection
+    category: 'Tertiary emotion'
+-
+    name: Liking
+    key: liking
+    parent: affection
+    category: 'Tertiary emotion'
+-
+    name: Attractiveness
+    key: attractiveness
+    parent: affection
+    category: 'Tertiary emotion'
+-
+    name: Caring
+    key: caring
+    parent: affection
+    category: 'Tertiary emotion'
+-
+    name: Tenderness
+    key: tenderness
+    parent: affection
+    category: 'Tertiary emotion'
+-
+    name: Compassion
+    key: compassion
+    parent: affection
+    category: 'Tertiary emotion'
+-
+    name: Sentimentality
+    key: sentimentality
+    parent: affection
+    category: 'Tertiary emotion'
+-
+    name: Desire
+    key: desire
+    parent: lust_sexual_desire
+    category: 'Tertiary emotion'
+-
+    name: Passion
+    key: passion
+    parent: lust_sexual_desire
+    category: 'Tertiary emotion'
+-
+    name: Infatuation
+    key: infatuation
+    parent: lust_sexual_desire
+    category: 'Tertiary emotion'
+-
+    name: Longing
+    key: longing
+    parent: longing
+    category: 'Tertiary emotion'
+-
+    name: Amusement
+    key: amusement
+    parent: cheerfulness
+    category: 'Tertiary emotion'
+-
+    name: Bliss
+    key: bliss
+    parent: cheerfulness
+    category: 'Tertiary emotion'
+-
+    name: Gaiety
+    key: gaiety
+    parent: cheerfulness
+    category: 'Tertiary emotion'
+-
+    name: Glee
+    key: glee
+    parent: cheerfulness
+    category: 'Tertiary emotion'
+-
+    name: Jolliness
+    key: jolliness
+    parent: cheerfulness
+    category: 'Tertiary emotion'
+-
+    name: Joviality
+    key: joviality
+    parent: cheerfulness
+    category: 'Tertiary emotion'
+-
+    name: Joy
+    key: joy
+    parent: cheerfulness
+    category: 'Tertiary emotion'
+-
+    name: Delight
+    key: delight
+    parent: cheerfulness
+    category: 'Tertiary emotion'
+-
+    name: Enjoyment
+    key: enjoyment
+    parent: cheerfulness
+    category: 'Tertiary emotion'
+-
+    name: Gladness
+    key: gladness
+    parent: cheerfulness
+    category: 'Tertiary emotion'
+-
+    name: Happiness
+    key: happiness
+    parent: cheerfulness
+    category: 'Tertiary emotion'
+-
+    name: Jubilation
+    key: jubilation
+    parent: cheerfulness
+    category: 'Tertiary emotion'
+-
+    name: Elation
+    key: elation
+    parent: cheerfulness
+    category: 'Tertiary emotion'
+-
+    name: Satisfaction
+    key: satisfaction
+    parent: cheerfulness
+    category: 'Tertiary emotion'
+-
+    name: Ecstasy
+    key: ecstasy
+    parent: cheerfulness
+    category: 'Tertiary emotion'
+-
+    name: Euphoria
+    key: euphoria
+    parent: cheerfulness
+    category: 'Tertiary emotion'
+-
+    name: Enthusiasm
+    key: enthusiasm
+    parent: zest
+    category: 'Tertiary emotion'
+-
+    name: Zeal
+    key: zeal
+    parent: zest
+    category: 'Tertiary emotion'
+-
+    name: Excitement
+    key: excitement
+    parent: zest
+    category: 'Tertiary emotion'
+-
+    name: Thrill
+    key: thrill
+    parent: zest
+    category: 'Tertiary emotion'
+-
+    name: Exhilaration
+    key: exhilaration
+    parent: zest
+    category: 'Tertiary emotion'
+-
+    name: Pleasure
+    key: pleasure
+    parent: contentment
+    category: 'Tertiary emotion'
+-
+    name: Triumph
+    key: triumph
+    parent: pride
+    category: 'Tertiary emotion'
+-
+    name: Eagerness
+    key: eagerness
+    parent: optimism
+    category: 'Tertiary emotion'
+-
+    name: Hope
+    key: hope
+    parent: optimism
+    category: 'Tertiary emotion'
+-
+    name: "\tEnthrallment"
+    key: "\tenthrallment"
+    parent: enthrallment
+    category: 'Tertiary emotion'
+-
+    name: Rapture
+    key: rapture
+    parent: enthrallment
+    category: 'Tertiary emotion'
+-
+    name: Relief
+    key: relief
+    parent: relief
+    category: 'Tertiary emotion'
+-
+    name: Amazement
+    key: amazement
+    parent: surprise
+    category: 'Tertiary emotion'
+-
+    name: Astonishment
+    key: astonishment
+    parent: surprise
+    category: 'Tertiary emotion'
+-
+    name: Aggravation
+    key: aggravation
+    parent: irritability
+    category: 'Tertiary emotion'
+-
+    name: Agitation
+    key: agitation
+    parent: irritability
+    category: 'Tertiary emotion'
+-
+    name: Annoyance
+    key: annoyance
+    parent: irritability
+    category: 'Tertiary emotion'
+-
+    name: Grouchy
+    key: grouchy
+    parent: irritability
+    category: 'Tertiary emotion'
+-
+    name: Grumpy
+    key: grumpy
+    parent: irritability
+    category: 'Tertiary emotion'
+-
+    name: Crosspatch
+    key: crosspatch
+    parent: irritability
+    category: 'Tertiary emotion'
+-
+    name: Frustration
+    key: frustration
+    parent: exasperation
+    category: 'Tertiary emotion'
+-
+    name: Anger
+    key: anger
+    parent: rage
+    category: 'Tertiary emotion'
+-
+    name: Outrage
+    key: outrage
+    parent: rage
+    category: 'Tertiary emotion'
+-
+    name: Fury
+    key: fury
+    parent: rage
+    category: 'Tertiary emotion'
+-
+    name: Wrath
+    key: wrath
+    parent: rage
+    category: 'Tertiary emotion'
+-
+    name: Hostility
+    key: hostility
+    parent: rage
+    category: 'Tertiary emotion'
+-
+    name: Ferocity
+    key: ferocity
+    parent: rage
+    category: 'Tertiary emotion'
+-
+    name: Bitter
+    key: bitter
+    parent: rage
+    category: 'Tertiary emotion'
+-
+    name: 'Hatred '
+    key: 'hatred '
+    parent: rage
+    category: 'Tertiary emotion'
+-
+    name: Scorn
+    key: scorn
+    parent: rage
+    category: 'Tertiary emotion'
+-
+    name: Spite
+    key: spite
+    parent: rage
+    category: 'Tertiary emotion'
+-
+    name: Vengefulness
+    key: vengefulness
+    parent: rage
+    category: 'Tertiary emotion'
+-
+    name: Dislike
+    key: dislike
+    parent: rage
+    category: 'Tertiary emotion'
+-
+    name: Resentment
+    key: resentment
+    parent: rage
+    category: 'Tertiary emotion'
+-
+    name: Revulsion
+    key: revulsion
+    parent: disgust
+    category: 'Tertiary emotion'
+-
+    name: Contempt
+    key: contempt
+    parent: disgust
+    category: 'Tertiary emotion'
+-
+    name: Loathing
+    key: loathing
+    parent: disgust
+    category: 'Tertiary emotion'
+-
+    name: Jealousy
+    key: jealousy
+    parent: envy
+    category: 'Tertiary emotion'
+-
+    name: Torment
+    key: torment
+    parent: torment
+    category: 'Tertiary emotion'
+-
+    name: Agony
+    key: agony
+    parent: suffering
+    category: 'Tertiary emotion'
+-
+    name: Anguish
+    key: anguish
+    parent: suffering
+    category: 'Tertiary emotion'
+-
+    name: Hurt
+    key: hurt
+    parent: suffering
+    category: 'Tertiary emotion'
+-
+    name: Depression
+    key: depression
+    parent: sadness
+    category: 'Tertiary emotion'
+-
+    name: Despair
+    key: despair
+    parent: sadness
+    category: 'Tertiary emotion'
+-
+    name: Gloom
+    key: gloom
+    parent: sadness
+    category: 'Tertiary emotion'
+-
+    name: Glumness
+    key: glumness
+    parent: sadness
+    category: 'Tertiary emotion'
+-
+    name: Unhappy
+    key: unhappy
+    parent: sadness
+    category: 'Tertiary emotion'
+-
+    name: Grief
+    key: grief
+    parent: sadness
+    category: 'Tertiary emotion'
+-
+    name: Sorrow
+    key: sorrow
+    parent: sadness
+    category: 'Tertiary emotion'
+-
+    name: Woe
+    key: woe
+    parent: sadness
+    category: 'Tertiary emotion'
+-
+    name: Misery
+    key: misery
+    parent: sadness
+    category: 'Tertiary emotion'
+-
+    name: Melancholy
+    key: melancholy
+    parent: sadness
+    category: 'Tertiary emotion'
+-
+    name: Dismay
+    key: dismay
+    parent: disappointment
+    category: 'Tertiary emotion'
+-
+    name: Displeasure
+    key: displeasure
+    parent: disappointment
+    category: 'Tertiary emotion'
+-
+    name: Guilt
+    key: guilt
+    parent: shame
+    category: 'Tertiary emotion'
+-
+    name: Regret
+    key: regret
+    parent: shame
+    category: 'Tertiary emotion'
+-
+    name: Remorse
+    key: remorse
+    parent: shame
+    category: 'Tertiary emotion'
+-
+    name: Alienation
+    key: alienation
+    parent: neglect
+    category: 'Tertiary emotion'
+-
+    name: Defeatism
+    key: defeatism
+    parent: neglect
+    category: 'Tertiary emotion'
+-
+    name: Dejection
+    key: dejection
+    parent: neglect
+    category: 'Tertiary emotion'
+-
+    name: Embarrassment
+    key: embarrassment
+    parent: neglect
+    category: 'Tertiary emotion'
+-
+    name: Homesickness
+    key: homesickness
+    parent: neglect
+    category: 'Tertiary emotion'
+-
+    name: Humiliation
+    key: humiliation
+    parent: neglect
+    category: 'Tertiary emotion'
+-
+    name: Insecurity
+    key: insecurity
+    parent: neglect
+    category: 'Tertiary emotion'
+-
+    name: Insult
+    key: insult
+    parent: neglect
+    category: 'Tertiary emotion'
+-
+    name: Isolation
+    key: isolation
+    parent: neglect
+    category: 'Tertiary emotion'
+-
+    name: Loneliness
+    key: loneliness
+    parent: neglect
+    category: 'Tertiary emotion'
+-
+    name: Rejection
+    key: rejection
+    parent: neglect
+    category: 'Tertiary emotion'
+-
+    name: Pity
+    key: pity
+    parent: sympathy
+    category: 'Tertiary emotion'
+-
+    name: 'Mono no aware'
+    key: mono_no_aware
+    parent: sympathy
+    category: 'Tertiary emotion'
+-
+    name: Sympathy
+    key: sympathy
+    parent: sympathy
+    category: 'Tertiary emotion'
+-
+    name: Alarm
+    key: alarm
+    parent: horror
+    category: 'Tertiary emotion'
+-
+    name: Shock
+    key: shock
+    parent: horror
+    category: 'Tertiary emotion'
+-
+    name: Fear
+    key: fear
+    parent: horror
+    category: 'Tertiary emotion'
+-
+    name: Fright
+    key: fright
+    parent: horror
+    category: 'Tertiary emotion'
+-
+    name: Horror
+    key: horror
+    parent: horror
+    category: 'Tertiary emotion'
+-
+    name: Terror
+    key: terror
+    parent: horror
+    category: 'Tertiary emotion'
+-
+    name: Panic
+    key: panic
+    parent: horror
+    category: 'Tertiary emotion'
+-
+    name: Hysteria
+    key: hysteria
+    parent: horror
+    category: 'Tertiary emotion'
+-
+    name: Mortification
+    key: mortification
+    parent: horror
+    category: 'Tertiary emotion'
+-
+    name: Anxiety
+    key: anxiety
+    parent: nervousness
+    category: 'Tertiary emotion'
+-
+    name: Suspense
+    key: suspense
+    parent: nervousness
+    category: 'Tertiary emotion'
+-
+    name: Uneasiness
+    key: uneasiness
+    parent: nervousness
+    category: 'Tertiary emotion'
+-
+    name: Apprehension
+    key: apprehension
+    parent: nervousness
+    category: 'Tertiary emotion'
+-
+    name: Worry
+    key: worry
+    parent: nervousness
+    category: 'Tertiary emotion'
+-
+    name: Distress
+    key: distress
+    parent: nervousness
+    category: 'Tertiary emotion'
+-
+    name: Dread
+    key: dread
+    parent: nervousness
+    category: 'Tertiary emotion'

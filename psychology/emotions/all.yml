@@ -1,0 +1,1666 @@
+# http://thework.com/sites/thework/downloads/worksheets/Emotions_List_Ltr.pdf
+-
+    name: Irritated
+    key: irritated
+-
+    name: Enraged
+    key: enraged
+-
+    name: Hostile
+    key: hostile
+-
+    name: Insulting
+    key: insulting
+-
+    name: Annoyed
+    key: annoyed
+-
+    name: Upset
+    key: upset
+-
+    name: Hateful
+    key: hateful
+-
+    name: Unpleasant
+    key: unpleasant
+-
+    name: Offensive
+    key: offensive
+-
+    name: Aggressive
+    key: aggressive
+-
+    name: Bitter
+    key: bitter
+-
+    name: Frustrated
+    key: frustrated
+-
+    name: Controlling
+    key: controlling
+-
+    name: Resentful
+    key: resentful
+-
+    name: Hotheaded
+    key: hotheaded
+-
+    name: Malicious
+    key: malicious
+-
+    name: Infuriated
+    key: infuriated
+-
+    name: Critical
+    key: critical
+-
+    name: Mean-spirited
+    key: mean_spirited
+-
+    name: Violent
+    key: violent
+-
+    name: Vindictive
+    key: vindictive
+-
+    name: Sadistic
+    key: sadistic
+-
+    name: Mean
+    key: mean
+-
+    name: Spiteful
+    key: spiteful
+-
+    name: Furious
+    key: furious
+-
+    name: Agitated
+    key: agitated
+-
+    name: Antagonistic
+    key: antagonistic
+-
+    name: Repulsed
+    key: repulsed
+-
+    name: Mad
+    key: mad
+-
+    name: Cross
+    key: cross
+-
+    name: Incensed
+    key: incensed
+-
+    name: Loud
+    key: loud
+-
+    name: Reactive
+    key: reactive
+-
+    name: Swearing
+    key: swearing
+-
+    name: Abrupt
+    key: abrupt
+-
+    name: Quarrelsome
+    key: quarrelsome
+-
+    name: Venomous
+    key: venomous
+-
+    name: Irate
+    key: irate
+-
+    name: Short-tempered
+    key: short_tempered
+-
+    name: Stubborn
+    key: stubborn
+-
+    name: Rebellious
+    key: rebellious
+-
+    name: Exasperated
+    key: exasperated
+-
+    name: Impatient
+    key: impatient
+-
+    name: Contrary
+    key: contrary
+-
+    name: Condemning
+    key: condemning
+-
+    name: Seething
+    key: seething
+-
+    name: Scornful
+    key: scornful
+-
+    name: Sarcastic
+    key: sarcastic
+-
+    name: Overbearing
+    key: overbearing
+-
+    name: Sharp
+    key: sharp
+-
+    name: Poisonous
+    key: poisonous
+-
+    name: Insulting
+    key: insulting
+-
+    name: Disrespectful
+    key: disrespectful
+-
+    name: Jealous
+    key: jealous
+-
+    name: 'Ticked off'
+    key: ticked_off
+-
+    name: Hitting
+    key: hitting
+-
+    name: Yelling
+    key: yelling
+-
+    name: Screaming
+    key: screaming
+-
+    name: Revengeful
+    key: revengeful
+-
+    name: Retaliating
+    key: retaliating
+-
+    name: Reprimanding
+    key: reprimanding
+-
+    name: Envious
+    key: envious
+-
+    name: Disappointed
+    key: disappointed
+-
+    name: Discouraged
+    key: discouraged
+-
+    name: Ashamed
+    key: ashamed
+-
+    name: Powerless
+    key: powerless
+-
+    name: Diminished
+    key: diminished
+-
+    name: guilty
+    key: guilty
+-
+    name: Dissatisfied
+    key: dissatisfied
+-
+    name: Miserable
+    key: miserable
+-
+    name: Despicable
+    key: despicable
+-
+    name: Self-denigrating
+    key: self_denigrating
+-
+    name: Self-hating
+    key: self_hating
+-
+    name: Sulky
+    key: sulky
+-
+    name: Low
+    key: low
+-
+    name: Terrible
+    key: terrible
+-
+    name: Lousy
+    key: lousy
+-
+    name: Desperate
+    key: desperate
+-
+    name: Alienated
+    key: alienated
+-
+    name: Bad
+    key: bad
+-
+    name: Pessimistic
+    key: pessimistic
+-
+    name: Dejected
+    key: dejected
+-
+    name: 'Bummed out'
+    key: bummed_out
+-
+    name: Self-critical
+    key: self_critical
+-
+    name: Self-deprecating
+    key: self_deprecating
+-
+    name: Gloomy
+    key: gloomy
+-
+    name: Glum
+    key: glum
+-
+    name: Disheartened
+    key: disheartened
+-
+    name: Down
+    key: down
+-
+    name: Despondent
+    key: despondent
+-
+    name: Cheerless
+    key: cheerless
+-
+    name: Rotten
+    key: rotten
+-
+    name: Masochistic
+    key: masochistic
+-
+    name: Stuck
+    key: stuck
+-
+    name: Contracted
+    key: contracted
+-
+    name: Tight
+    key: tight
+-
+    name: Blocked
+    key: blocked
+-
+    name: Despairing
+    key: despairing
+-
+    name: Hopeless
+    key: hopeless
+-
+    name: Grouchy
+    key: grouchy
+-
+    name: 'Off'
+    key: 'off'
+-
+    name: Moody
+    key: moody
+-
+    name: Crabby
+    key: crabby
+-
+    name: Faultfinding
+    key: faultfinding
+-
+    name: Resistant
+    key: resistant
+-
+    name: Punishing
+    key: punishing
+-
+    name: Morose
+    key: morose
+-
+    name: Cranky
+    key: cranky
+-
+    name: Grumpy
+    key: grumpy
+-
+    name: Burdened
+    key: burdened
+-
+    name: Negative
+    key: negative
+-
+    name: Closed
+    key: closed
+-
+    name: 'Out of sorts'
+    key: out_of_sorts
+-
+    name: 'No energy'
+    key: no_energy
+-
+    name: 'In hell'
+    key: in_hell
+-
+    name: Touchy
+    key: touchy
+-
+    name: Haggard
+    key: haggard
+-
+    name: Drawn
+    key: drawn
+-
+    name: Slumped
+    key: slumped
+-
+    name: Slouching
+    key: slouching
+-
+    name: Achy
+    key: achy
+-
+    name: Doubtful
+    key: doubtful
+-
+    name: Uncertain
+    key: uncertain
+-
+    name: Indecisive
+    key: indecisive
+-
+    name: Perplexed
+    key: perplexed
+-
+    name: Embarrassed
+    key: embarrassed
+-
+    name: Hesitant
+    key: hesitant
+-
+    name: Shy
+    key: shy
+-
+    name: Disillusioned
+    key: disillusioned
+-
+    name: Distrustful
+    key: distrustful
+-
+    name: Misgiving
+    key: misgiving
+-
+    name: Lost
+    key: lost
+-
+    name: Unsure
+    key: unsure
+-
+    name: Uneasy
+    key: uneasy
+-
+    name: Tense
+    key: tense
+-
+    name: Stressed
+    key: stressed
+-
+    name: Uncomfortable
+    key: uncomfortable
+-
+    name: Comparing
+    key: comparing
+-
+    name: Dishonest
+    key: dishonest
+-
+    name: Superior
+    key: superior
+-
+    name: Disdainful
+    key: disdainful
+-
+    name: Manipulative
+    key: manipulative
+-
+    name: Judgmental
+    key: judgmental
+-
+    name: Argumentative
+    key: argumentative
+-
+    name: Authoritative
+    key: authoritative
+-
+    name: Condescending
+    key: condescending
+-
+    name: Demanding
+    key: demanding
+-
+    name: Confounded
+    key: confounded
+-
+    name: Distracted
+    key: distracted
+-
+    name: Disoriented
+    key: disoriented
+-
+    name: Off-kilter
+    key: off_kilter
+-
+    name: Frenzied
+    key: frenzied
+-
+    name: Blushing
+    key: blushing
+-
+    name: Awkward
+    key: awkward
+-
+    name: Incapable
+    key: incapable
+-
+    name: Alone
+    key: alone
+-
+    name: Paralyzed
+    key: paralyzed
+-
+    name: Fatigued
+    key: fatigued
+-
+    name: Useless
+    key: useless
+-
+    name: Inferior
+    key: inferior
+-
+    name: Vulnerable
+    key: vulnerable
+-
+    name: Empty
+    key: empty
+-
+    name: Distressed
+    key: distressed
+-
+    name: Pathetic
+    key: pathetic
+-
+    name: Distraught
+    key: distraught
+-
+    name: Doomed
+    key: doomed
+-
+    name: Overwhelmed
+    key: overwhelmed
+-
+    name: Incompetent
+    key: incompetent
+-
+    name: Inept
+    key: inept
+-
+    name: Incapacitated
+    key: incapacitated
+-
+    name: 'Shut down'
+    key: shut_down
+-
+    name: 'Cut off'
+    key: cut_off
+-
+    name: Trapped
+    key: trapped
+-
+    name: Weak
+    key: weak
+-
+    name: Sick
+    key: sick
+-
+    name: Nauseated
+    key: nauseated
+-
+    name: Fidgety
+    key: fidgety
+-
+    name: Trembling
+    key: trembling
+-
+    name: Craving
+    key: craving
+-
+    name: Hungry
+    key: hungry
+-
+    name: Squirming
+    key: squirming
+-
+    name: Jittery
+    key: jittery
+-
+    name: Woozy
+    key: woozy
+-
+    name: Twitching
+    key: twitching
+-
+    name: Compulsive
+    key: compulsive
+-
+    name: Insensitive
+    key: insensitive
+-
+    name: Dull
+    key: dull
+-
+    name: Reserved
+    key: reserved
+-
+    name: Weary
+    key: weary
+-
+    name: Bored
+    key: bored
+-
+    name: Preoccupied
+    key: preoccupied
+-
+    name: Cold
+    key: cold
+-
+    name: Lifeless
+    key: lifeless
+-
+    name: Uncaring
+    key: uncaring
+-
+    name: Uninterested
+    key: uninterested
+-
+    name: Unresponsive
+    key: unresponsive
+-
+    name: Tired
+    key: tired
+-
+    name: Robotic
+    key: robotic
+-
+    name: Slow
+    key: slow
+-
+    name: Sluggish
+    key: sluggish
+-
+    name: Fearful
+    key: fearful
+-
+    name: Terrified
+    key: terrified
+-
+    name: Suspicious
+    key: suspicious
+-
+    name: Anxious
+    key: anxious
+-
+    name: Alarmed
+    key: alarmed
+-
+    name: Panicked
+    key: panicked
+-
+    name: Nervous
+    key: nervous
+-
+    name: Scared
+    key: scared
+-
+    name: Worried
+    key: worried
+-
+    name: Frightened
+    key: frightened
+-
+    name: Timid
+    key: timid
+-
+    name: Shaky
+    key: shaky
+-
+    name: Restless
+    key: restless
+-
+    name: Threatened
+    key: threatened
+-
+    name: Cowardly
+    key: cowardly
+-
+    name: Insecure
+    key: insecure
+-
+    name: Wary
+    key: wary
+-
+    name: Menaced
+    key: menaced
+-
+    name: Uptight
+    key: uptight
+-
+    name: Apprehensive
+    key: apprehensive
+-
+    name: Attacking
+    key: attacking
+-
+    name: Defensive
+    key: defensive
+-
+    name: Dreadful
+    key: dreadful
+-
+    name: Guarded
+    key: guarded
+-
+    name: Troubled
+    key: troubled
+-
+    name: Self-absorbed
+    key: self_absorbed
+-
+    name: Rigid
+    key: rigid
+-
+    name: Phobic
+    key: phobic
+-
+    name: Intolerant
+    key: intolerant
+-
+    name: Disturbed
+    key: disturbed
+-
+    name: Disrupted
+    key: disrupted
+-
+    name: Intimidated
+    key: intimidated
+-
+    name: Avoiding
+    key: avoiding
+-
+    name: Unwelcoming
+    key: unwelcoming
+-
+    name: Petrified
+    key: petrified
+-
+    name: Unbending
+    key: unbending
+-
+    name: Paranoid
+    key: paranoid
+-
+    name: Inhibited
+    key: inhibited
+-
+    name: Immobile
+    key: immobile
+-
+    name: Attached
+    key: attached
+-
+    name: Prejudiced
+    key: prejudiced
+-
+    name: Agoraphobic
+    key: agoraphobic
+-
+    name: Self-conscious
+    key: self_conscious
+-
+    name: Crushed
+    key: crushed
+-
+    name: Tormented
+    key: tormented
+-
+    name: Deprived
+    key: deprived
+-
+    name: Pained
+    key: pained
+-
+    name: Tortured
+    key: tortured
+-
+    name: Rejected
+    key: rejected
+-
+    name: Injured
+    key: injured
+-
+    name: Offended
+    key: offended
+-
+    name: Afflicted
+    key: afflicted
+-
+    name: Aching
+    key: aching
+-
+    name: Victimized
+    key: victimized
+-
+    name: Heartbroken
+    key: heartbroken
+-
+    name: Agonized
+    key: agonized
+-
+    name: Appalled
+    key: appalled
+-
+    name: Wronged
+    key: wronged
+-
+    name: Humiliated
+    key: humiliated
+-
+    name: Insulted
+    key: insulted
+-
+    name: Withdrawn
+    key: withdrawn
+-
+    name: Miffed
+    key: miffed
+-
+    name: Indignant
+    key: indignant
+-
+    name: Suffering
+    key: suffering
+-
+    name: Distant
+    key: distant
+-
+    name: Invaded
+    key: invaded
+-
+    name: Bulldozed
+    key: bulldozed
+-
+    name: Bullied
+    key: bullied
+-
+    name: Secretive
+    key: secretive
+-
+    name: Slighted
+    key: slighted
+-
+    name: Smothered
+    key: smothered
+-
+    name: Belittled
+    key: belittled
+-
+    name: Tearful
+    key: tearful
+-
+    name: Sorrowful
+    key: sorrowful
+-
+    name: Anguished
+    key: anguished
+-
+    name: Desolate
+    key: desolate
+-
+    name: Unhappy
+    key: unhappy
+-
+    name: Lonely
+    key: lonely
+-
+    name: Grieved
+    key: grieved
+-
+    name: Mournful
+    key: mournful
+-
+    name: Dismayed
+    key: dismayed
+-
+    name: Downhearted
+    key: downhearted
+-
+    name: Oversensitive
+    key: oversensitive
+-
+    name: Dirty
+    key: dirty
+-
+    name: Remorseful
+    key: remorseful
+-
+    name: Sullen
+    key: sullen
+-
+    name: Sour
+    key: sour
+-
+    name: Self-castigating
+    key: self_castigating
+-
+    name: Unworthy
+    key: unworthy
+-
+    name: Fragile
+    key: fragile
+-
+    name: Disconnected
+    key: disconnected
+-
+    name: Devastated
+    key: devastated
+-
+    name: Blindsided
+    key: blindsided
+-
+    name: Discontented
+    key: discontented
+-
+    name: Crying
+    key: crying
+-
+    name: Groaning
+    key: groaning
+-
+    name: Moaning
+    key: moaning
+-
+    name: Stony
+    key: stony
+-
+    name: Serious
+    key: serious
+-
+    name: Stern
+    key: stern
+-
+    name: Frowning
+    key: frowning
+-
+    name: Recoiling
+    key: recoiling
+-
+    name: Glaring
+    key: glaring
+-
+    name: Disgusted
+    key: disgusted
+-
+    name: Unfair
+    key: unfair
+-
+    name: Attacked
+    key: attacked
+-
+    name: Tactless
+    key: tactless
+-
+    name: Hurtful
+    key: hurtful
+-
+    name: Bossy
+    key: bossy
+-
+    name: Stilted
+    key: stilted
+-
+    name: Stiff
+    key: stiff
+-
+    name: Brutal
+    key: brutal
+-
+    name: Combative
+    key: combative
+-
+    name: Pushy
+    key: pushy
+-
+    name: Neglectful
+    key: neglectful
+-
+    name: Stonewalling
+    key: stonewalling
+-
+    name: Rude
+    key: rude
+-
+    name: Ranting
+    key: ranting
+-
+    name: Scolding
+    key: scolding
+-
+    name: Shrill
+    key: shrill
+-
+    name: Hard
+    key: hard
+-
+    name: Fake
+    key: fake
+-
+    name: Phony
+    key: phony
+-
+    name: Shallow
+    key: shallow
+-
+    name: Taut
+    key: taut
+-
+    name: Territorial
+    key: territorial
+-
+    name: Complaining
+    key: complaining
+-
+    name: Obsessive
+    key: obsessive
+-
+    name: Blunt
+    key: blunt
+-
+    name: Understanding
+    key: understanding
+-
+    name: Confident
+    key: confident
+-
+    name: Easy
+    key: easy
+-
+    name: Connected
+    key: connected
+-
+    name: Free
+    key: free
+-
+    name: Sympathetic
+    key: sympathetic
+-
+    name: Interested
+    key: interested
+-
+    name: Satisfied
+    key: satisfied
+-
+    name: Receptive
+    key: receptive
+-
+    name: Accepting
+    key: accepting
+-
+    name: Kind
+    key: kind
+-
+    name: Harmonious
+    key: harmonious
+-
+    name: Empathetic
+    key: empathetic
+-
+    name: Tolerant
+    key: tolerant
+-
+    name: Friendly
+    key: friendly
+-
+    name: Approachable
+    key: approachable
+-
+    name: Outgoing
+    key: outgoing
+-
+    name: Flowing
+    key: flowing
+-
+    name: Flexible
+    key: flexible
+-
+    name: Present
+    key: present
+-
+    name: Listening
+    key: listening
+-
+    name: Welcoming
+    key: welcoming
+-
+    name: Embracing
+    key: embracing
+-
+    name: Considerate
+    key: considerate
+-
+    name: Affectionate
+    key: affectionate
+-
+    name: Sensitive
+    key: sensitive
+-
+    name: Tender
+    key: tender
+-
+    name: Devoted
+    key: devoted
+-
+    name: Attracted
+    key: attracted
+-
+    name: Passionate
+    key: passionate
+-
+    name: Admiring
+    key: admiring
+-
+    name: Warm
+    key: warm
+-
+    name: Touched
+    key: touched
+-
+    name: Close
+    key: close
+-
+    name: Loved
+    key: loved
+-
+    name: Sweet
+    key: sweet
+-
+    name: Gentle
+    key: gentle
+-
+    name: Compassionate
+    key: compassionate
+-
+    name: Caring
+    key: caring
+-
+    name: Allowing
+    key: allowing
+-
+    name: Non-judgmental
+    key: non_judgmental
+-
+    name: Appreciative
+    key: appreciative
+-
+    name: Respectful
+    key: respectful
+-
+    name: Humble
+    key: humble
+-
+    name: Gracious
+    key: gracious
+-
+    name: Patient
+    key: patient
+-
+    name: Honoring
+    key: honoring
+-
+    name: Expansive
+    key: expansive
+-
+    name: Kindly
+    key: kindly
+-
+    name: Grateful
+    key: grateful
+-
+    name: Blissful
+    key: blissful
+-
+    name: Joyous
+    key: joyous
+-
+    name: Delighted
+    key: delighted
+-
+    name: Overjoyed
+    key: overjoyed
+-
+    name: Gleeful
+    key: gleeful
+-
+    name: Thankful
+    key: thankful
+-
+    name: Festive
+    key: festive
+-
+    name: Ecstatic
+    key: ecstatic
+-
+    name: Satisfied
+    key: satisfied
+-
+    name: Glad
+    key: glad
+-
+    name: Cheerful
+    key: cheerful
+-
+    name: Sunny
+    key: sunny
+-
+    name: Elated
+    key: elated
+-
+    name: Jubilant
+    key: jubilant
+-
+    name: Jovial
+    key: jovial
+-
+    name: Fun-loving
+    key: fun_loving
+-
+    name: Lighthearted
+    key: lighthearted
+-
+    name: Easygoing
+    key: easygoing
+-
+    name: Mellow
+    key: mellow
+-
+    name: Happy-go-lucky
+    key: happy_go_lucky
+-
+    name: Glorious
+    key: glorious
+-
+    name: Innocent
+    key: innocent
+-
+    name: Child-like
+    key: child_like
+-
+    name: Gratified
+    key: gratified
+-
+    name: Euphoric
+    key: euphoric
+-
+    name: Rapturous
+    key: rapturous
+-
+    name: 'In good humor'
+    key: in_good_humor
+-
+    name: 'In heaven'
+    key: in_heaven
+-
+    name: 'On top of the '
+    key: on_top_of_the_
+-
+    name: World
+    key: world
+-
+    name: Fascinated
+    key: fascinated
+-
+    name: Intrigued
+    key: intrigued
+-
+    name: Absorbed
+    key: absorbed
+-
+    name: Inquisitive
+    key: inquisitive
+-
+    name: Engrossed
+    key: engrossed
+-
+    name: Curious
+    key: curious
+-
+    name: Amazed
+    key: amazed
+-
+    name: Involved
+    key: involved
+-
+    name: Attentive
+    key: attentive
+-
+    name: Observant
+    key: observant
+-
+    name: Amused
+    key: amused
+-
+    name: Thoughtful
+    key: thoughtful
+-
+    name: Courteous
+    key: courteous
+-
+    name: Intent
+    key: intent
+-
+    name: Focused
+    key: focused
+-
+    name: Playful
+    key: playful
+-
+    name: Courageous
+    key: courageous
+-
+    name: Energetic
+    key: energetic
+-
+    name: Liberated
+    key: liberated
+-
+    name: Optimistic
+    key: optimistic
+-
+    name: Frisky
+    key: frisky
+-
+    name: Animated
+    key: animated
+-
+    name: Spirited
+    key: spirited
+-
+    name: Thrilled
+    key: thrilled
+-
+    name: Wonderful
+    key: wonderful
+-
+    name: Funny
+    key: funny
+-
+    name: Great
+    key: great
+-
+    name: Giving
+    key: giving
+-
+    name: Sharing
+    key: sharing
+-
+    name: Intelligent
+    key: intelligent
+-
+    name: Exhilarated
+    key: exhilarated
+-
+    name: Equal
+    key: equal
+-
+    name: Excited
+    key: excited
+-
+    name: Enjoying
+    key: enjoying
+-
+    name: Communicative
+    key: communicative
+-
+    name: Active
+    key: active
+-
+    name: Spunky
+    key: spunky
+-
+    name: Youthful
+    key: youthful
+-
+    name: Vigorous
+    key: vigorous
+-
+    name: Tickled
+    key: tickled
+-
+    name: Eager
+    key: eager
+-
+    name: Keen
+    key: keen
+-
+    name: Earnest
+    key: earnest
+-
+    name: Inspired
+    key: inspired
+-
+    name: Enthusiastic
+    key: enthusiastic
+-
+    name: Bold
+    key: bold
+-
+    name: Brave
+    key: brave
+-
+    name: Daring
+    key: daring
+-
+    name: Hopeful
+    key: hopeful
+-
+    name: Upbeat
+    key: upbeat
+-
+    name: Beautiful
+    key: beautiful
+-
+    name: Creative
+    key: creative
+-
+    name: Constructive
+    key: constructive
+-
+    name: Helpful
+    key: helpful
+-
+    name: Resourceful
+    key: resourceful
+-
+    name: Motivated
+    key: motivated
+-
+    name: Cooperative
+    key: cooperative
+-
+    name: Productive
+    key: productive
+-
+    name: Exuberant
+    key: exuberant
+-
+    name: 'In the zone'
+    key: in_the_zone
+-
+    name: Responsive
+    key: responsive
+-
+    name: Conscientious
+    key: conscientious
+-
+    name: Approving
+    key: approving
+-
+    name: Honored
+    key: honored
+-
+    name: Privileged
+    key: privileged
+-
+    name: Adaptable
+    key: adaptable
+-
+    name: Calm
+    key: calm
+-
+    name: Good
+    key: good
+-
+    name: 'At ease'
+    key: at_ease
+-
+    name: Comfortable
+    key: comfortable
+-
+    name: Pleased
+    key: pleased
+-
+    name: Encouraged
+    key: encouraged
+-
+    name: Surprised
+    key: surprised
+-
+    name: Content
+    key: content
+-
+    name: Quiet
+    key: quiet
+-
+    name: Certain
+    key: certain
+-
+    name: Relaxed
+    key: relaxed
+-
+    name: Serene
+    key: serene
+-
+    name: Bright
+    key: bright
+-
+    name: Blessed
+    key: blessed
+-
+    name: Assured
+    key: assured
+-
+    name: Clear
+    key: clear
+-
+    name: Balanced
+    key: balanced
+-
+    name: Fine
+    key: fine
+-
+    name: Okay
+    key: okay
+-
+    name: Grateful
+    key: grateful
+-
+    name: Carefree
+    key: carefree
+-
+    name: Adequate
+    key: adequate
+-
+    name: Fulfilled
+    key: fulfilled
+-
+    name: Genuine
+    key: genuine
+-
+    name: Authentic
+    key: authentic
+-
+    name: Forgiving
+    key: forgiving
+-
+    name: Sincere
+    key: sincere
+-
+    name: Uplifted
+    key: uplifted
+-
+    name: Unburdened
+    key: unburdened
+-
+    name: Confident
+    key: confident
+-
+    name: Self-sufficient
+    key: self_sufficient
+-
+    name: Reliable
+    key: reliable
+-
+    name: Sure
+    key: sure
+-
+    name: Unique
+    key: unique
+-
+    name: Dynamic
+    key: dynamic
+-
+    name: Tenacious
+    key: tenacious
+-
+    name: Hardy
+    key: hardy
+-
+    name: Secure
+    key: secure
+-
+    name: Stable
+    key: stable
+-
+    name: Honest
+    key: honest
+-
+    name: Composed
+    key: composed
+-
+    name: Self-affirming
+    key: self_affirming
+-
+    name: Truthful
+    key: truthful
+-
+    name: Supportive
+    key: supportive
+-
+    name: Excellent
+    key: excellent
+-
+    name: Perseverant
+    key: perseverant
+-
+    name: Responsible
+    key: responsible
+-
+    name: Energized
+    key: energized
+-
+    name: Sane
+    key: sane
+-
+    name: Complete
+    key: complete
+-
+    name: Mature
+    key: mature
+-
+    name: Solid
+    key: solid
+-
+    name: Glowing
+    key: glowing
+-
+    name: Radiant
+    key: radiant
+-
+    name: Beaming
+    key: beaming
+-
+    name: Reflective
+    key: reflective
+-
+    name: Smiling
+    key: smiling
+-
+    name: Grounded
+    key: grounded
+-
+    name: Unhurried
+    key: unhurried
+-
+    name: Open-minded
+    key: open_minded
+-
+    name: Efficient
+    key: efficient
+-
+    name: Non-controlling
+    key: non_controlling
+-
+    name: Unassuming
+    key: unassuming
+-
+    name: Trusting
+    key: trusting
+-
+    name: Supported
+    key: supported
+-
+    name: Fluid
+    key: fluid
+-
+    name: Light
+    key: light
+-
+    name: Spontaneous
+    key: spontaneous
+-
+    name: Aware
+    key: aware
+-
+    name: Healthy
+    key: healthy
+-
+    name: Meditative
+    key: meditative
+-
+    name: Still
+    key: still
+-
+    name: Rested
+    key: rested
+-
+    name: Waiting
+    key: waiting
+-
+    name: Laughing
+    key: laughing
+-
+    name: Graceful
+    key: graceful
+-
+    name: Natural
+    key: natural
+-
+    name: Steady
+    key: steady
+-
+    name: Centered
+    key: centered
+-
+    name: Placid
+    key: placid

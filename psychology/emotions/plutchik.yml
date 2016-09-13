@@ -1,0 +1,89 @@
+# https://en.wikipedia.org/wiki/Contrasting_and_categorization_of_emotions#Plutchik.27s_wheel_of_emotions
+-
+    name: Joy
+    key: joy
+    opposite: sadness
+    type: emotion
+-
+    name: Trust
+    key: trust
+    opposite: disgust
+    type: emotion
+-
+    name: Fear
+    key: fear
+    opposite: anger
+    type: emotion
+-
+    name: Surprise
+    key: surprise
+    opposite: anticipation
+    type: emotion
+-
+    name: Sadness
+    key: sadness
+    opposite: joy
+    type: emotion
+-
+    name: Disgust
+    key: disgust
+    opposite: trust
+    type: emotion
+-
+    name: Anger
+    key: anger
+    opposite: fear
+    type: emotion
+-
+    name: Anticipation
+    key: anticipation
+    opposite: surprise
+    type: emotion
+-
+    name: Optimism
+    key: optimism
+    opposite: disapproval
+    emotions: [anticipation, joy]
+    type: human_feeling
+-
+    name: Love
+    key: love
+    opposite: remorse
+    emotions: [joy, trust]
+    type: human_feeling
+-
+    name: Submission
+    key: submission
+    opposite: contempt
+    emotions: [trust, fear]
+    type: human_feeling
+-
+    name: Awe
+    key: awe
+    opposite: aggression
+    emotions: [fear, surprise]
+    type: human_feeling
+-
+    name: Disapproval
+    key: disapproval
+    opposite: optimism
+    emotions: [surprise, sadness]
+    type: human_feeling
+-
+    name: Remorse
+    key: remorse
+    opposite: love
+    emotions: [sadness, disgust]
+    type: human_feeling
+-
+    name: Contempt
+    key: contempt
+    opposite: submission
+    emotions: [disgust, anger]
+    type: human_feeling
+-
+    name: Aggressiveness
+    key: aggressiveness
+    opposite: awe
+    emotions: [anger, Anticipation]
+    type: human_feeling

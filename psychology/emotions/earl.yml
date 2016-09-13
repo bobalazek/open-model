@@ -1,0 +1,193 @@
+# https://en.wikipedia.org/wiki/Contrasting_and_categorization_of_emotions#HUMAINE.27s_proposal_for_EARL_.28Emotion_Annotation_and_Representation_Language.29
+-
+    name: Anger
+    key: anger
+    category: 'Negative and forceful'
+-
+    name: Annoyance
+    key: annoyance
+    category: 'Negative and forceful'
+-
+    name: Contempt
+    key: contempt
+    category: 'Negative and forceful'
+-
+    name: Disgust
+    key: disgust
+    category: 'Negative and forceful'
+-
+    name: Irritation
+    key: irritation
+    category: 'Negative and forceful'
+-
+    name: Anxiety
+    key: anxiety
+    category: 'Negative and not in control'
+-
+    name: Embarrassment
+    key: embarrassment
+    category: 'Negative and not in control'
+-
+    name: Fear
+    key: fear
+    category: 'Negative and not in control'
+-
+    name: Helplessness
+    key: helplessness
+    category: 'Negative and not in control'
+-
+    name: Powerlessness
+    key: powerlessness
+    category: 'Negative and not in control'
+-
+    name: Worry
+    key: worry
+    category: 'Negative and not in control'
+-
+    name: Doubt
+    key: doubt
+    category: 'Negative thoughts'
+-
+    name: Envy
+    key: envy
+    category: 'Negative thoughts'
+-
+    name: Frustration
+    key: frustration
+    category: 'Negative thoughts'
+-
+    name: Guilt
+    key: guilt
+    category: 'Negative thoughts'
+-
+    name: Shame
+    key: shame
+    category: 'Negative thoughts'
+-
+    name: Boredom
+    key: boredom
+    category: 'Negative and passive'
+-
+    name: Despair
+    key: despair
+    category: 'Negative and passive'
+-
+    name: Disappointment
+    key: disappointment
+    category: 'Negative and passive'
+-
+    name: Hurt
+    key: hurt
+    category: 'Negative and passive'
+-
+    name: Sadness
+    key: sadness
+    category: 'Negative and passive'
+-
+    name: Stress
+    key: stress
+    category: Agitation
+-
+    name: Shock
+    key: shock
+    category: Agitation
+-
+    name: Tension
+    key: tension
+    category: Agitation
+-
+    name: Amusement
+    key: amusement
+    category: 'Positive and lively'
+-
+    name: Delight
+    key: delight
+    category: 'Positive and lively'
+-
+    name: Elation
+    key: elation
+    category: 'Positive and lively'
+-
+    name: Excitement
+    key: excitement
+    category: 'Positive and lively'
+-
+    name: Happiness
+    key: happiness
+    category: 'Positive and lively'
+-
+    name: Joy
+    key: joy
+    category: 'Positive and lively'
+-
+    name: Pleasure
+    key: pleasure
+    category: 'Positive and lively'
+-
+    name: Affection
+    key: affection
+    category: Caring
+-
+    name: Empathy
+    key: empathy
+    category: Caring
+-
+    name: Friendliness
+    key: friendliness
+    category: Caring
+-
+    name: Love
+    key: love
+    category: Caring
+-
+    name: Courage
+    key: courage
+    category: 'Positive thoughts'
+-
+    name: Hope
+    key: hope
+    category: 'Positive thoughts'
+-
+    name: Pride
+    key: pride
+    category: 'Positive thoughts'
+-
+    name: Satisfaction
+    key: satisfaction
+    category: 'Positive thoughts'
+-
+    name: Trust
+    key: trust
+    category: 'Positive thoughts'
+-
+    name: Calmness
+    key: calmness
+    category: 'Quiet positive'
+-
+    name: Contentment
+    key: contentment
+    category: 'Quiet positive'
+-
+    name: Relaxation
+    key: relaxation
+    category: 'Quiet positive'
+-
+    name: Relief
+    key: relief
+    category: 'Quiet positive'
+-
+    name: Serenity
+    key: serenity
+    category: 'Quiet positive'
+-
+    name: Interest
+    key: interest
+    category: Reactive
+-
+    name: Politeness
+    key: politeness
+    category: Reactive
+-
+    name: Surprise
+    key: surprise
+    category: Reactive

@@ -1,0 +1,1255 @@
+# http://www.stevepavlina.com/blog/2004/11/list-of-values/
+-
+    name: Abundance
+    key: abundance
+-
+    name: Acceptance
+    key: acceptance
+-
+    name: Accessibility
+    key: accessibility
+-
+    name: Accomplishment
+    key: accomplishment
+-
+    name: Accountability
+    key: accountability
+-
+    name: Accuracy
+    key: accuracy
+-
+    name: Achievement
+    key: achievement
+-
+    name: Acknowledgement
+    key: acknowledgement
+-
+    name: Activeness
+    key: activeness
+-
+    name: Adaptability
+    key: adaptability
+-
+    name: Adoration
+    key: adoration
+-
+    name: Adroitness
+    key: adroitness
+-
+    name: Advancement
+    key: advancement
+-
+    name: Adventure
+    key: adventure
+-
+    name: Affection
+    key: affection
+-
+    name: Affluence
+    key: affluence
+-
+    name: Aggressiveness
+    key: aggressiveness
+-
+    name: Agility
+    key: agility
+-
+    name: Alertness
+    key: alertness
+-
+    name: Altruism
+    key: altruism
+-
+    name: Amazement
+    key: amazement
+-
+    name: Ambition
+    key: ambition
+-
+    name: Amusement
+    key: amusement
+-
+    name: Anticipation
+    key: anticipation
+-
+    name: Appreciation
+    key: appreciation
+-
+    name: Approachability
+    key: approachability
+-
+    name: Approval
+    key: approval
+-
+    name: Art
+    key: art
+-
+    name: Articulacy
+    key: articulacy
+-
+    name: Artistry
+    key: artistry
+-
+    name: Assertiveness
+    key: assertiveness
+-
+    name: Assurance
+    key: assurance
+-
+    name: Attentiveness
+    key: attentiveness
+-
+    name: Attractiveness
+    key: attractiveness
+-
+    name: Audacity
+    key: audacity
+-
+    name: Availability
+    key: availability
+-
+    name: Awareness
+    key: awareness
+-
+    name: Awe
+    key: awe
+-
+    name: Balance
+    key: balance
+-
+    name: Beauty
+    key: beauty
+-
+    name: 'Being the best'
+    key: being_the_best
+-
+    name: Belonging
+    key: belonging
+-
+    name: Benevolence
+    key: benevolence
+-
+    name: Bliss
+    key: bliss
+-
+    name: Boldness
+    key: boldness
+-
+    name: Bravery
+    key: bravery
+-
+    name: Brilliance
+    key: brilliance
+-
+    name: Buoyancy
+    key: buoyancy
+-
+    name: Calmness
+    key: calmness
+-
+    name: Camaraderie
+    key: camaraderie
+-
+    name: Candor
+    key: candor
+-
+    name: Capability
+    key: capability
+-
+    name: Care
+    key: care
+-
+    name: Carefulness
+    key: carefulness
+-
+    name: Celebrity
+    key: celebrity
+-
+    name: Certainty
+    key: certainty
+-
+    name: Challenge
+    key: challenge
+-
+    name: Change
+    key: change
+-
+    name: Charity
+    key: charity
+-
+    name: Charm
+    key: charm
+-
+    name: Chastity
+    key: chastity
+-
+    name: Cheerfulness
+    key: cheerfulness
+-
+    name: Clarity
+    key: clarity
+-
+    name: Cleanliness
+    key: cleanliness
+-
+    name: Clear-mindedness
+    key: clear-mindedness
+-
+    name: Cleverness
+    key: cleverness
+-
+    name: Closeness
+    key: closeness
+-
+    name: Comfort
+    key: comfort
+-
+    name: Commitment
+    key: commitment
+-
+    name: Community
+    key: community
+-
+    name: Compassion
+    key: compassion
+-
+    name: Competence
+    key: competence
+-
+    name: Competition
+    key: competition
+-
+    name: Completion
+    key: completion
+-
+    name: Composure
+    key: composure
+-
+    name: Concentration
+    key: concentration
+-
+    name: Confidence
+    key: confidence
+-
+    name: Conformity
+    key: conformity
+-
+    name: Congruency
+    key: congruency
+-
+    name: Connection
+    key: connection
+-
+    name: Consciousness
+    key: consciousness
+-
+    name: Conservation
+    key: conservation
+-
+    name: Consistency
+    key: consistency
+-
+    name: Contentment
+    key: contentment
+-
+    name: Continuity
+    key: continuity
+-
+    name: Contribution
+    key: contribution
+-
+    name: Control
+    key: control
+-
+    name: Conviction
+    key: conviction
+-
+    name: Conviviality
+    key: conviviality
+-
+    name: Coolness
+    key: coolness
+-
+    name: Cooperation
+    key: cooperation
+-
+    name: Cordiality
+    key: cordiality
+-
+    name: Correctness
+    key: correctness
+-
+    name: Country
+    key: country
+-
+    name: Courage
+    key: courage
+-
+    name: Courtesy
+    key: courtesy
+-
+    name: Craftiness
+    key: craftiness
+-
+    name: Creativity
+    key: creativity
+-
+    name: Credibility
+    key: credibility
+-
+    name: Cunning
+    key: cunning
+-
+    name: Curiosity
+    key: curiosity
+-
+    name: Daring
+    key: daring
+-
+    name: Decisiveness
+    key: decisiveness
+-
+    name: Decorum
+    key: decorum
+-
+    name: Deference
+    key: deference
+-
+    name: Delight
+    key: delight
+-
+    name: Dependability
+    key: dependability
+-
+    name: Depth
+    key: depth
+-
+    name: Desire
+    key: desire
+-
+    name: Determination
+    key: determination
+-
+    name: Devotion
+    key: devotion
+-
+    name: Devoutness
+    key: devoutness
+-
+    name: Dexterity
+    key: dexterity
+-
+    name: Dignity
+    key: dignity
+-
+    name: Diligence
+    key: diligence
+-
+    name: Direction
+    key: direction
+-
+    name: Directness
+    key: directness
+-
+    name: Discipline
+    key: discipline
+-
+    name: Discovery
+    key: discovery
+-
+    name: Discretion
+    key: discretion
+-
+    name: Diversity
+    key: diversity
+-
+    name: Dominance
+    key: dominance
+-
+    name: Dreaming
+    key: dreaming
+-
+    name: Drive
+    key: drive
+-
+    name: Duty
+    key: duty
+-
+    name: Dynamism
+    key: dynamism
+-
+    name: Eagerness
+    key: eagerness
+-
+    name: Ease
+    key: ease
+-
+    name: Economy
+    key: economy
+-
+    name: Ecstasy
+    key: ecstasy
+-
+    name: Education
+    key: education
+-
+    name: Effectiveness
+    key: effectiveness
+-
+    name: Efficiency
+    key: efficiency
+-
+    name: Elation
+    key: elation
+-
+    name: Elegance
+    key: elegance
+-
+    name: Empathy
+    key: empathy
+-
+    name: Encouragement
+    key: encouragement
+-
+    name: Endurance
+    key: endurance
+-
+    name: Energy
+    key: energy
+-
+    name: Enjoyment
+    key: enjoyment
+-
+    name: Entertainment
+    key: entertainment
+-
+    name: Enthusiasm
+    key: enthusiasm
+-
+    name: Environmentalism
+    key: environmentalism
+-
+    name: Ethics
+    key: ethics
+-
+    name: Euphoria
+    key: euphoria
+-
+    name: Excellence
+    key: excellence
+-
+    name: Excitement
+    key: excitement
+-
+    name: Exhilaration
+    key: exhilaration
+-
+    name: Expectancy
+    key: expectancy
+-
+    name: Expediency
+    key: expediency
+-
+    name: Experience
+    key: experience
+-
+    name: Expertise
+    key: expertise
+-
+    name: Exploration
+    key: exploration
+-
+    name: Expressiveness
+    key: expressiveness
+-
+    name: Extravagance
+    key: extravagance
+-
+    name: Extroversion
+    key: extroversion
+-
+    name: Exuberance
+    key: exuberance
+-
+    name: Fairness
+    key: fairness
+-
+    name: Faith
+    key: faith
+-
+    name: Fame
+    key: fame
+-
+    name: Family
+    key: family
+-
+    name: Fascination
+    key: fascination
+-
+    name: Fashion
+    key: fashion
+-
+    name: Fearlessness
+    key: fearlessness
+-
+    name: Ferocity
+    key: ferocity
+-
+    name: Fidelity
+    key: fidelity
+-
+    name: Fierceness
+    key: fierceness
+-
+    name: 'Financial independence'
+    key: financial_independence
+-
+    name: Firmness
+    key: firmness
+-
+    name: Fitness
+    key: fitness
+-
+    name: Flexibility
+    key: flexibility
+-
+    name: Flow
+    key: flow
+-
+    name: Fluency
+    key: fluency
+-
+    name: Focus
+    key: focus
+-
+    name: Fortitude
+    key: fortitude
+-
+    name: Frankness
+    key: frankness
+-
+    name: Freedom
+    key: freedom
+-
+    name: Friendliness
+    key: friendliness
+-
+    name: Friendship
+    key: friendship
+-
+    name: Frugality
+    key: frugality
+-
+    name: Fun
+    key: fun
+-
+    name: Gallantry
+    key: gallantry
+-
+    name: Generosity
+    key: generosity
+-
+    name: Gentility
+    key: gentility
+-
+    name: Giving
+    key: giving
+-
+    name: Grace
+    key: grace
+-
+    name: Gratitude
+    key: gratitude
+-
+    name: Gregariousness
+    key: gregariousness
+-
+    name: Growth
+    key: growth
+-
+    name: Guidance
+    key: guidance
+-
+    name: Happiness
+    key: happiness
+-
+    name: Harmony
+    key: harmony
+-
+    name: Health
+    key: health
+-
+    name: Heart
+    key: heart
+-
+    name: Helpfulness
+    key: helpfulness
+-
+    name: Heroism
+    key: heroism
+-
+    name: Holiness
+    key: holiness
+-
+    name: Honesty
+    key: honesty
+-
+    name: Honor
+    key: honor
+-
+    name: Hopefulness
+    key: hopefulness
+-
+    name: Hospitality
+    key: hospitality
+-
+    name: Humility
+    key: humility
+-
+    name: Humor
+    key: humor
+-
+    name: Hygiene
+    key: hygiene
+-
+    name: Imagination
+    key: imagination
+-
+    name: Impact
+    key: impact
+-
+    name: Impartiality
+    key: impartiality
+-
+    name: Independence
+    key: independence
+-
+    name: Individuality
+    key: individuality
+-
+    name: Industry
+    key: industry
+-
+    name: Influence
+    key: influence
+-
+    name: Ingenuity
+    key: ingenuity
+-
+    name: Inquisitiveness
+    key: inquisitiveness
+-
+    name: Insightfulness
+    key: insightfulness
+-
+    name: Inspiration
+    key: inspiration
+-
+    name: Integrity
+    key: integrity
+-
+    name: Intellect
+    key: intellect
+-
+    name: Intelligence
+    key: intelligence
+-
+    name: Intensity
+    key: intensity
+-
+    name: Intimacy
+    key: intimacy
+-
+    name: Intrepidness
+    key: intrepidness
+-
+    name: Introspection
+    key: introspection
+-
+    name: Introversion
+    key: introversion
+-
+    name: Intuition
+    key: intuition
+-
+    name: Intuitiveness
+    key: intuitiveness
+-
+    name: Inventiveness
+    key: inventiveness
+-
+    name: Investing
+    key: investing
+-
+    name: Involvement
+    key: involvement
+-
+    name: Joy
+    key: joy
+-
+    name: Judiciousness
+    key: judiciousness
+-
+    name: Justice
+    key: justice
+-
+    name: Keenness
+    key: keenness
+-
+    name: Kindness
+    key: kindness
+-
+    name: Knowledge
+    key: knowledge
+-
+    name: Leadership
+    key: leadership
+-
+    name: Learning
+    key: learning
+-
+    name: Liberation
+    key: liberation
+-
+    name: Liberty
+    key: liberty
+-
+    name: Lightness
+    key: lightness
+-
+    name: Liveliness
+    key: liveliness
+-
+    name: Logic
+    key: logic
+-
+    name: Longevity
+    key: longevity
+-
+    name: Love
+    key: love
+-
+    name: Loyalty
+    key: loyalty
+-
+    name: Majesty
+    key: majesty
+-
+    name: 'Making a difference'
+    key: making_a_difference
+-
+    name: Marriage
+    key: marriage
+-
+    name: Mastery
+    key: mastery
+-
+    name: Maturity
+    key: maturity
+-
+    name: Meaning
+    key: meaning
+-
+    name: Meekness
+    key: meekness
+-
+    name: Mellowness
+    key: mellowness
+-
+    name: Meticulousness
+    key: meticulousness
+-
+    name: Mindfulness
+    key: mindfulness
+-
+    name: Modesty
+    key: modesty
+-
+    name: Motivation
+    key: motivation
+-
+    name: Mysteriousness
+    key: mysteriousness
+-
+    name: Nature
+    key: nature
+-
+    name: Neatness
+    key: neatness
+-
+    name: Nerve
+    key: nerve
+-
+    name: Noncomformity
+    key: noncomformity
+-
+    name: Obedience
+    key: obedience
+-
+    name: Open-mindedness
+    key: open-mindedness
+-
+    name: Openness
+    key: openness
+-
+    name: Optimism
+    key: optimism
+-
+    name: Order
+    key: order
+-
+    name: Organization
+    key: organization
+-
+    name: Originality
+    key: originality
+-
+    name: Outdoors
+    key: outdoors
+-
+    name: Outlandishness
+    key: outlandishness
+-
+    name: Outrageousness
+    key: outrageousness
+-
+    name: Partnership
+    key: partnership
+-
+    name: Patience
+    key: patience
+-
+    name: Passion
+    key: passion
+-
+    name: Peace
+    key: peace
+-
+    name: Perceptiveness
+    key: perceptiveness
+-
+    name: Perfection
+    key: perfection
+-
+    name: Perkiness
+    key: perkiness
+-
+    name: Perseverance
+    key: perseverance
+-
+    name: Persistence
+    key: persistence
+-
+    name: Persuasiveness
+    key: persuasiveness
+-
+    name: Philanthropy
+    key: philanthropy
+-
+    name: Piety
+    key: piety
+-
+    name: Playfulness
+    key: playfulness
+-
+    name: Pleasantness
+    key: pleasantness
+-
+    name: Pleasure
+    key: pleasure
+-
+    name: Poise
+    key: poise
+-
+    name: Polish
+    key: polish
+-
+    name: Popularity
+    key: popularity
+-
+    name: Potency
+    key: potency
+-
+    name: Power
+    key: power
+-
+    name: Practicality
+    key: practicality
+-
+    name: Pragmatism
+    key: pragmatism
+-
+    name: Precision
+    key: precision
+-
+    name: Preparedness
+    key: preparedness
+-
+    name: Presence
+    key: presence
+-
+    name: Pride
+    key: pride
+-
+    name: Privacy
+    key: privacy
+-
+    name: Proactivity
+    key: proactivity
+-
+    name: Professionalism
+    key: professionalism
+-
+    name: Prosperity
+    key: prosperity
+-
+    name: Prudence
+    key: prudence
+-
+    name: Punctuality
+    key: punctuality
+-
+    name: Purity
+    key: purity
+-
+    name: Rationality
+    key: rationality
+-
+    name: Realism
+    key: realism
+-
+    name: Reason
+    key: reason
+-
+    name: Reasonableness
+    key: reasonableness
+-
+    name: Recognition
+    key: recognition
+-
+    name: Recreation
+    key: recreation
+-
+    name: Refinement
+    key: refinement
+-
+    name: Reflection
+    key: reflection
+-
+    name: Relaxation
+    key: relaxation
+-
+    name: Reliability
+    key: reliability
+-
+    name: Relief
+    key: relief
+-
+    name: Religiousness
+    key: religiousness
+-
+    name: Reputation
+    key: reputation
+-
+    name: Resilience
+    key: resilience
+-
+    name: Resolution
+    key: resolution
+-
+    name: Resolve
+    key: resolve
+-
+    name: Resourcefulness
+    key: resourcefulness
+-
+    name: Respect
+    key: respect
+-
+    name: Responsibility
+    key: responsibility
+-
+    name: Rest
+    key: rest
+-
+    name: Restraint
+    key: restraint
+-
+    name: Reverence
+    key: reverence
+-
+    name: Richness
+    key: richness
+-
+    name: Rigor
+    key: rigor
+-
+    name: Sacredness
+    key: sacredness
+-
+    name: Sacrifice
+    key: sacrifice
+-
+    name: Sagacity
+    key: sagacity
+-
+    name: Saintliness
+    key: saintliness
+-
+    name: Sanguinity
+    key: sanguinity
+-
+    name: Satisfaction
+    key: satisfaction
+-
+    name: Science
+    key: science
+-
+    name: Security
+    key: security
+-
+    name: Self-control
+    key: self-control
+-
+    name: Selflessness
+    key: selflessness
+-
+    name: Self-reliance
+    key: self-reliance
+-
+    name: Self-respect
+    key: self-respect
+-
+    name: Sensitivity
+    key: sensitivity
+-
+    name: Sensuality
+    key: sensuality
+-
+    name: Serenity
+    key: serenity
+-
+    name: Service
+    key: service
+-
+    name: Sexiness
+    key: sexiness
+-
+    name: Sexuality
+    key: sexuality
+-
+    name: Sharing
+    key: sharing
+-
+    name: Shrewdness
+    key: shrewdness
+-
+    name: Significance
+    key: significance
+-
+    name: Silence
+    key: silence
+-
+    name: Silliness
+    key: silliness
+-
+    name: Simplicity
+    key: simplicity
+-
+    name: Sincerity
+    key: sincerity
+-
+    name: Skillfulness
+    key: skillfulness
+-
+    name: Solidarity
+    key: solidarity
+-
+    name: Solitude
+    key: solitude
+-
+    name: Sophistication
+    key: sophistication
+-
+    name: Soundness
+    key: soundness
+-
+    name: Speed
+    key: speed
+-
+    name: Spirit
+    key: spirit
+-
+    name: Spirituality
+    key: spirituality
+-
+    name: Spontaneity
+    key: spontaneity
+-
+    name: Spunk
+    key: spunk
+-
+    name: Stability
+    key: stability
+-
+    name: Status
+    key: status
+-
+    name: Stealth
+    key: stealth
+-
+    name: Stillness
+    key: stillness
+-
+    name: Strength
+    key: strength
+-
+    name: Structure
+    key: structure
+-
+    name: Success
+    key: success
+-
+    name: Support
+    key: support
+-
+    name: Supremacy
+    key: supremacy
+-
+    name: Surprise
+    key: surprise
+-
+    name: Sympathy
+    key: sympathy
+-
+    name: Synergy
+    key: synergy
+-
+    name: Teaching
+    key: teaching
+-
+    name: Teamwork
+    key: teamwork
+-
+    name: Temperance
+    key: temperance
+-
+    name: Thankfulness
+    key: thankfulness
+-
+    name: Thoroughness
+    key: thoroughness
+-
+    name: Thoughtfulness
+    key: thoughtfulness
+-
+    name: Thrift
+    key: thrift
+-
+    name: Tidiness
+    key: tidiness
+-
+    name: Timeliness
+    key: timeliness
+-
+    name: Traditionalism
+    key: traditionalism
+-
+    name: Tranquility
+    key: tranquility
+-
+    name: Transcendence
+    key: transcendence
+-
+    name: Trust
+    key: trust
+-
+    name: Trustworthiness
+    key: trustworthiness
+-
+    name: Truth
+    key: truth
+-
+    name: Understanding
+    key: understanding
+-
+    name: Unflappability
+    key: unflappability
+-
+    name: Uniqueness
+    key: uniqueness
+-
+    name: Unity
+    key: unity
+-
+    name: Usefulness
+    key: usefulness
+-
+    name: Utility
+    key: utility
+-
+    name: Valor
+    key: valor
+-
+    name: Variety
+    key: variety
+-
+    name: Victory
+    key: victory
+-
+    name: Vigor
+    key: vigor
+-
+    name: Virtue
+    key: virtue
+-
+    name: Vision
+    key: vision
+-
+    name: Vitality
+    key: vitality
+-
+    name: Vivacity
+    key: vivacity
+-
+    name: Volunteering
+    key: volunteering
+-
+    name: Warmheartedness
+    key: warmheartedness
+-
+    name: Warmth
+    key: warmth
+-
+    name: Watchfulness
+    key: watchfulness
+-
+    name: Wealth
+    key: wealth
+-
+    name: Willfulness
+    key: willfulness
+-
+    name: Willingness
+    key: willingness
+-
+    name: Winning
+    key: winning
+-
+    name: Wisdom
+    key: wisdom
+-
+    name: Wittiness
+    key: wittiness
+-
+    name: Wonder
+    key: wonder
+-
+    name: Worthiness
+    key: worthiness
+-
+    name: Youthfulness
+    key: youthfulness
+-
+    name: Zeal
+    key: zeal
