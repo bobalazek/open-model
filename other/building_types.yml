@@ -1,0 +1,184 @@
+# Agricultural
+agricultural: Agricultural
+agricultural.barn: Agricultural > Barn
+agricultural.chickenhouse: Agricultural > Chickenhouse
+agricultural.cow_shed: Agricultural > Cow-shed
+agricultural.farmhouse: Agricultural > Farmhouse
+agricultural.granary: Agricultural > Granary
+agricultural.greenhouse: Agricultural > Greenhouse
+agricultural.hayloft: Agricultural > Hayloft
+agricultural.pigpen: Agricultural > Pigpen / sty
+agricultural.root_cellar: Agricultural > Root cellar
+agricultural.shed: Agricultural > Shed
+agricultural.silo: Agricultural > Silo
+agricultural.stable: Agricultural > Stable
+agricultural.stall: Agricultural > Stall
+agricultural.storm_cellar: Agricultural > Storm cellar
+agricultural.well_house: Agricultural > Well house
+agricultural.plant_nursery: Agricultural > Plant nursery
+
+# Commercial
+commercial: Commercial
+commercial.automobile_repair_shop: Commercial > Automobile repair shop
+commercial.car_wash: Commercial > Car wash
+commercial.convention_shop: Commercial > Convention shop
+commercial.forum: Commercial > Forum
+commercial.gas_station: Commercial > Gas station
+commercial.hotel: Commercial > Hotel
+commercial.motel: Commercial > Motel
+commercial.internet_cafe: Commercial > Internet cafe
+commercial.pub: Commercial > Pub
+commercial.shopping_mall: Commercial > Shopping mall
+commercial.department_store: Commercial > Department store
+commercial.market: Commercial > Market
+commercial.market_house: Commercial > Market house
+commercial.wet_market: Commercial > Wet market
+commercial.hypermarket: Commercial > Hypermarket
+commercial.mini_market: Commercial > Mini market
+commercial.skyscraper: Commercial > Skyscraper
+commercial.shop: Commercial > Shop
+commercial.supermarket: Commercial > Supermarket
+commercial.restaurant: Commercial > Restaurant
+commercial.food_court: Commercial > Food court
+commercial.pizzeria: Commercial > Pizzeria
+commercial.fast_food_restaurant: Commercial > Fast-food restautrant
+commercial.bakery: Commercial > Bakery
+commercial.eatery: Commercial > Eatery
+commercial.beauty_salon: Commercial > Beauty salon
+commercial.office_building: Commercial > Office building
+commercial.swimming_pool: Commercial > Swimming pool
+commercial.bathhouse: Commercial > Bathhouse
+commercial.gym: Commercial > Gym
+commercial.sport_club: Commercial > Sport club
+commercial.warehouse: Commercial > Warehouse
+commercial.workshop: Commercial > Workshop
+commercial.garage: Commercial > Garage
+commercial.bookstore: Commercial > Bookstore / Bookshop
+commercial.floristry: Commercial > Floristry
+commercial.film_studio: Commercial > Film studio
+commercial.park: Commercial > Park
+
+# Residential
+residential: Residential
+residential.apartment_block: Residential > Apartment block
+residential.asylum: Residential > Asylum
+residential.condominium: Residential > Condominium
+residential.dormitory: Residential > Dormitory
+residential.duplex: Residential > Duplex
+residential.house: Residential > House
+residential.nursing_home: Residential > Nursing home
+residential.townhouse: Residential > Townhouse
+residential.villa: Residential > Villa
+residential.bungalow: Residential > Bungalow
+residential.unit: Residential > Unit
+residential.hut: Residential > Hut
+residential.igloo: Residential > Igloo
+
+# Educational
+educational: Educational
+educational.archive: Educational > Archive
+educational.boarding_school: Educational > Boarding school
+educational.college: Educational > College
+educational.library: Educational > Library
+educational.school: Educational > School
+educational.museum: Educational > Museum
+educational.museum.art_gallery: Educational > Museum > Art gallery
+educational.theather: Educational > Theather
+educational.theather.amphitheater: Educational > Theather > Amphitheater
+educational.theather.concert_hall: Educational > Theather > Concert hall
+educational.theather.cinema: Educational > Theather > Cinema
+educational.theather.opera_house: Educational > Theather > Opera house
+
+# Government
+government: Government
+government.community_hall_centre: Government > Community hall / centre
+government.city_hall: Government > City hall
+government.consulate: Government > Consulate
+government.court_house: Government > Court house
+government.embassy: Government > Embassy
+government.fire_station: Government > Fire station
+government.meeting_house: Government > Meeting house
+government.moot_hall: Government > Moot hall
+government.palace: Government > Palace
+government.parliament: Government > Parliament
+government.police_station: Government > Police station
+government.post_office: Government > Post office
+government.prison: Government > Prison
+government.hospital: Government > Hospital
+government.hospice: Government > Hospice
+government.clinic: Government > Clinic
+
+# Industrial
+industrial: Industrial
+industrial.brewery: Industrial > Brewery
+industrial.factory: Industrial > Factory
+industrial.foundry: Industrial > Foundry
+industrial.power_plant: Industrial > Power plant
+industrial.winery: Industrial > Winery
+industrial.mill: Industrial > Mill
+industrial.mill.milling: Industrial > Mill > Milling
+industrial.mill.smelting: Industrial > Mill > Smelting
+
+# Military
+military: Military
+military.arsenal: Military > Arsenal
+military.barracks: Military > Barracks
+military.bunker: Military > Bunker
+military.bunker.blockhouse: Military > Bunker > Blockhouse
+military.castle: Military > Castle
+military.citadel: Military > Citadel
+military.fortress: Military > Fortress
+
+# Parking structures and storage
+parking_structures_and_storage: Parking structures and storage
+parking_structures_and_storage.boathouse: Parking structures and storage > Boathouse
+parking_structures_and_storage.garage: Parking structures and storage > Garage
+parking_structures_and_storage.hangar: Parking structures and storage > Hangar
+parking_structures_and_storage.storage_silo: Parking structures and storage > Storage silo
+
+# Religious
+religious: Religious
+religious.church: Religious > Church
+religious.church.basilica: Religious > Church > Basilica
+religious.church.cathedral: Religious > Church > Cathedral
+religious.church.cathedral.duomo: Religious > Church > Cathedral > Duomo
+religious.church.chapel: Religious > Church > Chapel
+religious.church.oratory: Religious > Church > Oratory
+religious.church.martyrium: Religious > Church > Martyrium
+religious.mosque: Religious > Mosque
+religious.mosque.mihrab: Religious > Mosque > Mihrab
+religious.mosque.surau: Religious > Mosque > Surau
+religious.imambargah: Religious > Imambargah
+religious.monastery: Religious > Monastery
+religious.mithraeum: Religious > Mithraeum
+religious.fire_temple: Religious > Fire temple
+religious.shrine: Religious > Shrine
+religious.synagogue: Religious > Synagogue
+religious.temple: Religious > Temple
+religious.pagoda: Religious > Pagoda
+religious.gurdwara: Religious > Gurdwara
+religious.hindu_temple: Religious > Hindu temple
+
+# Transport
+transport: Transport
+transport.airport: Transport > Airport
+transport.bus_station: Transport > Bus station
+transport.metro_station: Transport > Metro station
+transport.taxi_station: Transport > Taxi station
+transport.railway_station: Transport > Railway station
+transport.railway_station.signal_box: Transport > Raiway station > Signal box
+transport.lighthouse: Transport > Lighthouse
+transport.parking_garage: Transport > Parking_ garage
+
+# Infrastructure
+infrastructure: Infrastructure
+infrastructure.data_centre: Infrastructure > Data centre
+
+# Power station / plant
+power_station_plant: Power station
+power_station_plant.fossil_fuel: Power station > Fossil fuel
+power_station_plant.nuclear: Power station > Nuclear
+power_station_plant.geothermal: Power station > Geothermal
+power_station_plant.biomass_fuelled: Power station > Biomass-fuelled
+power_station_plant.waste_heat: Power station > Waste heat
+power_station_plant.renewable_enery: Power station > Renewable energy
