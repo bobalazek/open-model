@@ -1,0 +1,70 @@
+# Motor vehicle
+motor_vehicle.car:
+    sedan: Sedan
+    sports: Sports
+    suv: SUV
+    pickup: Pickup
+    coupe: Coupe
+    van: Van
+    minivan: Minivan
+    hatchback: Hatchback
+    converible: Convertible
+    limousine: Limousine
+    hardtop: Hardtop
+
+motor_vehicle.motorcycle:
+    # Street
+    roadster: Roadster
+    cruiser: Cruiser
+    sports: Sports
+    touring: Touring
+    dual_sports: Dual-sports
+    scooter_underbone_and_moped: Scooter, underbone and moped
+    # Off-road
+    motocross: Motocross
+    enduro: Enduro
+    rally_raid: Rally raid
+    trial: Trial
+    track_racing: Track racing
+    # Other
+    tricycle: Tricycle
+
+motor_vehicle.motorhome:
+    type_a: Type A
+    type_b: Type B
+    type_c: Type C
+    # Towable
+    conventional_trailer: Conventional trailer
+    fifth_wheel_trailer: Fifth-Wheel trailer
+    expandable_ends_trailer: Expandable ends trailer
+    floding_camping_trailer: Floding camping trailer
+    sport_utility_trailer: Sport utility trailer
+    truck_camper: Truck camper
+
+motor_vehicle.truck:
+    flat_bed: Flat bed
+    tipper: Tipper
+    curtain_sider: Curtain-sider
+    box_body: Box body
+    temperature_controller_body: Temperature-controller body
+    luton_peak_body: Luton peak body
+    road_tanker: Road tanker
+
+motor_vehicle.bus:
+    mini: Mini
+    town: Town
+    suburban: Suburban
+    luxury_coach: Luxury coach
+
+# Watercraft
+watercraft:
+    bargage: Bargage
+    cargo: Cargo
+    ferry: Ferry
+    yacht: Yacht
+    high_speed: High speed
+    fishing: Fishing
+    passenger: Passenger
+    service: Service
+    tug: Tug
+    tanker: Tanker
