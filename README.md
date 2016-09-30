@@ -13,3 +13,6 @@ Data for now:
 
 * Other:
   * Stopwords
+  * Building types
+  * Vehicle types
+  * Vehicle body types
