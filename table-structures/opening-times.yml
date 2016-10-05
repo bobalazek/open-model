@@ -1,0 +1,7 @@
+day # 0 = Sunday; 1 = Monday; 2 = Tuesday; 3 = Wednesday; 4 = Thursday; 5 = Friday; 6 = Saturday; 9 = Exception
+time_open # when it opens
+time_close # when it closes
+exception_global # If you don't want so specify each and every holiday separately, you can just set this flag and it will take all the system pre-defined holidays (which you should hardcode somewhere) into account. In the fronted that would just show "Holidays: 09:00 - 12:00" (or something like that)
+exception_name # what it the name of that exception / holiday
+exception_date # fow which explicit date is that exception?
+closed # Example of usage: The place / business has set their default exception to some hours (like open: 08:00; closed: 16:00), but there actually is an exception (more detailed - defined by exception_date), with it's closed. So with that setting, we can then overwrite that, rather then set all exceptions separately.
