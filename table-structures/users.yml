@@ -1,0 +1,28 @@
+locale
+timezone
+currency
+username
+password
+password_old # MUST not be saved in the database. You'll use it in the entity when changing your current password to the new one (for validation)
+password_new # MUST not be saved in the database. You'll use it in the entity when setting a new password (for validation)
+password_plain # MUST not be saved in the database. You'll temporary need to have it in the entity when you'll salt it
+salt
+email
+email_new # when you're setting a new email, you'll temporary need to save it, until you confirm it
+roles # an array of all the permissions this user has
+type # could be used, if you need a simple premission system (normal, admin, ...)
+plan # in case it's an app that has premium features (free, bronze, silver, ...)
+plan_expires_at
+enabled
+locked
+locked_reason
+verified
+newsletter # should the user get newsletter?
+reset_password_code # used as the token for resetting password
+reset_password_code_expires_at
+new_email_code # used as the token when setting a new email
+referrer_code # in case you'll need referrer stuff
+last_active_at
+created_at
+updated_at
+deleted_at # for soft deletes
