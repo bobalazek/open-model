@@ -6,7 +6,7 @@
     category: 'Formal fallacies'
     sources: ['https://en.wikipedia.org/wiki/Misleading_vividness']
 -
-    name: 'Appeal to probability '
+    name: 'Appeal to probability'
     key: appeal_to_propability
     description: 'is a statement that takes something for granted because it would probably be the case (or might be the case).'
     category: 'Formal fallacies'
@@ -171,7 +171,7 @@
     category: 'Informal fallacies'
     sources: ['https://en.wikipedia.org/wiki/Ad_hominem']
 -
-    name: 'ergo decedo'
+    name: 'Ergo decedo'
     key: ergo_decedo
     description: 'where a critic''s perceived affiliation is seen as the underlying reason for the criticism and the critic is asked to stay away from the issue altogether.'
     category: 'Informal fallacies'
@@ -240,7 +240,7 @@
     parent: correlative_based_fallacies
     sources: ['https://en.wikipedia.org/wiki/Suppressed_correlative']
 -
-    name: Equivocation
+    name: 'Equivocation'
     key: equivocation
     description: 'the misleading use of a term with more than one meaning (by glossing over which meaning is intended at a particular time).'
     category: 'Informal fallacies'
@@ -366,7 +366,7 @@
     description: 'The experts of a field of knowledge disagree on a certain point, so the scholars must know nothing, and therefore the legitimacy of their entire field is put to question.'
     category: 'Informal fallacies'
 -
-    name: If-by-whiskey
+    name: 'If-by-whiskey'
     key: if_by_whiskey
     description: 'an argument that supports both sides of an issue by using terms that are selectively emotionally sensitive.'
     category: 'Informal fallacies'
@@ -517,7 +517,7 @@
     category: 'Informal fallacies'
     sources: ['https://en.wikipedia.org/wiki/Regression_fallacy']
 -
-    name: Reification
+    name: 'Reification'
     key: reification
     description: 'a fallacy of ambiguity, when an abstraction (abstract belief or hypothetical construct) is treated as if it were a concrete, real event or physical entity. In other words, it is the error of treating as a "real thing" something that is not a real thing, but merely an idea.'
     category: 'Informal fallacies'
@@ -555,7 +555,7 @@
     sub_category: 'Faulty generalizations'
     sources: ['https://en.wikipedia.org/wiki/Faulty_generalization']
 -
-    name: Accident
+    name: 'Accident'
     key: accident
     description: 'an exception to a generalization is ignored.'
     category: 'Informal fallacies'
@@ -815,7 +815,7 @@
     aliases: ['guilt by association']
     sources: ['https://en.wikipedia.org/wiki/Association_fallacy']
 -
-    name: Bulverism
+    name: 'Bulverism'
     key: bulverism
     description: 'inferring why an argument is being used, associating it to some psychological reason, then assuming it is invalid as a result. It is wrong to assume that if the origin of an idea comes from a biased mind, then the idea itself must also be a falsehood'
     category: 'Informal fallacies'
@@ -859,7 +859,7 @@
     aliases: ['is–ought fallacy', 'naturalistic fallacy']
     sources: ['https://en.wikipedia.org/wiki/Naturalistic_fallacy']
 -
-    name: Pooh-pooh
+    name: 'Pooh-pooh'
     key: pooh_pooh
     description: 'dismissing an argument unworthy of serious consideration.'
     category: 'Informal fallacies'
