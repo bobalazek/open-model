@@ -14,15 +14,27 @@ type # could be used, if you need a simple premission system (normal, admin, ...
 plan # in case it's an app that has premium features (free, bronze, silver, ...)
 plan_expires_at
 enabled
+enabled_at
+enabled_by
 locked
 locked_reason
+locked_at
+locked_by
 verified
+verified_at
+verified_by
 newsletter # should the user get newsletter?
+newsletter_subsribed_at
+newsletter_unsubscribed_reason
+newsletter_unsubscribed_at
 reset_password_code # used as the token for resetting password
 reset_password_code_expires_at
 new_email_code # used as the token when setting a new email
 referrer_code # in case you'll need referrer stuff
 last_active_at
 created_at
+created_by
 updated_at
+updated_by
 deleted_at # for soft deletes
+deleted_by
