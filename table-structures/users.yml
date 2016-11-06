@@ -16,6 +16,8 @@ plan_expires_at
 enabled
 enabled_at
 enabled_by
+disabled
+disabled_at # when the user disables himself
 locked
 locked_reason
 locked_at
