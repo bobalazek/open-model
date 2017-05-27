@@ -11,6 +11,13 @@ Data for now:
   * Personality traits
   * Values
 
+* Table Structures:
+  * Addresses
+  * Opening times
+  * Profiles
+  * Transactions
+  * Users
+
 * Other:
   * Stopwords
   * Building types
