@@ -1,4 +1,4 @@
-Borut Balazek's - Open Model
+Borut Balazek - Open Model
 ========
 
 Here I'm going to add my own personal Open Modal data.
