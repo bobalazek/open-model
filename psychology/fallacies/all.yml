@@ -227,7 +227,7 @@
   key: informal.argumentum_verbosium
   name: "Argumentum verbosium"
   related: 
-    - proof_by_verbosity
+    - informal.proof_by_verbosity
   sources: 
     - "https://en.wikipedia.org/wiki/Proof_by_intimidation"
 - 
@@ -545,7 +545,7 @@
   key: informal.anti_naturalistic_fallacy
   name: "Naturalistic fallacy"
   related: 
-    - argument_from_fallacy
+    - formal.argument_from_fallacy
 - 
   aliases: 
     - "perfect solution fallacy"
@@ -597,7 +597,7 @@
   key: informal.proof_by_verbosity
   name: "Proof by verbosity"
   related: 
-    - appeal_to_authority
+    - informal.red_herring.appeal_to_authority
   sources: 
     - "https://en.wikipedia.org/wiki/Proof_by_intimidation"
 - 
@@ -666,7 +666,7 @@
   key: informal.shotgun_argumentation
   name: "Shotgun argumentation"
   related: 
-    - appeal_to_verbosity
+    - informal.proof_by_verbosity
 - 
   category: "Informal fallacies"
   description: " where a proponent of a position attempts to cite something as an exemption to a generally accepted rule or principle without justifying the exemption."
