@@ -215,7 +215,7 @@
   description: "where a critic's perceived affiliation is seen as the underlying reason for the criticism and the critic is asked to stay away from the issue altogether."
   key: informal.ergo_decedo
   name: "Ergo decedo"
-  parent: argumentum_ad_hominem
+  parent: informal.argumentum_ad_hominem
   sources: 
     - "https://en.wikipedia.org/wiki/Ergo_decedo"
 - 
@@ -290,7 +290,7 @@
   description: "a faulty assumption that correlation between two variables implies that one causes the other."
   key: informal.correlation_proves_causation
   name: "Correlation proves causation"
-  parent: correlative_based_fallacies
+  parent: informal.correlative_based_fallacies
   sources: 
     - "https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc"
 - 
@@ -298,7 +298,7 @@
   description: "where a correlative is redefined so that one alternative is made impossible"
   key: informal.suppressed_correlative
   name: "Suppressed correlative"
-  parent: correlative_based_fallacies
+  parent: informal.correlative_based_fallacies
   sources: 
     - "https://en.wikipedia.org/wiki/Suppressed_correlative"
 - 
@@ -313,7 +313,7 @@
   description: "a common ambiguity in syllogisms in which the middle term is equivocated"
   key: informal.ambiguous_middle_term
   name: "Ambiguous middle term"
-  parent: equivocation
+  parent: informal.equivocation
   sources: 
     - "https://en.wikipedia.org/wiki/Fallacy_of_four_terms"
 - 
@@ -321,7 +321,7 @@
   description: "changing the meaning of a word to deal with an objection raised against the original wording."
   key: informal.definitional_retreat
   name: "Definitional retreat"
-  parent: equivocation
+  parent: informal.equivocation
 - 
   category: "Informal fallacies"
   description: "inferences about the nature of specific individuals are based solely upon aggregate statistics collected for the group to which those individuals belong"
@@ -371,7 +371,7 @@
   description: "refers to the selective excerpting of words from their original context in a way that distorts the source's intended meaning"
   key: informal.fallacy_of_quoting_out_of_context
   name: "Fallacy of quoting out of context"
-  parent: false_attribution
+  parent: informal.false_attribution
   sources: 
     - "https://en.wikipedia.org/wiki/Fallacy_of_quoting_out_of_context"
 - 
@@ -699,10 +699,10 @@
   sub_category: "Faulty generalizations"
 - 
   category: "Informal fallacies"
-  description: "when a generalization is made true only when a counterexample is ruled out on shaky grounds."
+  description: "makes a generalization true by changing the generalization to exclude a counterexample."
   key: informal.faulty_generalizations.no_true_scotsman
   name: "No true Scotsman"
-  parent: accident
+  parent: informal.faulty_generalizations.accident
   sources: 
     - "https://en.wikipedia.org/wiki/No_true_Scotsman"
   sub_category: "Faulty generalizations"
@@ -722,7 +722,7 @@
   description: "when a small number of survivors of a given process are actively promoted while completely ignoring a large number of failures."
   key: informal.faulty_generalizations.survivorship_bias
   name: "Survivorship bias"
-  parent: cherry_picking
+  parent: informal.faulty_generalizations.cherry_picking
   sources: 
     - "https://en.wikipedia.org/wiki/Survivorship_bias"
   sub_category: "Faulty generalizations"
@@ -803,7 +803,7 @@
   description: "a type of ad hominem where adverse information about a target is presented with the intention of discrediting everything that the target person says."
   key: informal.red_herring.poisoning_the_well
   name: "Poisoning the well"
-  parent: ad_hominem
+  parent: informal.red_herring.ad_hominem
   sources: 
     - "https://en.wikipedia.org/wiki/Poisoning_the_well"
   sub_category: "Red herring fallacies"
@@ -812,7 +812,7 @@
   description: "a subtype of \"ad hominem\" when it turns into verbal abuse of the opponent rather than arguing about the originally proposed argument"
   key: informal.red_herring.abusive_fallacy
   name: "Abusive fallacy"
-  parent: ad_hominem
+  parent: informal.red_herring.ad_hominem
   sources: 
     - "https://en.wikipedia.org/wiki/Ad_hominem#Abusive"
   sub_category: "Red herring fallacies"
@@ -838,7 +838,7 @@
   description: "where an assertion is deemed true or false based on the accomplishments of the proposer."
   key: informal.red_herring.appeal_to_accomplishment
   name: "Appeal to accomplishment"
-  parent: appeal_to_authority
+  parent: informal.red_herring.appeal_to_authority
   sources: 
     - "https://en.wikipedia.org/wiki/Appeal_to_accomplishment"
   sub_category: "Red herring fallacies"
@@ -865,7 +865,7 @@
   description: "a specific type of appeal to emotion where an argument is made by increasing fear and prejudice towards the opposing side."
   key: informal.red_herring.appeal_to_fear
   name: "Appeal to fear"
-  parent: appeal_to_emotion
+  parent: informal.red_herring.appeal_to_emotion
   sources: 
     - "https://en.wikipedia.org/wiki/Appeal_to_fear"
   sub_category: "Red herring fallacies"
@@ -874,7 +874,7 @@
   description: "a specific type of appeal to emotion where an argument is made due to the use of flattery to gather support."
   key: informal.red_herring.appeal_to_flattery
   name: "Appeal to flattery"
-  parent: appeal_to_emotion
+  parent: informal.red_herring.appeal_to_emotion
   sources: 
     - "https://en.wikipedia.org/wiki/Appeal_to_flattery"
   sub_category: "Red herring fallacies"
@@ -885,7 +885,7 @@
   description: "an argument attempts to induce pity to sway opponents."
   key: informal.red_herring.appeal_to_pity
   name: "Appeal to pity"
-  parent: appeal_to_emotion
+  parent: informal.red_herring.appeal_to_emotion
   sources: 
     - "https://en.wikipedia.org/wiki/Appeal_to_pity"
   sub_category: "Red herring fallacies"
@@ -894,7 +894,7 @@
   description: "an argument is made by presenting the opponent's argument in a way that makes it appear ridiculous."
   key: informal.red_herring.appeal_to_ridicule
   name: "Appeal to ridicule"
-  parent: appeal_to_emotion
+  parent: informal.red_herring.appeal_to_emotion
   sources: 
     - "https://en.wikipedia.org/wiki/Appeal_to_ridicule"
   sub_category: "Red herring fallacies"
@@ -903,7 +903,7 @@
   description: "a specific type of appeal to emotion where an argument is made through exploiting people's bitterness or spite towards an opposing party"
   key: informal.red_herring.appeal_to_spite
   name: "Appeal to spite"
-  parent: appeal_to_emotion
+  parent: informal.red_herring.appeal_to_emotion
   sources: 
     - "https://en.wikipedia.org/wiki/Appeal_to_spite"
   sub_category: "Red herring fallacies"
@@ -912,7 +912,7 @@
   description: "a specific type of appeal to emotion where a decision is made according to what might be pleasing to imagine, rather than according to evidence or reason."
   key: informal.red_herring.wishful_thinking
   name: "Wishful thinking"
-  parent: appeal_to_emotion
+  parent: informal.red_herring.appeal_to_emotion
   sources: 
     - "https://en.wikipedia.org/wiki/Wishful_thinking"
   sub_category: "Red herring fallacies"
