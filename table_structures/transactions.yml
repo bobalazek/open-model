@@ -1,0 +1,7 @@
+- type # deposit or withdrawal
+- method # bank, paypal or credit_card
+- status # pending or completed
+- amount # negative on withdrawal & positive on deposit
+- currency
+- description
+- data # any additional data we want to save?

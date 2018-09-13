@@ -5,6 +5,11 @@ Here I'm going to add my own personal Open Modal data.
 
 Data for now:
 
+* Medical:
+  * Signs & symptoms
+  * Sign & symptom groups
+  * Specialties
+
 * Psychology:
   * Emotions
   * Fallacies

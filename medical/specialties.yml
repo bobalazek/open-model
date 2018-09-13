@@ -1,0 +1,623 @@
+# https://www.sgu.edu/blog/medical/ultimate-list-of-medical-specialties/
+- name: Allergy and immunology
+  key: allergy_and_immunology
+- name: Anesthesiology
+  key: anesthesiology
+- name: Dermatology
+  key: dermatology
+- name: Diagnostic radiology
+  key: diagnostic_radiology
+- name: Emergency medicine
+  key: emergency_medicine
+- name: Family medicine
+  key: family_medicine
+- name: Internal medicine
+  key: internal_medicine
+- name: Medical generics
+  key: medical_genetics
+- name: Neurology
+  key: neurology
+- name: Nuclear medicine
+  key: nuclear_medicine
+- name: Obstetrics and gynecology
+  key: obstetrics_and_gynecology
+- name: Ophthalmology
+  key: ophthalmology
+- name: Pathology
+  key: pathology
+- name: Pediatrics
+  key: pediatrics
+- name: Physical medicine and rehabilitation
+  key: physical_medicine_and_rehabilitation
+- name: Preventive medicine
+  key: preventive_medicine
+- name: Psychiatry
+  key: psychiatry
+- name: Radiation oncology
+  key: radiation_oncology
+- name: Surgery
+  key: surgery
+- name: Urology
+  key: urology
+
+- name: Critical care medicine
+  key: critical_care_medicine_2 # TODO: better key, as there are some duplicates otherwise?
+  parent: anesthesiology
+- name: Hospice and palliative care
+  key: hospice_and_palliative_care
+  parent: anesthesiology
+- name: Pain medicine
+  key: pain_medicine
+  parent: anesthesiology
+- name: Pediatric anesthesiology
+  key: pediatric_anesthesiology
+  parent: anesthesiology
+- name: Sleep medicine
+  key: sleep_medicine
+  parent: anesthesiology
+
+- name: Dermatopathology
+  key: dermatopathology
+  parent: dermatology
+- name: Pediatric dermatology
+  key: pediatric_dermatology
+  parent: dermatology
+- name: Procedural dermatology
+  key: procedural_dermatology
+  parent: dermatology
+
+- name: Abdominal radiology
+  key: abdominal_radiology
+  parent: diagnostic_radiology
+- name: Breast imaging
+  key: breast_imaging
+  parent: diagnostic_radiology
+- name: Cardiothoracic radiology
+  key: cardiothoracic_radiology
+  parent: diagnostic_radiology
+- name: Cardiovascular radiology
+  key: cardiovascular_radiology
+  parent: diagnostic_radiology
+- name: Chest radiology
+  key: chest_radiology
+  parent: diagnostic_radiology
+- name: Emergency radiology
+  key: emergency_radiology
+  parent: diagnostic_radiology
+- name: Endovascular surgical neuroradiology
+  key: endovascular_surgical_neuroradiology
+  parent: diagnostic_radiology
+- name: Gastrointestinal radiology
+  key: gastrointestinal_radiology
+  parent: diagnostic_radiology
+- name: Genitourinary radiology
+  key: genitourinary_radiology
+  parent: diagnostic_radiology
+- name: Head and neck radiology
+  key: head_and_neck_radiology
+  parent: diagnostic_radiology
+- name: Interventional radiology
+  key: interventional_radiology
+  parent: diagnostic_radiology
+- name: Musculoskeletal radiology
+  key: musculoskeletal_radiology
+  parent: diagnostic_radiology
+- name: Neuroradiology
+  key: neuroradiology
+  parent: diagnostic_radiology
+- name: Nuclear radiology
+  key: nuclear_radiology
+  parent: diagnostic_radiology
+- name: Pediatric radiology
+  key: pediatric_radiology
+  parent: diagnostic_radiology
+- name: Radiation oncology
+  key: radiation_oncology
+  parent: diagnostic_radiology
+- name: Vascular and interventional radiology
+  key: vascular_and_interventional_radiology
+  parent: diagnostic_radiology
+
+- name: Anesthesiology critical care medicine
+  key: anesthesiology_critical_care_medicine
+  parent: emergency_medicine
+- name: Emergency medical services
+  key: emergency_medical_services
+  parent: emergency_medicine
+- name: Hospice and palliative medicine 
+  key: hospice_and_palliative_medicine_
+  parent: emergency_medicine
+- name: Internal medicine / Critical care medicine
+  key: internal_medicine_or_critical_care_medicine
+  parent: emergency_medicine
+- name: Medical toxicology
+  key: medical_toxicology
+  parent: emergency_medicine
+- name: Pain medicine
+  key: pain_medicine
+  parent: emergency_medicine
+- name: Pediatric emergency medicine 
+  key: pediatric_emergency_medicine
+  parent: emergency_medicine
+- name: Sports medicine 
+  key: sports_medicine
+  parent: emergency_medicine
+- name: Undersea and hyperbaric medicine
+  key: undersea_and_hyperbaric_medicine
+  parent: emergency_medicine
+
+- name: Adolescent medicine
+  key: adolescent_medicine
+  parent: family_medicine
+- name: Geriatric medicine
+  key: geriatric_medicine
+  parent: family_medicine
+- name: Hospice and palliative medicine
+  key: hospice_and_palliative_medicine
+  parent: family_medicine
+- name: Pain medicine
+  key: pain_medicine
+  parent: family_medicine
+- name: Sleep medicine
+  key: sleep_medicine
+  parent: family_medicine
+- name: Sports medicine
+  key: sports_medicine
+  parent: family_medicine
+
+- name: Advanced heart failure and transplant cardiology
+  key: advanced_heart_failure_and_transplant_cardiology
+  parent: internal_medicine
+- name: Cardiovascular disease
+  key: cardiovascular_disease
+  parent: internal_medicine
+- name: Clinical cardiac electrophysiology
+  key: clinical_cardiac_electrophysiology
+  parent: internal_medicine
+- name: Critical care medicine
+  key: critical_care_medicine
+  parent: internal_medicine
+- name: Endocrinology, diabetes, and metabolism
+  key: endocrinology_diabetes_and_metabolism
+  parent: internal_medicine
+- name: Gastroenterology
+  key: gastroenterology
+  parent: internal_medicine
+- name: Geriatric medicine
+  key: geriatric_medicine
+  parent: internal_medicine
+- name: Hematology
+  key: hematology
+  parent: internal_medicine
+- name: Hematology and oncology
+  key: hematology_and_oncology
+  parent: internal_medicine
+- name: Infectious disease
+  key: infectious_disease
+  parent: internal_medicine
+- name: Internal medicine
+  key: internal_medicine
+  parent: internal_medicine
+- name: Interventional cardiology
+  key: interventional_cardiology
+  parent: internal_medicine
+- name: Nephrology
+  key: nephrology
+  parent: internal_medicine
+- name: Oncology
+  key: oncology
+  parent: internal_medicine
+- name: Pediatric internal medicine
+  key: pediatric_internal_medicine
+  parent: internal_medicine
+- name: Pulmonary disease
+  key: pulmonary_disease
+  parent: internal_medicine
+- name: Pulmonary disease and critical care medicine
+  key: pulmonary_disease_and_critical_care_medicine
+  parent: internal_medicine
+- name: Rheumatology
+  key: rheumatology
+  parent: internal_medicine
+- name: Sleep medicine
+  key: sleep_medicine
+  parent: internal_medicine
+- name: Sports medicine
+  key: sports_medicine
+  parent: internal_medicine
+- name: Transplant hepatology
+  key: transplant_hepatology
+  parent: internal_medicine
+
+- name: Biochemical genetics
+  key: biochemical_genetics
+  parent: medical_genetics
+- name: Clinical cytogenetics
+  key: clinical_cytogenetics
+  parent: medical_genetics
+- name: Clinical genetics
+  key: clinical_genetics
+  parent: medical_genetics
+- name: Molecular genetic pathology
+  key: molecular_genetic_pathology
+  parent: medical_genetics
+
+- name: Brain injury medicine
+  key: brain_injury_medicine
+  parent: neurology
+- name: Child neurology
+  key: child_neurology
+  parent: neurology
+- name: Clinical neurophysiology
+  key: clinical_neurophysiology
+  parent: neurology
+- name: Endovascular surgical neuroradiology
+  key: endovascular_surgical_neuroradiology
+  parent: neurology
+- name: Hospice and palliative medicine
+  key: hospice_and_palliative_medicine
+  parent: neurology
+- name: Neurodevelopmental disabilities
+  key: neurodevelopmental_disabilities
+  parent: neurology
+- name: Neuromuscular medicine
+  key: neuromuscular_medicine
+  parent: neurology
+- name: Pain medicine
+  key: pain_medicine
+  parent: neurology
+- name: Sleep medicine
+  key: sleep_medicine
+  parent: neurology
+- name: Vascular neurology
+  key: vascular_neurology
+  parent: neurology
+
+- name: Female pelvic medicine and reconstructive surgery 
+  key: female_pelvic_medicine_and_reconstructive_surgery
+  parent: obstetrics_and_gynecology
+- name: Gynecologic oncology
+  key: gynecologic_oncology
+  parent: obstetrics_and_gynecology
+- name: Maternal-fetal medicine
+  key: maternal-fetal_medicine
+  parent: obstetrics_and_gynecology
+- name: Reproductive endocrinologists and infertility
+  key: reproductive_endocrinologists_and_infertility
+  parent: obstetrics_and_gynecology
+
+- name: Anterior segment/cornea ophthalmology
+  key: anterior_segment_or_cornea_ophthalmology
+  parent: ophthalmology
+- name: Glaucoma ophthalmology
+  key: glaucoma_ophthalmology
+  parent: ophthalmology
+- name: Neuro-ophthalmology
+  key: neuro-ophthalmology
+  parent: ophthalmology
+- name: Ocular oncology
+  key: ocular_oncology
+  parent: ophthalmology
+- name: Oculoplastics/orbit
+  key: oculoplastics_or_orbit
+  parent: ophthalmology
+- name: Ophthalmic Plastic and Reconstructive Surgery
+  key: ophthalmic_plastic_and_reconstructive_surgery
+  parent: ophthalmology
+- name: Retina/uveitis
+  key: retina_or_uveitis
+  parent: ophthalmology
+- name: Strabismus/pediatric ophthalmology
+  key: strabismus_or_pediatric_ophthalmology
+  parent: ophthalmology
+
+- name: Anatomical pathology
+  key: anatomical_pathology
+  parent: pathology
+- name: Blood banking and transfusion medicine
+  key: blood_banking_and_transfusion_medicine
+  parent: pathology
+- name: Chemical pathology
+  key: chemical_pathology
+  parent: pathology
+- name: Clinical pathology
+  key: clinical_pathology
+  parent: pathology
+- name: Cytopathology
+  key: cytopathology
+  parent: pathology
+- name: Forensic pathology
+  key: forensic_pathology
+  parent: pathology
+- name: Genetic pathology
+  key: genetic_pathology
+  parent: pathology
+- name: Hematology
+  key: hematology
+  parent: pathology
+- name: Immunopathology
+  key: immunopathology
+  parent: pathology
+- name: Medical microbiology
+  key: medical_microbiology
+  parent: pathology
+- name: Molecular pathology
+  key: molecular_pathology
+  parent: pathology
+- name: Neuropathology
+  key: neuropathology
+  parent: pathology
+- name: Pediatric pathology
+  key: pediatric_pathology
+  parent: pathology
+
+- name: Adolescent medicine
+  key: adolescent_medicine
+  parent: pediatrics
+- name: Child abuse pediatrics
+  key: child_abuse_pediatrics
+  parent: pediatrics
+- name: Developmental-behavioral pediatrics
+  key: developmental-behavioral_pediatrics
+  parent: pediatrics
+- name: Neonatal-perinatal medicine
+  key: neonatal-perinatal_medicine
+  parent: pediatrics
+- name: Pediatric cardiology
+  key: pediatric_cardiology
+  parent: pediatrics
+- name: Pediatric critical care medicine
+  key: pediatric_critical_care_medicine
+  parent: pediatrics
+- name: Pediatric endocrinology
+  key: pediatric_endocrinology
+  parent: pediatrics
+- name: Pediatric gastroenterology
+  key: pediatric_gastroenterology
+  parent: pediatrics
+- name: Pediatric hematology - oncology
+  key: pediatric_hematology_oncology
+  parent: pediatrics
+- name: Pediatric infectious diseases
+  key: pediatric_infectious_diseases
+  parent: pediatrics
+- name: Pediatric nephrology
+  key: pediatric_nephrology
+  parent: pediatrics
+- name: Pediatric pulmonology
+  key: pediatric_pulmonology
+  parent: pediatrics
+- name: Pediatric rheumatology
+  key: pediatric_rheumatology
+  parent: pediatrics
+- name: Pediatric sports medicine
+  key: pediatric_sports_medicine
+  parent: pediatrics
+- name: Pediatric transplant hepatology
+  key: pediatric_transplant_hepatology
+  parent: pediatrics
+
+- name: Brain injury medicine
+  key: brain_injury_medicine
+  parent: physical_medicine_and_rehabilitation
+- name: Hospice and palliative medicine
+  key: hospice_and_palliative_medicine
+  parent: physical_medicine_and_rehabilitation
+- name: Neuromuscular medicine
+  key: neuromuscular_medicine
+  parent: physical_medicine_and_rehabilitation
+- name: Pain medicine
+  key: pain_medicine
+  parent: physical_medicine_and_rehabilitation
+- name: Pediatric rehabilitation medicine
+  key: pediatric_rehabilitation_medicine
+  parent: physical_medicine_and_rehabilitation
+- name: Spinal cord injury medicine
+  key: spinal_cord_injury_medicine
+  parent: physical_medicine_and_rehabilitation
+- name: Sports medicine
+  key: sports_medicine
+  parent: physical_medicine_and_rehabilitation
+
+- name: Aerospace medicine
+  key: aerospace_medicine
+  parent: preventive_medicine
+- name: Medical toxicology
+  key: medical_toxicology
+  parent: preventive_medicine
+- name: Occupational medicine
+  key: occupational_medicine
+  parent: preventive_medicine
+- name: Public health medicine
+  key: public_health_medicine
+  parent: preventive_medicine
+
+- name: Addiction psychiatry
+  key: addiction_psychiatry
+  parent: psychiatry
+- name: Administrative psychiatry
+  key: administrative_psychiatry
+  parent: psychiatry
+- name: Child and adolescent psychiatry
+  key: child_and_adolescent_psychiatry
+  parent: psychiatry
+- name: Community psychiatry
+  key: community_psychiatry
+  parent: psychiatry
+- name: Consultation/liaison psychiatry
+  key: consultation_or_liaison_psychiatry
+  parent: psychiatry
+- name: Emergency psychiatry
+  key: emergency_psychiatry
+  parent: psychiatry
+- name: Forensic psychiatry
+  key: forensic_psychiatry
+  parent: psychiatry
+- name: Geriatric psychiatry
+  key: geriatric_psychiatry
+  parent: psychiatry
+- name: Mental retardation psychiatry
+  key: mental_retardation_psychiatry
+  parent: psychiatry
+- name: Military psychiatry
+  key: military_psychiatry
+  parent: psychiatry
+- name: Pain medicine
+  key: pain_medicine
+  parent: psychiatry
+- name: Psychiatric research
+  key: psychiatric_research
+  parent: psychiatry
+- name: Psychosomatic medicine
+  key: psychosomatic_medicine
+  parent: psychiatry
+
+- name: Hospice and palliative medicine
+  key: hospice_and_palliative_medicine
+  parent: radiation_oncology
+- name: Pain medicine
+  key: pain_medicine
+  parent: radiation_oncology
+
+- name: Colon and rectal surgery
+  key: colon_and_rectal_surgery
+  parent: surgery
+- name: General surgery
+  key: general_surgery
+  parent: surgery
+- name: Gynecologic oncology
+  key: gynecologic_oncology
+  parent: surgery
+- name: Plastic surgery
+  key: plastic_surgery
+  parent: surgery
+- name: Neurological surgery
+  key: neurological_surgery
+  parent: surgery
+- name: Ophthalmic surgery
+  key: ophthalmic_surgery
+  parent: surgery
+- name: Oral and maxillofacial surgery
+  key: oral_and_maxillofacial_surgery
+  parent: surgery
+- name: Orthopaedic surgery
+  key: orthopaedic_surgery
+  parent: surgery
+- name: Otolaryngology
+  key: otolaryngology
+  parent: surgery
+- name: Otology neurotology
+  key: otology_neurotology
+  parent: surgery
+- name: Pediatric surgery
+  key: pediatric_surgery
+  parent: surgery
+- name: Thoracic Surgery
+  key: thoracic_surgery
+  parent: surgery
+- name: Vascular surgery
+  key: vascular_surgery
+  parent: surgery
+
+- name: Pediatric urology
+  key: pediatric_urology
+  parent: urology
+- name: Urologic oncology
+  key: urologic_oncology
+  parent: urology
+- name: Renal transplant
+  key: renal_transplant
+  parent: urology
+- name: Male infertility
+  key: male_infertility
+  parent: urology
+- name: Calculi
+  key: calculi
+  parent: urology
+- name: Female urology
+  key: female_urology
+  parent: urology
+- name: Neurourology
+  key: neurourology
+  parent: urology
+
+- name: Surgical critical care
+  key: surgical_critical_care
+  parent: general_surgery
+- name: Craniofacial surgery
+  key: craniofacial_surgery
+  parent: plastic_surgery
+- name: Hand surgery
+  key: hand_surgery
+  parent: plastic_surgery
+
+- name: Endovascular surgical neuroradiology
+  key: endovascular_surgical_neuroradiology
+  parent: neurological_surgery
+
+- name: Adult reconstructive orthopaedics
+  key: adult_reconstructive_orthopaedics
+  parent: orthopaedic_surgery
+- name: Foot and ankle orthopaedics
+  key: foot_and_ankle_orthopaedics
+  parent: orthopaedic_surgery
+- name: Musculoskeletal oncology
+  key: musculoskeletal_oncology
+  parent: orthopaedic_surgery
+- name: Orthopaedic sports medicine
+  key: orthopaedic_sports_medicine
+  parent: orthopaedic_surgery
+- name: Orthopaedic surgery of the spine 
+  key: orthopaedic_surgery_of_the_spine
+  parent: orthopaedic_surgery
+- name: Orthopaedic trauma
+  key: orthopaedic_trauma
+  parent: orthopaedic_surgery
+- name: Pediatric orthopaedics
+  key: pediatric_orthopaedics
+  parent: orthopaedic_surgery
+
+- name: Pediatric otolaryngology
+  key: pediatric_otolaryngology
+  parent: otolaryngology
+
+- name: Neonatal
+  key: neonatal
+  parent: pediatric_surgery
+- name: Prenatal
+  key: prenatal
+  parent: pediatric_surgery
+- name: Trauma
+  key: trauma
+  parent: pediatric_surgery
+- name: Pediatric oncology
+  key: pediatric_oncology
+  parent: pediatric_surgery
+
+- name: Congenital cardiac surgery
+  key: congenital_cardiac_surgery
+  parent: thoracic_surgery
+- name: Thoracic surgery - integrated
+  key: thoracic_surgery_integrated
+  parent: thoracic_surgery
+
+# Other
+# https://en.wikipedia.org/wiki/Alternative_medicine
+- name: Alternative medicine
+  key: alternative_medicine
+
+- name: Homeopathy
+  key: homeopathy
+  parent: alternative_medicine
+- name: Naturopathy
+  key: naturopathy
+  parent: alternative_medicine
+- name: Chiropractic
+  key: chiropractic
+  parent: alternative_medicine
+- name: Holistic therapy
+  key: holistic_therapy
+  parent: alternative_medicine
+- name: Energy therapy
+  key: energy_therapy
+  parent: alternative_medicine
