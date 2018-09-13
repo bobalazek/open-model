@@ -1,1 +1,933 @@
-# TODO 
+# https://symptomchecker.webmd.com/symptoms-a-z
+- name: Abnormal gait (walking)
+  key: abnormal_gait_walking
+- name: Abnormal muscle enlargement (hypertrophy)
+  key: abnormal_muscle_enlargement_hypertrophy
+- name: Abnormally round face
+  key: abnormally_round_face
+- name: Agitation
+  key: agitation
+- name: Anxiety
+  key: anxiety
+- name: Apathy
+  key: apathy
+- name: Bad breath
+  key: bad_breath
+- name: Bad taste in mouth
+  key: bad_taste_in_mouth
+- name: Bald spots (hair)
+  key: bald_spots_hair
+- name: Belching
+  key: belching
+- name: Binge drinking (alcohol)
+  key: binge_drinking_alcohol
+- name: Binge eating
+  key: binge_eating
+- name: Bitter almond odor on breath
+  key: bitter_almond_odor_on_breath
+- name: Black (tar) colored stools
+  key: black_tar_colored_stools
+- name: Black colored skin
+  key: black_colored_skin
+- name: Blackouts (memory time loss)
+  key: blackouts_memory_time_loss
+- name: Blank stare
+  key: blank_stare
+- name: Bleeding
+  key: bleeding
+- name: Bleeding from nipple
+  key: bleeding_from_nipple
+- name: Bleeding gums
+  key: bleeding_gums
+- name: Bleeding in eye
+  key: bleeding_in_eye
+- name: Blind spot in vision
+  key: blind_spot_in_vision
+- name: Blindness
+  key: blindness
+- name: Blinking eyes
+  key: blinking_eyes
+- name: Bloating or fullness
+  key: bloating_or_fullness
+- name: Blood in toilet
+  key: blood_in_toilet
+- name: Blood on stool surface
+  key: blood_on_stool_surface
+- name: Blood on toilet tissue
+  key: blood_on_toilet_tissue
+- name: Blood or red colored urine
+  key: blood_or_red_colored_urine
+- name: Bloody or red colored stools
+  key: bloody_or_red_colored_stools
+- name: Bloody or red colored vomit
+  key: bloody_or_red_colored_vomit
+- name: Blue colored skin
+  key: blue_colored_skin
+- name: Blue coloured lips
+  key: blue_coloured_lips
+- name: Blurred vision
+  key: blurred_vision
+- name: Body aches or pains
+  key: body_aches_or_pains
+- name: Brittle hair
+  key: brittle_hair
+- name: Broken bone (single fracture)
+  key: broken_bone_single_fracture
+- name: Broken bones (multiple fractures)
+  key: broken_bones_multiple_fractures
+- name: Bruising or discoloration
+  key: bruising_or_discoloration
+- name: Bulging eyes
+  key: bulging_eyes
+- name: Bulging neck veins
+  key: bulging_neck_veins
+- name: Bulging veins
+  key: bulging_veins
+- name: Change in bowel habits
+  key: change_in_bowel_habits
+- name: Change in hair texture
+  key: change_in_hair_texture
+- name: Change in stools
+  key: change_in_stools
+- name: Change in vision
+  key: change_in_vision
+- name: Chills
+  key: chills
+- name: Choking
+  key: choking
+- name: Choking on food
+  key: choking_on_food
+- name: Clicking or popping sound from jaw
+  key: clicking_or_popping_sound_from_jaw
+- name: Cloudy urine with strong odor
+  key: cloudy_urine_with_strong_odor
+- name: Cloudy vision
+  key: cloudy_vision
+- name: Coarse hair
+  key: coarse_hair
+- name: Coated or furry tongue
+  key: coated_or_furry_tongue
+- name: Coffee grounds colored vomit
+  key: coffee_grounds_colored_vomit
+- name: Cold feet
+  key: cold_feet
+- name: Cold hands
+  key: cold_hands
+- name: Color change
+  key: color_change
+- name: Coma
+  key: coma
+- name: Compulsive behavior
+  key: compulsive_behavior
+- name: Confusion
+  key: confusion
+- name: Constipation
+  key: constipation
+- name: Cough
+  key: cough
+- name: Cracks at corner of mouth
+  key: cracks_at_corner_of_mouth
+- name: Craving alcohol
+  key: craving_alcohol
+- name: Craving to eat ice, dirt or paper
+  key: craving_to_eat_ice,_dirt_or_paper
+- name: Crying during sleep
+  key: crying_during_sleep
+- name: Curved fingernails
+  key: curved_fingernails
+- name: Curved or bent penis during erection
+  key: curved_or_bent_penis_during_erection
+- name: Curved spine
+  key: curved_spine
+- name: Damaged teeth enamel
+  key: damaged_teeth_enamel
+- name: Dark colored (brown) urine
+  key: dark_colored_brown_urine
+- name: Decreased appetite
+  key: decreased_appetite
+- name: Decreased night vision
+  key: decreased_night_vision
+- name: Decreased school performance
+  key: decreased_school_performance
+- name: Decreased smell
+  key: decreased_smell
+- name: Decreased sweating
+  key: decreased_sweating
+- name: Decreased taste
+  key: decreased_taste
+- name: Decreased tears when crying
+  key: decreased_tears_when_crying
+- name: Decreased urination
+  key: decreased_urination
+- name: Delayed language skills
+  key: delayed_language_skills
+- name: Delayed motor development
+  key: delayed_motor_development
+- name: Delusions
+  key: delusions
+- name: Depressed mood
+  key: depressed_mood
+- name: Developmental delays
+  key: developmental_delays
+- name: Diarrhea
+  key: diarrhea
+- name: Difficult to wake from sleep
+  key: difficult_to_wake_from_sleep
+- name: Difficulty breathing through nose
+  key: difficulty_breathing_through_nose
+- name: Difficulty concentrating
+  key: difficulty_concentrating
+- name: Difficulty falling asleep
+  key: difficulty_falling_asleep
+- name: Difficulty finding words
+  key: difficulty_finding_words
+- name: Difficulty learning new things
+  key: difficulty_learning_new_things
+- name: Difficulty moving arm
+  key: difficulty_moving_arm
+- name: Difficulty opening mouth
+  key: difficulty_opening_mouth
+- name: Difficulty relaxing muscles after contracting them
+  key: difficulty_relaxing_muscles_after_contracting_them
+- name: Difficulty sleeping
+  key: difficulty_sleeping
+- name: Difficulty solving problems
+  key: difficulty_solving_problems
+- name: Difficulty standing
+  key: difficulty_standing
+- name: Difficulty starting urine stream
+  key: difficulty_starting_urine_stream
+- name: Difficulty staying asleep
+  key: difficulty_staying_asleep
+- name: Difficulty staying awake during day
+  key: difficulty_staying_awake_during_day
+- name: Difficulty stopping urine stream
+  key: difficulty_stopping_urine_stream
+- name: Difficulty swallowing
+  key: difficulty_swallowing
+- name: Difficulty talking
+  key: difficulty_talking
+- name: Difficulty urinating
+  key: difficulty_urinating
+- name: Discharge from nipple
+  key: discharge_from_nipple
+- name: Discharge from penis
+  key: discharge_from_penis
+- name: Discharge or mucus in eyes
+  key: discharge_or_mucus_in_eyes
+- name: Dislikes change in daily routine
+  key: dislikes_change_in_daily_routine
+- name: Disorientation
+  key: disorientation
+- name: Distended stomach
+  key: distended_stomach
+- name: Distorted body image
+  key: distorted_body_image
+- name: Distortion of part of visual field
+  key: distortion_of_part_of_visual_field
+- name: Dizziness
+  key: dizziness
+- name: Double vision (with one eye covered)
+  key: double_vision_with_one_eye_covered
+- name: Double vision (without one eye covered)
+  key: double_vision_without_one_eye_covered
+- name: Drainage or pus
+  key: drainage_or_pus
+- name: Drinking excessive fluids
+  key: drinking_excessive_fluids
+- name: Drooling
+  key: drooling
+- name: Drooping eyelid
+  key: drooping_eyelid
+- name: Drooping of one side of face
+  key: drooping_of_one_side_of_face
+- name: Drowsiness
+  key: drowsiness
+- name: Dry eyes
+  key: dry_eyes
+- name: Dry mouth
+  key: dry_mouth
+- name: Dry skin
+  key: dry_skin
+- name: Ear ache
+  key: ear_ache
+- name: Early breast development
+  key: early_breast_development
+- name: Early morning waking
+  key: early_morning_waking
+- name: Easily distracted
+  key: easily_distracted
+- name: Easy bleeding
+  key: easy_bleeding
+- name: Easy bruising
+  key: easy_bruising
+- name: Emotional detachment
+  key: emotional_detachment
+- name: Enlarged (dilated) pupils
+  key: enlarged_dilated_pupils
+- name: Enlarged (dilated) veins
+  key: enlarged_dilated_veins
+- name: Enlarged finger tips
+  key: enlarged_finger_tips
+- name: Enlarged or swollen glands
+  key: enlarged_or_swollen_glands
+- name: Episodes of not breathing during sleep
+  key: episodes_of_not_breathing_during_sleep
+- name: Erectile dysfunction
+  key: erectile_dysfunction
+- name: Excessive body hair growth
+  key: excessive_body_hair_growth
+- name: Excessive crying
+  key: excessive_crying
+- name: Excessive exercising
+  key: excessive_exercising
+- name: Excessive facial hair growth (female)
+  key: excessive_facial_hair_growth_female
+- name: Excessive facial hair growth (male)
+  key: excessive_facial_hair_growth_male
+- name: Excessive mouth watering
+  key: excessive_mouth_watering
+- name: Excessive sweating
+  key: excessive_sweating
+- name: Excessively salty sweat or skin
+  key: excessively_salty_sweat_or_skin
+- name: Eye crusting with sleep
+  key: eye_crusting_with_sleep
+- name: Eye irritation
+  key: eye_irritation
+- name: Eyelashes falling out
+  key: eyelashes_falling_out
+- name: Eyelid redness
+  key: eyelid_redness
+- name: Eyes do not track together
+  key: eyes_do_not_track_together
+- name: Eyes rolling back
+  key: eyes_rolling_back
+- name: Fainting
+  key: fainting
+- name: Fatigue
+  key: fatigue
+- name: Fear of air
+  key: fear_of_air
+- name: Fear of gaining weight
+  key: fear_of_gaining_weight
+- name: Fear of water
+  key: fear_of_water
+- name: Fearful
+  key: fearful
+- name: Feeling faint
+  key: feeling_faint
+- name: Feeling of being detached from reality
+  key: feeling_of_being_detached_from_reality
+- name: Feeling of not being able to get enough air
+  key: feeling_of_not_being_able_to_get_enough_air
+- name: Feeling smothered
+  key: feeling_smothered
+- name: Fever
+  key: fever
+- name: Fits of rage
+  key: fits_of_rage
+- name: Flaking skin
+  key: flaking_skin
+- name: Flashbacks
+  key: flashbacks
+- name: Flickering lights in vision
+  key: flickering_lights_in_vision
+- name: Flickering uncolored zig-zag line in vision
+  key: flickering_uncolored_zig-zag_line_in_vision
+- name: Floating spots or strings in vision
+  key: floating_spots_or_strings_in_vision
+- name: Flushed skin
+  key: flushed_skin
+- name: Food cravings
+  key: food_cravings
+- name: Food getting stuck (swallowing)
+  key: food_getting_stuck_swallowing
+- name: Forgetfulness
+  key: forgetfulness
+- name: Foul smelling stools
+  key: foul_smelling_stools
+- name: Frequent bowel movements
+  key: frequent_bowel_movements
+- name: Frequent changes in eye glass prescription
+  key: frequent_changes_in_eye_glass_prescription
+- name: Frequent chewing
+  key: frequent_chewing
+- name: Frequent infections
+  key: frequent_infections
+- name: Frequent laxative use
+  key: frequent_laxative_use
+- name: Frequent nighttime urination
+  key: frequent_nighttime_urination
+- name: Frequent squinting
+  key: frequent_squinting
+- name: Frequent urge to have bowel movement
+  key: frequent_urge_to_have_bowel_movement
+- name: Frequent urge to urinate
+  key: frequent_urge_to_urinate
+- name: Frequent urination
+  key: frequent_urination
+- name: Frightening dreams
+  key: frightening_dreams
+- name: Frightening thoughts
+  key: frightening_thoughts
+- name: Fruity odor on breath
+  key: fruity_odor_on_breath
+- name: Gagging
+  key: gagging
+- name: Giddiness
+  key: giddiness
+- name: Grinding teeth
+  key: grinding_teeth
+- name: Gritty or scratchy eyes
+  key: gritty_or_scratchy_eyes
+- name: Grooved tongue
+  key: grooved_tongue
+- name: Guarding or favoring joint
+  key: guarding_or_favoring_joint
+- name: Gum sores
+  key: gum_sores
+- name: Hair loss
+  key: hair_loss
+- name: Hallucinations
+  key: hallucinations
+- name: Headache
+  key: headache
+- name: Headache (worst ever)
+  key: headache_worst_ever
+- name: Hearing loss
+  key: hearing_loss
+- name: Hearing voices
+  key: hearing_voices
+- name: Heartburn
+  key: heartburn
+- name: Heavy menstrual bleeding
+  key: heavy_menstrual_bleeding
+- name: High blood pressure
+  key: high_blood_pressure
+- name: Hives
+  key: hives
+- name: Hoarse voice
+  key: hoarse_voice
+- name: Holding bowel movements
+  key: holding_bowel_movements
+- name: Holding objects closer to read
+  key: holding_objects_closer_to_read
+- name: Holding objects further away to read
+  key: holding_objects_further_away_to_read
+- name: Hot flashes
+  key: hot_flashes
+- name: Hot, dry skin
+  key: hot,_dry_skin
+- name: Hunched or stooped posture
+  key: hunched_or_stooped_posture
+- name: Hunger
+  key: hunger
+- name: Hyperactive behavior
+  key: hyperactive_behavior
+- name: Hyperventilating (rapid/deep breathing)
+  key: hyperventilating_rapid/deep_breathing
+- name: Impaired color vision
+  key: impaired_color_vision
+- name: Impaired judgement
+  key: impaired_judgement
+- name: Impaired social skills
+  key: impaired_social_skills
+- name: Impulsive behavior
+  key: impulsive_behavior
+- name: Inability to care for self
+  key: inability_to_care_for_self
+- name: Inability to move
+  key: inability_to_move
+- name: Inappropriate behavior
+  key: inappropriate_behavior
+- name: Increased passing gas
+  key: increased_passing_gas
+- name: Increased sensitivity to cold
+  key: increased_sensitivity_to_cold
+- name: Increased sensitivity to heat
+  key: increased_sensitivity_to_heat
+- name: Increased speech volume
+  key: increased_speech_volume
+- name: Increased talkativeness
+  key: increased_talkativeness
+- name: Increased thirst
+  key: increased_thirst
+- name: Intentional vomiting (purging)
+  key: intentional_vomiting_purging
+- name: Involuntary head turning or twisting
+  key: involuntary_head_turning_or_twisting
+- name: Involuntary movements (picking, lip smacking etc.)
+  key: involuntary_movements_picking,_lip_smacking_etc.
+- name: Irregular heartbeat
+  key: irregular_heartbeat
+- name: Irregular menstrual periods
+  key: irregular_menstrual_periods
+- name: Itching or burning
+  key: itching_or_burning
+- name: Jaw locking
+  key: jaw_locking
+- name: Jerking eye movements
+  key: jerking_eye_movements
+- name: Joint aches
+  key: joint_aches
+- name: Joint instability
+  key: joint_instability
+- name: Joint locking or catching
+  key: joint_locking_or_catching
+- name: Joint pain
+  key: joint_pain
+- name: Jumpiness or easily startled
+  key: jumpiness_or_easily_startled
+- name: Labored breathing
+  key: labored_breathing
+- name: Lack of emotion
+  key: lack_of_emotion
+- name: Lack of motivation
+  key: lack_of_motivation
+- name: Lack of pleasure
+  key: lack_of_pleasure
+- name: Lightheadedness
+  key: lightheadedness
+- name: Loss of balance
+  key: loss_of_balance
+- name: Loss of consciousness
+  key: loss_of_consciousness
+- name: Loss of coordination
+  key: loss_of_coordination
+- name: Loss of height
+  key: loss_of_height
+- name: Loss of outside 1/3 of eyebrow (unintentional)
+  key: loss_of_outside_1/3_of_eyebrow_unintentional
+- name: Loss of side vision
+  key: loss_of_side_vision
+- name: Loss of voice
+  key: loss_of_voice
+- name: Low blood pressure
+  key: low_blood_pressure
+- name: Low self-esteem
+  key: low_self-esteem
+- name: Lump or bulge
+  key: lump_or_bulge
+- name: Memory problems
+  key: memory_problems
+- name: Metallic taste in mouth
+  key: metallic_taste_in_mouth
+- name: Missed or late menstrual period
+  key: missed_or_late_menstrual_period
+- name: Mood swings
+  key: mood_swings
+- name: Morning alcohol drinking (eye-opener)
+  key: morning_alcohol_drinking_eye-opener
+- name: Morning joint stiffness
+  key: morning_joint_stiffness
+- name: Mouth sores
+  key: mouth_sores
+- name: Muffled voice
+  key: muffled_voice
+- name: Multiple bruises of different ages
+  key: multiple_bruises_of_different_ages
+- name: Muscle cramps or spasms (painful)
+  key: muscle_cramps_or_spasms_painful
+- name: Muscle stiffness (rigidity)
+  key: muscle_stiffness_rigidity
+- name: Muscle twitching (painless)
+  key: muscle_twitching_painless
+- name: Muscle wasting
+  key: muscle_wasting
+- name: Muscle weakness
+  key: muscle_weakness
+- name: Nasal congestion
+  key: nasal_congestion
+- name: Nasal symptoms and one red eye
+  key: nasal_symptoms_and_one_red_eye
+- name: Nausea or vomiting
+  key: nausea_or_vomiting
+- name: Need brighter light to read
+  key: need_brighter_light_to_read
+- name: Nervousness
+  key: nervousness
+- name: New onset asthma
+  key: new_onset_asthma
+- name: Night sweats
+  key: night_sweats
+- name: Nighttime wheezing
+  key: nighttime_wheezing
+- name: No menstrual periods
+  key: no_menstrual_periods
+- name: Noisy breathing
+  key: noisy_breathing
+- name: Nosebleed
+  key: nosebleed
+- name: Numbness or tingling
+  key: numbness_or_tingling
+- name: Overweight
+  key: overweight
+- name: Pain during erection
+  key: pain_during_erection
+- name: Pain or discomfort
+  key: pain_or_discomfort
+- name: Pain when moving eyes
+  key: pain_when_moving_eyes
+- name: Pain when swallowing
+  key: pain_when_swallowing
+- name: Pain with sexual intercourse (female)
+  key: pain_with_sexual_intercourse_female
+- name: Pain with sexual intercourse (male)
+  key: pain_with_sexual_intercourse_male
+- name: Pain with urination
+  key: pain_with_urination
+- name: Painful bowel movements
+  key: painful_bowel_movements
+- name: Painful ejaculation
+  key: painful_ejaculation
+- name: Painful red lump on eyelid
+  key: painful_red_lump_on_eyelid
+- name: Pale skin
+  key: pale_skin
+- name: Palpitations (fluttering in chest)
+  key: palpitations_fluttering_in_chest
+- name: Paranoid behavior
+  key: paranoid_behavior
+- name: Partial vision loss
+  key: partial_vision_loss
+- name: Personality changes
+  key: personality_changes
+- name: Poor concentration
+  key: poor_concentration
+- name: Poor personal hygiene
+  key: poor_personal_hygiene
+- name: Popping or snapping sound from joint
+  key: popping_or_snapping_sound_from_joint
+- name: Post nasal drip
+  key: post_nasal_drip
+- name: Pounding heart (pulse)
+  key: pounding_heart_pulse
+- name: Premature ejaculation
+  key: premature_ejaculation
+- name: Pressure or fullness
+  key: pressure_or_fullness
+- name: Pressure or heaviness
+  key: pressure_or_heaviness
+- name: Prolonged bleeding
+  key: prolonged_bleeding
+- name: Prolonged breathing pauses
+  key: prolonged_breathing_pauses
+- name: Protruding rectal material
+  key: protruding_rectal_material
+- name: Protruding vaginal material
+  key: protruding_vaginal_material
+- name: Puffy eyelids
+  key: puffy_eyelids
+- name: Pulling out beard
+  key: pulling_out_beard
+- name: Pulling out eyebrows
+  key: pulling_out_eyebrows
+- name: Pulling out eyelashes
+  key: pulling_out_eyelashes
+- name: Pulling out hair
+  key: pulling_out_hair
+- name: Pulsating sensation
+  key: pulsating_sensation
+- name: Punching or kicking in sleep
+  key: punching_or_kicking_in_sleep
+- name: Rapid breathing
+  key: rapid_breathing
+- name: Rapid heart rate (pulse)
+  key: rapid_heart_rate_pulse
+- name: Rapid speech
+  key: rapid_speech
+- name: Recent (short-term) memory loss
+  key: recent_short-term_memory_loss
+- name: Red (bloodshot) eyes
+  key: red_bloodshot_eyes
+- name: Red (strawberry) tongue
+  key: red_strawberry_tongue
+- name: Red eye (single)
+  key: red_eye_single
+- name: Red gums
+  key: red_gums
+- name: Red or black spots on fingernails
+  key: red_or_black_spots_on_fingernails
+- name: Red spots
+  key: red_spots
+- name: Red spots inside lower eyelid
+  key: red_spots_inside_lower_eyelid
+- name: Reduced productivity at work
+  key: reduced_productivity_at_work
+- name: Regurgitation of food or liquid
+  key: regurgitation_of_food_or_liquid
+- name: Repeats phrases
+  key: repeats_phrases
+- name: Repetitive behaviors
+  key: repetitive_behaviors
+- name: Restless (tossing and turning) sleep
+  key: restless_tossing_and_turning_sleep
+- name: Restless (urge to move) legs
+  key: restless_urge_to_move_legs
+- name: Restless or irritability
+  key: restless_or_irritability
+- name: Restrictive dieting
+  key: restrictive_dieting
+- name: Ringing in ears
+  key: ringing_in_ears
+- name: Runny nose
+  key: runny_nose
+- name: Sadness
+  key: sadness
+- name: Scaley skin on eyelids
+  key: scaley_skin_on_eyelids
+- name: See letters, numbers or musical notes as colors
+  key: see_letters,_numbers_or_musical_notes_as_colors
+- name: Seizures (uncontrollable jerking of limbs)
+  key: seizures_uncontrollable_jerking_of_limbs
+- name: Sensation of something in eye
+  key: sensation_of_something_in_eye
+- name: Sense of impending doom
+  key: sense_of_impending_doom
+- name: Sensitive to light
+  key: sensitive_to_light
+- name: Sensitive to noise
+  key: sensitive_to_noise
+- name: Shadow over part of vision
+  key: shadow_over_part_of_vision
+- name: Shaking
+  key: shaking
+- name: Shaking chills (rigors)
+  key: shaking_chills_rigors
+- name: Shaking hands or tremor
+  key: shaking_hands_or_tremor
+- name: Short arms and legs
+  key: short_arms_and_legs
+- name: Short attention span
+  key: short_attention_span
+- name: Short stature
+  key: short_stature
+- name: Short, wide neck
+  key: short,_wide_neck
+- name: Shortening of limb
+  key: shortening_of_limb
+- name: Shortness of breath
+  key: shortness_of_breath
+- name: Shuffling gait (feet)
+  key: shuffling_gait_feet
+- name: Single palm crease
+  key: single_palm_crease
+- name: Skin blisters
+  key: skin_blisters
+- name: Skin bumps
+  key: skin_bumps
+- name: Skin darkening
+  key: skin_darkening
+- name: Skin hardening
+  key: skin_hardening
+- name: Skin irritation
+  key: skin_irritation
+- name: Skin open sore
+  key: skin_open_sore
+- name: Skin peeling, cracking or scaling
+  key: skin_peeling,_cracking_or_scaling
+- name: Skin rash
+  key: skin_rash
+- name: Skin redness
+  key: skin_redness
+- name: Skin thickening
+  key: skin_thickening
+- name: Sleep walking
+  key: sleep_walking
+- name: Slow growth (failure to thrive)
+  key: slow_growth_failure_to_thrive
+- name: Slow heart rate (pulse)
+  key: slow_heart_rate_pulse
+- name: Slow or irregular breathing
+  key: slow_or_irregular_breathing
+- name: Slow or weak urine stream
+  key: slow_or_weak_urine_stream
+- name: Slow thinking
+  key: slow_thinking
+- name: Slurred speech
+  key: slurred_speech
+- name: Small (constricted) pupils
+  key: small_constricted_pupils
+- name: Smooth tongue
+  key: smooth_tongue
+- name: Sneezing
+  key: sneezing
+- name: Snoring
+  key: snoring
+- name: Socially withdrawn
+  key: socially_withdrawn
+- name: Sore or burning eyes
+  key: sore_or_burning_eyes
+- name: Sore throat
+  key: sore_throat
+- name: Sore tongue
+  key: sore_tongue
+- name: Soreness or burning inside of mouth
+  key: soreness_or_burning_inside_of_mouth
+- name: Spinning sensation
+  key: spinning_sensation
+- name: Spots on throat
+  key: spots_on_throat
+- name: Spots on tonsils
+  key: spots_on_tonsils
+- name: Squatting
+  key: squatting
+- name: Squinting eyes
+  key: squinting_eyes
+- name: Stiff neck
+  key: stiff_neck
+- name: Stiffness or decreased movement
+  key: stiffness_or_decreased_movement
+- name: Stomach cramps
+  key: stomach_cramps
+- name: Stool leaking (incontinence)
+  key: stool_leaking_incontinence
+- name: Straining with bowel movements
+  key: straining_with_bowel_movements
+- name: Strange smell or taste
+  key: strange_smell_or_taste
+- name: Sudden flash of lights
+  key: sudden_flash_of_lights
+- name: Sudden numbness or weakness on one side of body
+  key: sudden_numbness_or_weakness_on_one_side_of_body
+- name: Sudden urge to urinate
+  key: sudden_urge_to_urinate
+- name: Sunken eyes
+  key: sunken_eyes
+- name: Sunken soft spot on top of head
+  key: sunken_soft_spot_on_top_of_head
+- name: Swelling
+  key: swelling
+- name: Swollen gums
+  key: swollen_gums
+- name: Swollen lips
+  key: swollen_lips
+- name: Swollen tongue
+  key: swollen_tongue
+- name: Swollen tonsils
+  key: swollen_tonsils
+- name: Taste of acid in mouth
+  key: taste_of_acid_in_mouth
+- name: Taste words when they are heard
+  key: taste_words_when_they_are_heard
+- name: Tearing in one eye
+  key: tearing_in_one_eye
+- name: Teeth do not fit like they used to
+  key: teeth_do_not_fit_like_they_used_to
+- name: Tender glands
+  key: tender_glands
+- name: Tenderness to touch
+  key: tenderness_to_touch
+- name: Testicles shrinkage
+  key: testicles_shrinkage
+- name: Testicular pain
+  key: testicular_pain
+- name: Thick saliva or mucus
+  key: thick_saliva_or_mucus
+- name: Thin (pencil) stools
+  key: thin_pencil_stools
+- name: Throat tightness
+  key: throat_tightness
+- name: Tightness
+  key: tightness
+- name: Tilts head to look at something
+  key: tilts_head_to_look_at_something
+- name: Tires quickly
+  key: tires_quickly
+- name: Trembling
+  key: trembling
+- name: Trouble distinguishing color shades
+  key: trouble_distinguishing_color_shades
+- name: Twisting or rotation of limb
+  key: twisting_or_rotation_of_limb
+- name: Unable to bear weight
+  key: unable_to_bear_weight
+- name: Unable to bend foot down
+  key: unable_to_bend_foot_down
+- name: Unable to blink or close eyelid
+  key: unable_to_blink_or_close_eyelid
+- name: Unable to grip (hands)
+  key: unable_to_grip_hands
+- name: Unable to move arm
+  key: unable_to_move_arm
+- name: Unable to move joint
+  key: unable_to_move_joint
+- name: Unable to move leg
+  key: unable_to_move_leg
+- name: Unable to obtain or maintain erection
+  key: unable_to_obtain_or_maintain_erection
+- name: Unable to open mouth (jaw)
+  key: unable_to_open_mouth_jaw
+- name: Uncontrollable verbal outbursts
+  key: uncontrollable_verbal_outbursts
+- name: Unequal pupils (size)
+  key: unequal_pupils_size
+- name: Unusual behavior
+  key: unusual_behavior
+- name: Unusual facial expression
+  key: unusual_facial_expression
+- name: Unusual or suspicious mole
+  key: unusual_or_suspicious_mole
+- name: Unusual taste in mouth
+  key: unusual_taste_in_mouth
+- name: Unusually short forth fingers
+  key: unusually_short_forth_fingers
+- name: Upset stomach
+  key: upset_stomach
+- name: Upward curving (spooning) of nails
+  key: upward_curving_spooning_of_nails
+- name: Urine leaking (incontinence)
+  key: urine_leaking_incontinence
+- name: Vaginal bleeding
+  key: vaginal_bleeding
+- name: Vaginal bleeding after menopause
+  key: vaginal_bleeding_after_menopause
+- name: Vaginal bleeding between periods
+  key: vaginal_bleeding_between_periods
+- name: Vaginal discharge
+  key: vaginal_discharge
+- name: Vaginal dryness
+  key: vaginal_dryness
+- name: Vaginal odor
+  key: vaginal_odor
+- name: Visible bugs or parasites
+  key: visible_bugs_or_parasites
+- name: Visible deformity
+  key: visible_deformity
+- name: Visible pulsations
+  key: visible_pulsations
+- name: Vision fading of colors
+  key: vision_fading_of_colors
+- name: Visual halos around lights
+  key: visual_halos_around_lights
+- name: Warm to touch
+  key: warm_to_touch
+- name: Watery eyes
+  key: watery_eyes
+- name: Weakness
+  key: weakness
+- name: Weakness (generalized)
+  key: weakness_generalized
+- name: Weight gain
+  key: weight_gain
+- name: Weight loss (intentional)
+  key: weight_loss_intentional
+- name: Weight loss (unintentional)
+  key: weight_loss_unintentional
+- name: Welts
+  key: welts
+- name: Wheezing
+  key: wheezing
+- name: White patches inside mouth
+  key: white_patches_inside_mouth
+- name: White patches on tongue
+  key: white_patches_on_tongue
+- name: Worms in stool
+  key: worms_in_stool
+- name: Yelling out during sleep
+  key: yelling_out_during_sleep
+- name: Yellow eyes
+  key: yellow_eyes
+- name: Yellow skin
+  key: yellow_skin
