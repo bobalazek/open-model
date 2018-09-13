@@ -1,0 +1,285 @@
+# TODO: key's for every test
+# Complete Blood Count
+- name: Red Blood Cells
+  name_short: RBC
+  group: complete_blood_count
+- name: Hemoglobin 
+  name_short: HGB
+  group: complete_blood_count
+- name: Hematocrit 
+  name_short: HTC
+  group: complete_blood_count
+- name: Mean Corpuscular Volume
+  name_short: MCV
+  group: complete_blood_count
+- name: Red Blood Cell Distribution Width
+  name_short: RDW
+  group: complete_blood_count
+- name: Absolute Reticulocyte Count
+  name_short: Retic
+  group: complete_blood_count
+- name: White Blood Cells
+  name_short: WBC
+  group: complete_blood_count
+- name: Absolute Neutrophil Count
+  name_short: ANC
+  group: complete_blood_count
+- name: Percentage Neutrophils
+  name_short: Neu%
+  group: complete_blood_count
+- name: Absolute Lymphocytes Count
+  name_short: ALC
+  group: complete_blood_count
+- name: Percentage Lymphocytes
+  name_short: Lym%
+  group: complete_blood_count
+- name: Absolute Monocyte Count
+  name_short: AMC
+  group: complete_blood_count
+- name: Percentage Monocytes
+  name_short: Mono%
+  group: complete_blood_count
+- name: Absolute Eosinophils Count
+  name_short: AEC
+  group: complete_blood_count
+- name: Percentage Eosnipophilis
+  name_short: Eos%
+  group: complete_blood_count
+- name: Absolute Basophils Count
+  name_short: ABC
+  group: complete_blood_count
+- name: Percentage Basophils
+  name_short: Baso%
+  group: complete_blood_count
+- name: Platelet Count
+  name_short: PLT
+  group: complete_blood_count
+# Blood Glucose
+- name: Fasting Blood Glucose
+  name_short: FBG
+  group: blood_glucose
+- name: 2 Hours Oral Glucose Tolerance Test
+  name_short: 2h OGTT
+  group: blood_glucose
+- name: Glycated Hemoglobin
+  name_short: HbA1c
+  group: blood_glucose
+- name: Insulin
+  name_short: INS
+  group: blood_glucose
+- name: Random Blood Glucose
+  name_short: RBG
+  group: blood_glucose
+# Lipids
+- name: Total Cholesterol
+  name_short: TCH
+  group: lipids
+- name: High-Density Lipoprotein Cholesterol
+  name_short: HDL
+  group: lipids
+- name: Low-Density Lipoprotein Cholesterol
+  name_short: LDL
+  group: lipids
+- name: Triglycerides
+  name_short: TG
+  group: lipids
+# Liver
+- name: Alanine Aminotransferase
+  name_short: ALT
+  group: liver
+- name: Aspartate Aminotransferase
+  name_short: AST
+  group: liver
+- name: Alkaline Phosphatase
+  name_short: ALP
+  group: liver
+- name: Gamma-Glutamyl Transpeptidase
+  name_short: GGT
+  group: liver
+- name: Amylase
+  name_short: Amy
+  group: liver
+- name: Lipase
+  name_short: Lip
+  group: liver
+- name: Total Bilirubin
+  name_short: TBIL
+  group: liver
+- name: Direct Bilirubin
+  name_short: DBIL
+  group: liver
+- name: Haptoglobin
+  name_short: HPT
+  group: liver
+# Kidney
+- name: Blood Urea Nitrogen
+  name_short: BUN
+  group: kidney
+- name: Creatinine
+  name_short: Creat
+  group: kidney
+- name: Estimated Glomerular Filtration Rate
+  name_short: eGRF
+  group: kidney
+- name: Uric Acid
+  name_short: UA
+  group: kidney
+- name: Urea
+  name_short: Urea
+  group: kidney
+# Proteins
+- name: Total Protein
+  name_short: TP
+  group: proteins
+- name: Albumin
+  name_short: Alb
+  group: proteins
+- name: Globulin
+  name_short: Glb
+  group: proteins
+# Electrolytes
+- name: Phosphorus
+  name_short: P
+  group: electrolytes
+- name: Calcium
+  name_short: Ca
+  group: electrolytes
+- name: Magnesium
+  name_short: Mg
+  group: electrolytes
+- name: Sodium
+  name_short: Na
+  group: electrolytes
+- name: Potassium
+  name_short: K
+  group: electrolytes
+- name: Bicarbonate
+  name_short: HCO3
+  group: electrolytes
+- name: Chloride
+  name_short: Cl
+  group: electrolytes
+- name: Corrected Calcium
+  name_short: Ca corr
+  group: electrolytes
+- name: Ionized Calcium
+  name_short: Ca**
+  group: electrolytes
+# Vitamins
+- name: Vitamin D
+  name_short: Vit. D
+  group: vitamins
+- name: Vitamin B12
+  name_short: Vit. B12
+  group: vitamins
+- name: Folate
+  name_short: Fol
+  group: vitamins
+# Iron Profile
+- name: Ferritin
+  name_short: FERR
+  group: iron_profile
+- name: Serum Iron
+  name_short: Fe
+  group: iron_profile
+- name: Total Iron Binding Capacity
+  name_short: TIBC
+  group: iron_profile
+- name: Soluble Transferrin Receptor Test
+  name_short: sTfR
+  group: iron_profile
+- name: Transferrin Saturation
+  name_short: TSat
+  group: iron_profile
+# Inflammation
+- name: C-Reactive Protein
+  name_short: CRP
+  group: inflammation
+- name: Erythrocyte Sedimentation Rate
+  name_short: ESR
+  group: inflammation
+- name: 2 Hours Erythrocyte Sedimentation Rate
+  name_short: 2h ESR
+  group: inflammation
+# Thyroid
+- name: Thyroid-Simulation Hormone
+  name_short: TSH
+  group: thyroid
+- name: Thyroxine
+  name_short: T4
+  group: thyroid
+- name: Free Thyroxine
+  name_short: FT4
+  group: thyroid
+- name: Triiodothyronine 
+  name_short: T3
+  group: thyroid
+- name: Free Triiodothyronine 
+  name_short: FT3
+  group: thyroid
+- name: Thyroglobulin
+  name_short: Tgb
+  group: thyroid
+- name: Thyroglobulin Antibodies
+  name_short: TgbAb
+  group: thyroid
+- name: TSH Receptor Autoantibodies
+  name_short: TRAb
+  group: thyroid
+- name: Anti-Peroxidase Antibodies
+  name_short: TPOAb
+  group: thyroid
+# Hormone
+- name: Insulin-like Growth Factor-1
+  name_short: IGF-1
+  group: hormone
+- name: Parathyroid Hormone
+  name_short: PTH
+  group: hormone
+- name: Total Testosterone
+  name_short: TTST
+  group: hormone
+- name: Bioavailable Testosterone
+  name_short: BATS
+  group: hormone
+- name: Prolactin
+  name_short: PRL
+  group: hormone
+- name: Human Chorionic Gonadotropin
+  name_short: hCG
+  group: hormone
+- name: Human Chorionic Gonadotropin
+  name_short: hCG
+  group: hormone
+# Cardiac
+- name: Creatine Kinase
+  name_short: CK
+  group: cardiac
+- name: Creatine Kinase MB
+  name_short: CK-MB
+  group: cardiac
+- name: CK-MB Relative Index
+  name_short: CK-MB RI
+  group: cardiac
+- name: Homocysteine
+  name_short: Hcy
+  group: cardiac
+- name: Lipoprotein(a)
+  name_short: Lp(a)
+  group: cardiac
+- name: High-sensitivity CRP
+  name_short: hsCRP
+  group: cardiac
+- name: Brain Natriuretic Peptide
+  name_short: BNP
+  group: cardiac
+- name: N-Terminal Pro-Brain Natriuretic Peptide
+  name_short: ProBNP
+  group: cardiac
+- name: Methylmalonic Acid
+  name_short: MMA
+  group: cardiac
+# Ubiquitous
+- name: Lactate Dehydrogenase
+  name_short: LDH
+  group: ubiquitous

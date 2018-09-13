@@ -1,0 +1,30 @@
+- name: Blood Glucose
+  key: blood_glucose
+- name: Cardiac
+  key: cardiac
+- name: Complete Blood Count
+  key: complete_blood_count
+- name: Electrolytes
+  key: Electrolytes
+- name: Hormone
+  key: hormone
+- name: Inflamation
+  key: inflamation
+- name: Iron Profile
+  key: iron_profile
+- name: Kidney
+  key: kidney
+- name: Lipids
+  key: lipids
+- name: Liver
+  key: liver
+- name: Other
+  key: other
+- name: Proteins
+  key: proteins
+- name: Thyroid
+  key: thyroid
+- name: Ubiquitous
+  key: ubiquitous
+- name: Vitamins
+  key: vitamins
