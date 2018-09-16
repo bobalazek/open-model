@@ -1,2 +1,266 @@
 # https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis/tumor-markers-fact-sheet
-# TODO
+- name: ALK gene rearrangements and overexpression
+  key: alk_gene_rearrangements_and_overexpression
+  cancer_types:
+      - Non-small cell lung cancer
+      - Anaplastic large cell lymphoma
+  tissue_analyzed:
+      - Tumor
+  how_used: To help determine treatment and prognosis
+- name: Alpha-fetoprotein (AFP)
+  key: alpha_fetoprotein
+  cancer_types:
+      - Liver cancer
+      - Germ cell tumors
+  tissue_analyzed:
+      - Blood
+  how_used: To help diagnose liver cancer and follow response to treatment; to assess stage, prognosis, and response to treatment of germ cell tumors
+- name: Beta-2-microglobulin (B2M)
+  key: beta_2_microglobulin
+  cancer_types:
+      - Multiple myeloma
+      - Chronic lymphocytic leukemia
+      - Some lymphomas
+  tissue_analyzed:
+      - Blood
+      - Urine
+      - Cerebrospinal fluid
+  how_used: To determine prognosis and follow response to treatment
+- name: Beta-human chorionic gonadotropin (Beta-hCG)
+  key: beta_human_chorionic_gonadotropin
+  cancer_types:
+      - Choriocarcinoma
+      - Germ cell tumors
+  tissue_analyzed:
+      - Urine
+      - Blood
+  how_used: To assess stage, prognosis, and response to treatment
+- name: BRCA1 and BRCA2 gene mutations
+  key: beta_human_chorionic_gonadotropin
+  cancer_types:
+      - Ovarian cancer
+  tissue_analyzed:
+      - Blood
+  how_used: To determine whether treatment with a particular type of targeted therapy is appropriate
+- name: BCR-ABL fusion gene (Philadelphia chromosome)
+  key: brc_abl_fusion_gene
+  cancer_types:
+      - Chronic myeloid leukemia
+      - Acute lymphoblastic leukemia
+      - Acute myelogenous leukemia
+  tissue_analyzed:
+      - Blood
+      - Bone marrow
+  how_used: To confirm diagnosis, predict response to targeted therapy, and monitor disease status
+- name: BRAF V600 mutations
+  key: braf_v600_mutations
+  cancer_types:
+      - Cutaneous melanoma
+      - Colorectal cancer
+  tissue_analyzed:
+      - Tumor
+  how_used: To select patients who are most likely to benefit from treatment with certain targeted therapies
+- name: C-kit/CD117
+  key: c_kit
+  cancer_types:
+      - Gastrointestinal stromal tumor
+      - Mucosal melanoma
+  tissue_analyzed:
+      - Tumor
+  how_used: To help in diagnosing and determining treatment
+- name: CA15-3/CA27.29
+  key: ca15_3
+  cancer_types:
+      - Breast cancer
+  tissue_analyzed:
+      - Blood
+  how_used: To assess whether treatment is working or disease has recurred
+- name: CA19-9
+  key: ca19_9
+  cancer_types:
+      - Pancreatic cancer
+      - Gallbladder cancer
+      - Bile duct cancer
+      - Gastric cancer
+  tissue_analyzed:
+      - Blood
+  how_used: To assess whether treatment is working
+- name: CA125
+  key: ca125
+  cancer_types:
+      - Ovarian cancer
+  tissue_analyzed:
+      - Blood
+  how_used: To help in diagnosis, assessment of response to treatment, and evaluation of recurrence
+- name: Calcitonin
+  key: calcitonin
+  cancer_types:
+      - Medullary thyroid cancer
+  tissue_analyzed:
+      - Blood
+  how_used: To aid in diagnosis, check whether treatment is working, and assess recurrence
+- name: Carcinoembryonic antigen (CEA)
+  key: carcinoembryonic_antigen
+  cancer_types:
+      - Colorectal cancer
+  tissue_analyzed:
+      - Blood
+  how_used: To keep track of how well cancer treatments are working or check if cancer has come back
+- name: CD20
+  key: cd20
+  cancer_types:
+      - Non-Hodgkin lymphoma
+  tissue_analyzed:
+      - Blood
+  how_used: To determine whether treatment with a targeted therapy is appropriate
+- name: Chromogranin A (CgA)
+  key: chromogranin_a
+  cancer_types:
+      - Neuroendocrine tumors
+  tissue_analyzed:
+      - Blood
+  how_used: To help in diagnosis, assessment of treatment response, and evaluation of recurrence
+- name: Chromosomes 3, 7, 17, and 9p21
+  key: chromosomes_3_7_17_and_9p21
+  cancer_types:
+      - Bladder cancer
+  tissue_analyzed:
+      - Urine
+  how_used: To help in monitoring for tumor recurrence
+- name: Circulating tumor cells of epithelial origin (CELLSEARCH®)
+  key: circulating_tumor_cells_of_epithelial_origin
+  cancer_types:
+      - Metastatic breast cancer
+      - Prostate cancer
+      - Colorectal cancer
+  tissue_analyzed:
+      - Blood
+  how_used: To inform clinical decision making, and to assess prognosis
+- name: Cytokeratin fragment 21-1
+  key: cytokeratin_fragment_21_1
+  cancer_types:
+      - Lung cancer
+  tissue_analyzed:
+      - Blood
+  how_used: To help in monitoring for recurrence
+- name: EGFR gene mutation analysis
+  key: egfr_gene_mutation_analysis
+  cancer_types:
+      - Non-small cell lung cancer
+  tissue_analyzed:
+      - Tumor
+  how_used: To help determine treatment and prognosis
+- name: Estrogen receptor (ER)/progesterone receptor (PR)
+  key: estogen_receptor
+  cancer_types:
+      - Breast cancer
+  tissue_analyzed:
+      - Tumor
+  how_used: To determine whether treatment with hormone therapy and some targeted therapies is appropriate
+- name: Fibrin/fibrinogen
+  key: fibrin
+  cancer_types:
+      - Bladder cancer
+  tissue_analyzed:
+      - Urine
+  how_used: To monitor progression and response to treatment
+- name: HE4
+  key: he4
+  cancer_types:
+      - Ovarian cancer
+  tissue_analyzed:
+      - Blood
+  how_used: To plan cancer treatment, assess disease progression, and monitor for recurrence
+- name: HER2/neu gene amplification or protein overexpression
+  key: her2
+  cancer_types:
+      - Breast cancer
+      - Gastric cancer
+      - Gastroesophageal junction adenocarcinoma
+  tissue_analyzed:
+      - Tumor
+  how_used: To determine whether treatment with certain targeted therapies is appropriate
+- name: Immunoglobulins
+  key: immunoglobulins
+  cancer_types:
+      - Multiple myeloma
+      - Waldenström macroglobulinemia
+  tissue_analyzed:
+      - Blood
+      - Urine
+  how_used: To help diagnose disease, assess response to treatment, and look for recurrence
+- name: Lactate dehydrogenase
+  key: lactate_dehydrogenase
+  cancer_types:
+      - Germ cell tumors
+      - Lymphoma
+      - Leukemia
+      - Melanoma
+      - Neuroblastoma
+  tissue_analyzed:
+      - Blood
+  how_used: To assess stage, prognosis, and response to treatment
+- name: Neuron-specific enolase (NSE)
+  key: neuron_specific_enolase
+  cancer_types:
+      - Small cell lung cancer
+      - Neuroblastoma
+  tissue_analyzed:
+      - Blood
+  how_used: To help in diagnosis and to assess response to treatment
+- name: Nuclear matrix protein 22
+  key: nuclear_matrix_protein_22
+  cancer_types:
+      - Bladder cancer
+  tissue_analyzed:
+      - Urine
+  how_used: To monitor response to treatment
+- name: Programmed death ligand 1 (PD-L1)
+  key: programmed_death_ligand_1
+  cancer_types:
+      - Non-small cell lung cancer
+  tissue_analyzed:
+      - Tumor
+  how_used: To determine whether treatment with a particular type of targeted therapy is appropriate
+- name: Prostate-specific antigen (PSA)
+  key: prostate_specific_antigen
+  cancer_types:
+      - Prostate cancer
+  tissue_analyzed:
+      - Blood
+  how_used: To help in diagnosis, assess response to treatment, and look for recurrence
+- name: Thyroglobulin
+  key: thyroglobulin
+  cancer_types:
+      - Thyroid cancer
+  tissue_analyzed:
+      - Blood
+  how_used: To evaluate response to treatment and look for recurrence
+- name: Urokinase plasminogen activator (uPA) and plasminogen activator inhibitor (PAI-1)
+  key: urokinase_plasminogen_activator_and_plasminogen_activator_inhibitor
+  cancer_types:
+      - Breast cancer
+  tissue_analyzed:
+      - Tumor
+  how_used: To determine aggressiveness of cancer and guide treatment
+- name: 5-Protein signature (OVA1®)
+  key: 5_protein_signature
+  cancer_types:
+      - Ovarian cancer
+  tissue_analyzed:
+      - Blood
+  how_used: To pre-operatively assess pelvic mass for suspected ovarian cancer
+- name: 21-Gene signature (Oncotype DX®)
+  key: 21_gene_signature
+  cancer_types:
+      - Breast cancer
+  tissue_analyzed:
+      - Tumor
+  how_used: To evaluate risk of recurrence
+- name: 70-Gene signature (Mammaprint®)
+  key: 70_gene_signature
+  cancer_types:
+      - Breast cancer
+  tissue_analyzed:
+      - Tumor
+  how_used: To evaluate risk of recurrence
