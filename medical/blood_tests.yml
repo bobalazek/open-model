@@ -56,6 +56,10 @@
   key: methylmalonic_acid
   name_short: MMA
   group: cardiac
+- name: Lactate Dehydrogenase
+  key: lactate_dehydrogenase
+  name_short: LDH
+  group: cardiac
 # Complete Blood Count
 - name: Red Blood Cells
   key: red_blood_cells
@@ -362,11 +366,6 @@
   key: anti_peroxidase_antibodies
   name_short: TPOAb
   group: thyroid
-# Ubiquitous
-- name: Lactate Dehydrogenase
-  key: lactate_dehydrogenase
-  name_short: LDH
-  group: ubiquitous
 # Vitamins
 - name: Vitamin D
   key: vitamin_d
