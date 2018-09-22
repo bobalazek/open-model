@@ -284,6 +284,18 @@
   key: amylase
   name_short: Amy
   group: liver
+- name: Alpha Amylase
+  key: alpha_amylase
+  name_short: α-Amy
+  group: liver
+- name: Beta Amylase
+  key: beta_amylase
+  name_short: β-Amy
+  group: liver
+- name: Gamma Amylase
+  key: gamma_amylase
+  name_short: γ-Amy
+  group: liver
 - name: Lipase
   key: lipase
   name_short: Lip
