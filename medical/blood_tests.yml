@@ -199,6 +199,10 @@
   key: adrenocorticotropic_hormone
   name_short: ACTH
   group: hormone
+- name: Growth hormone
+  key: growth_hormone
+  name_short: GH
+  group: hormone
 # Inflammation
 - name: C-Reactive Protein
   key: c_reactive_protein
