@@ -203,6 +203,14 @@
   key: growth_hormone
   name_short: GH
   group: hormone
+- name: Luteinizing hormone
+  key: luteinizing_hormone
+  name_short: LH
+  group: hormone
+- name: Follicle-stimulating hormone
+  key: follicle_stimulating_hormone
+  name_short: FSH
+  group: hormone
 # Inflammation
 - name: C-Reactive Protein
   key: c_reactive_protein
