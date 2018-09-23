@@ -195,6 +195,10 @@
   key: human_chorionic_gonadotropin
   name_short: hCG
   group: hormone
+- name: Adrenocorticotropic hormone
+  key: adrenocorticotropic_hormone
+  name_short: ACTH
+  group: hormone
 # Inflammation
 - name: C-Reactive Protein
   key: c_reactive_protein
