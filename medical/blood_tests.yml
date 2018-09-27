@@ -211,6 +211,10 @@
   key: follicle_stimulating_hormone
   name_short: FSH
   group: hormone
+- name: Sex Hormone Binding Globulin
+  key: sex_hormone_binding_globulin
+  name_short: SHBG
+  group: hormone
 # Inflammation
 - name: C-Reactive Protein
   key: c_reactive_protein
