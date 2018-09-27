@@ -215,6 +215,10 @@
   key: sex_hormone_binding_globulin
   name_short: SHBG
   group: hormone
+- name: Cortisol
+  key: cortisol
+  name_short: Cort
+  group: hormone
 # Inflammation
 - name: C-Reactive Protein
   key: c_reactive_protein
