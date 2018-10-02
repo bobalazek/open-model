@@ -240,6 +240,10 @@
   key: troponin
   name_short: Trop
   group: inflammation
+- name: D-dimer
+  key: d_dimer
+  name_short: D-Dim
+  group: inflammation
 # Iron Profile
 - name: Ferritin
   key: ferritin
