@@ -60,10 +60,6 @@
   key: lactate_dehydrogenase
   name_short: LDH
   group: cardiac
-- name: Troponin
-  key: troponin
-  name_short: Trop
-  group: cardiac
 # Complete Blood Count
 - name: Red Blood Cells
   key: red_blood_cells
@@ -239,6 +235,10 @@
 - name: 2 Hours Erythrocyte Sedimentation Rate
   key: 2_hours_erythrocyte_sedimentation_rate
   name_short: 2h ESR
+  group: inflammation
+- name: Troponin
+  key: troponin
+  name_short: Trop
   group: inflammation
 # Iron Profile
 - name: Ferritin
