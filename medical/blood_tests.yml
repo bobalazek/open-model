@@ -60,6 +60,10 @@
   key: lactate_dehydrogenase
   name_short: LDH
   group: cardiac
+- name: Troponin
+  key: troponin
+  name_short: Trop
+  group: cardiac
 # Complete Blood Count
 - name: Red Blood Cells
   key: red_blood_cells
