@@ -175,6 +175,10 @@
   key: insulin_like_growth_factor_1
   name_short: IGF-1
   group: hormone
+- name: Insulin-like Growth Factor-2
+  key: insulin_like_growth_factor_2
+  name_short: IGF-2
+  group: hormone
 - name: Parathyroid Hormone
   key: parathyroid_hormone
   name_short: PTH
