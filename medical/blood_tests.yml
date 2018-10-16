@@ -79,7 +79,11 @@
   group: complete_blood_count
 - name: Mean Corpuscular Hemoglobin
   key: mean_corpuscular_hemoglobin
-  name_short: MCV
+  name_short: MCH
+  group: complete_blood_count
+- name: Mean Corpuscular Hemoglobin Concentration
+  key: mean_corpuscular_hemoglobin_concentration
+  name_short: MCHC
   group: complete_blood_count
 - name: Red Blood Cell Distribution Width
   key: red_blood_cell_distribution_width
