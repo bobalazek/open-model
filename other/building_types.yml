@@ -113,7 +113,13 @@ industrial: Industrial
 industrial.brewery: Industrial > Brewery
 industrial.factory: Industrial > Factory
 industrial.foundry: Industrial > Foundry
-industrial.power_plant: Industrial > Power plant
+industrial.power_station: Industrial > Power station
+industrial.power_station.fossil_fuel: Industrial > Power station > Fossil fuel
+industrial.power_station.nuclear: Industrial > Power station > Nuclear
+industrial.power_station.geothermal: Industrial > Power station > Geothermal
+industrial.power_station.biomass_fuelled: Industrial > Power station > Biomass-fuelled
+industrial.power_station.waste_heat: Industrial > Power station > Waste heat
+industrial.power_station.renewable_enery: Industrial > Power station > Renewable energy
 industrial.winery: Industrial > Winery
 industrial.mill: Industrial > Mill
 industrial.mill.milling: Industrial > Mill > Milling
@@ -173,12 +179,3 @@ transport.parking_garage: Transport > Parking_ garage
 # Infrastructure
 infrastructure: Infrastructure
 infrastructure.data_centre: Infrastructure > Data centre
-
-# Power station / plant
-power_station_plant: Power station
-power_station_plant.fossil_fuel: Power station > Fossil fuel
-power_station_plant.nuclear: Power station > Nuclear
-power_station_plant.geothermal: Power station > Geothermal
-power_station_plant.biomass_fuelled: Power station > Biomass-fuelled
-power_station_plant.waste_heat: Power station > Waste heat
-power_station_plant.renewable_enery: Power station > Renewable energy
