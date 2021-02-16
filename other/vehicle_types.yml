@@ -1,10 +1,15 @@
-# Motor vehicle
-motor_vehicle: Motor vehicle
-motor_vehicle.car: Motor vehicle > Car
-motor_vehicle.motorcycle: Motor vehicle > Motorcycle
-motor_vehicle.motorhome: Motor vehicle > Motorhome
-motor_vehicle.truck: Motor vehicle > Truck
-motor_vehicle.bus: Motor vehicle > Bus
+# Landcraft
+landcraft: Landcraft
+landcraft.car: Landcraft > Car
+landcraft.motorcycle: Landcraft > Motorcycle
+landcraft.motorhome: Landcraft > Motorhome
+landcraft.truck: Landcraft > Truck
+landcraft.bus: Landcraft > Bus
+landcraft.bicycle: Landcraft > Bicycle
+landcraft.wagon: Landcraft > Wagon
+landcraft.railed_vehicle: Landcraft > Railed vehicle
+landcraft.railed_vehicle.train: Landcraft > Railed vehicle > Train
+landcraft.railed_vehicle.tram: Landcraft > Railed vehicle > Tram
 
 # Watercraft
 watercraft: Watercraft
@@ -33,17 +38,6 @@ aircraft.glider.paraglider: Aircraft > Glider > Paraglider
 aircraft.glider.hang_glider: Aircraft > Glider > Hang glider
 aircraft.glider.sailplane: Aircraft > Glider > Sailplane
 aircraft.glider.ultralight: Aircraft > Glider > Ultralight
-
-# Wagon
-wagon: Wagon
-
-# Bicycle
-bicycle: Bicycle
-
-# Railed vehicle
-railed_vehicle: Railed vehicle
-railed_vehicle.train: Railed vehicle > Train
-railed_vehicle.tram: Railed vehicle > Tram
 
 # Spacecraft
 spacecraft: Spacecraft
